@@ -49,8 +49,8 @@ const Row = memo(function Row({
       </div>
       {(mark?.favorite || mark?.difficult || !!mark?.recordings) && (
         <div className="marks" aria-hidden>
-          {mark?.favorite && <Star size={13} fill="currentColor" style={{ color: 'var(--fav)' }} />}
-          {mark?.difficult && <Flag size={13} fill="currentColor" style={{ color: 'var(--warn)' }} />}
+          {mark?.favorite && <Star size={13} fill="currentColor" style={{ color: 'var(--text-primary)' }} />}
+          {mark?.difficult && <Flag size={13} fill="currentColor" style={{ color: 'var(--coral)' }} />}
           {!!mark?.recordings && <Mic size={13} />}
         </div>
       )}

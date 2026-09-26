@@ -3,7 +3,7 @@ import type { Lesson } from '@/domains/lesson/types';
 import type { MediaPlayer } from '@/domains/media/types';
 import type { StudyEngine } from '@/domains/study/engine';
 import { indexAt } from '@/domains/study/engine';
-import { coverIcon, coverStyle } from '@/ui/LessonTile';
+import { AudioLines } from 'lucide-react';
 import { fmtTime } from '@/ui/format';
 import { useMediaTime } from './usePlayer';
 import { useT } from '@/app/i18n';
@@ -43,19 +43,28 @@ export function MediaStage({
     );
   }
   return (
-    <div className="audio-stage" style={coverStyle(lesson.id)}>
+    <div className="audio-stage">
       <audio ref={mediaRef as RefObject<HTMLAudioElement>} src={src} preload="auto" />
-      {!compact && <div className="art" aria-hidden style={{ background: 'rgb(255 255 255 / 0.45)' }}>{coverIcon(lesson)}</div>}
-      <div className="info" style={{ color: '#1f2328' }}>
-        {lesson.source.synthetic && <div className="xs" style={{ opacity: 0.7, marginBottom: 2 }} title={t('lesson.syntheticHint')}>🔊 {t('lesson.synthetic')}</div>}
-        <Scrub lesson={lesson} player={player} engine={engine} playing={playing} index={index} light />
+      <span className="motif ring" aria-hidden />
+      {!compact && (
+        <span className="icon-box brand-icon" aria-hidden>
+          <img src={`${import.meta.env.BASE_URL}brand/icon-study.svg`} alt="" />
+        </span>
+      )}
+      <div className="info">
+        {lesson.source.synthetic && (
+          <div className="voice-label" title={t('lesson.syntheticHint')}>
+            <AudioLines size={14} aria-hidden /> {t('lesson.synthetic')}
+          </div>
+        )}
+        <Scrub lesson={lesson} player={player} engine={engine} playing={playing} index={index} />
       </div>
     </div>
   );
 }
 
 /** Timeline with the active sentence highlighted; clicks snap to sentence starts. */
-function Scrub({ lesson, player, engine, playing, index, light }: { lesson: Lesson; player?: MediaPlayer; engine?: StudyEngine; playing: boolean; index: number; light?: boolean }) {
+function Scrub({ lesson, player, engine, playing, index }: { lesson: Lesson; player?: MediaPlayer; engine?: StudyEngine; playing: boolean; index: number }) {
   const t = useMediaTime(player, playing);
   const dur = player?.getDuration() || lesson.durationSec || 1;
   const s = lesson.sentences[index];
@@ -68,12 +77,12 @@ function Scrub({ lesson, player, engine, playing, index, light }: { lesson: Less
   return (
     <div>
       <div className="scrub" onPointerDown={onPointer} role="slider" aria-valuemin={0} aria-valuemax={Math.round(dur)} aria-valuenow={Math.round(t)} aria-label="timeline" tabIndex={-1}>
-        <div className="track" style={light ? { background: 'rgb(0 0 0 / 0.12)' } : undefined}>
+        <div className="track">
           {s && <div className="seg-active" style={{ left: `${(s.start / dur) * 100}%`, width: `${((s.end - s.start) / dur) * 100}%` }} />}
           <div className="fill" style={{ width: `${Math.min(100, (t / dur) * 100)}%` }} />
         </div>
       </div>
-      <div className="times" style={light ? { color: 'rgb(0 0 0 / 0.55)' } : undefined}>
+      <div className="times">
         <span>{fmtTime(t)}</span>
         <span>{fmtTime(dur)}</span>
       </div>

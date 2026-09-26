@@ -6,7 +6,6 @@ import { cuesToSrt, wordsToCues, type AsrStage } from '@/domains/transcript/asr'
 import { browserProvider, localServerProvider, serverHealth, type ServerHealth } from '@/domains/transcript/providers';
 import type { TargetLang } from '@/languages/types';
 import { TARGET_LANGS } from '@/languages/registry';
-import { FLAG } from '@/ui/format';
 
 /**
  * "Auto-transcribe" on the Import page. Prefers the local faster-whisper
@@ -66,10 +65,10 @@ export function AutoTranscribe({
   return (
     <div className="asr-box stack" style={{ gap: 10 }}>
       <div className="row wrap" style={{ gap: 8 }}>
-        <Sparkles size={18} style={{ color: 'var(--accent)' }} />
+        <span className="icon-box" style={{ width: 36, height: 36, borderRadius: 11 }} aria-hidden><Sparkles size={18} /></span>
         <strong className="grow">{t('asr.title')}</strong>
         <select className="input" style={{ width: 'auto', minHeight: 34, padding: '2px 10px' }} value={lang} onChange={(e) => setLang(e.target.value as TargetLang)} aria-label={t('import.language')}>
-          {TARGET_LANGS.map((l) => <option key={l} value={l}>{FLAG[l]} {t(`lang.${l}`)}</option>)}
+          {TARGET_LANGS.map((l) => <option key={l} value={l}>{t(`lang.${l}`)}</option>)}
         </select>
         <div className="seg" role="radiogroup" aria-label={t('asr.quality')}>
           {(['accurate', 'fast'] as const).map((q) => (
@@ -85,7 +84,7 @@ export function AutoTranscribe({
         {health === undefined ? (
           <span className="muted">{t('common.loading')}</span>
         ) : engine === 'server' ? (
-          <><Cpu size={16} style={{ color: 'var(--accent)', flexShrink: 0 }} /> <span>{t('asr.engineServer')}</span></>
+          <><Cpu size={16} style={{ color: 'var(--status-success-text)', flexShrink: 0 }} /> <span>{t('asr.engineServer')}</span></>
         ) : (
           <div className="stack" style={{ gap: 4 }}>
             <span className="muted">{t('asr.serverOff')} <code className="code">npm run transcriber</code></span>
@@ -101,7 +100,7 @@ export function AutoTranscribe({
 
       {state ? (
         <div className="row" style={{ gap: 10 }}>
-          <div className="meter" style={{ height: 8 }}><i style={{ width: `${Math.round(state.progress * 100)}%`, background: 'var(--accent)' }} /></div>
+          <div className="meter" style={{ height: 8 }}><i style={{ width: `${Math.round(state.progress * 100)}%`, background: 'var(--chotto-violet)' }} /></div>
           <span className="small" style={{ minWidth: 150 }}>{t(`asr.stage.${state.stage}`)} {Math.round(state.progress * 100)}%</span>
           <button className="btn sm" onClick={() => abort.current?.abort()}>
             <Square size={12} fill="currentColor" /> {t('asr.cancel')}

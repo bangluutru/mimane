@@ -23,6 +23,10 @@ const en = {
     empty: 'No lessons for this language yet.',
     importCta: 'Import your own video or audio',
     greeting: 'What would you like to listen to today?',
+    lead: 'Listen, read along, then speak — one sentence at a time. Pick something you actually enjoy.',
+    recommendedDesc: 'Matched to your level and interests.',
+    topicsDesc: 'Learners keep going longer with topics they care about.',
+    privacy: 'Your progress and recordings stay on this device.',
   },
   lesson: {
     sentences: '{n} sentences',
@@ -145,6 +149,7 @@ const en = {
     settings: 'Transcription', serverUrl: 'Local transcriber URL', check: 'Check', online: 'Connected', offline: 'Not running',
     settingsHint: 'Speech recognition runs on your own computer (faster-whisper). Audio is never uploaded to a cloud service.',
   },
+  brand: { band: 'More help for life in Japan', bandSub: 'chottoday.com — visas, tax, insurance and paperwork, in Vietnamese', by: 'by' },
   onboarding: {
     welcome: 'Learn by listening to what you love', intro: 'Pick your languages, your level, and topics you enjoy. You can change this anytime.',
     level: 'My level', interests: 'What are you interested in?', start: 'Start learning', next: 'Next', back: 'Back',
@@ -190,6 +195,10 @@ const vi: DeepPartial<Dict> = {
     deepEmpty: 'Chưa có bài dài. Hãy nhập một bài nói hoặc podcast để luyện nghe sâu.',
     empty: 'Chưa có bài học cho ngôn ngữ này.', importCta: 'Nhập video hoặc audio của bạn',
     greeting: 'Hôm nay bạn muốn nghe gì?',
+    lead: 'Nghe, đọc theo, rồi nói — từng câu một. Chọn nội dung bạn thật sự thích.',
+    recommendedDesc: 'Hợp với trình độ và sở thích của bạn.',
+    topicsDesc: 'Nghe chủ đề mình thích thì dễ học đều hơn.',
+    privacy: 'Tiến độ và bản ghi âm chỉ lưu trên thiết bị này.',
   },
   lesson: {
     sentences: '{n} câu', synthetic: 'Giọng tổng hợp',
@@ -279,6 +288,7 @@ const vi: DeepPartial<Dict> = {
     settings: 'Nhận dạng giọng nói', serverUrl: 'Địa chỉ trình nhận dạng cục bộ', check: 'Kiểm tra', online: 'Đã kết nối', offline: 'Chưa chạy',
     settingsHint: 'Nhận dạng giọng nói chạy trên chính máy của bạn (faster-whisper). Audio không bao giờ được tải lên dịch vụ đám mây.',
   },
+  brand: { band: 'Thêm công cụ cho cuộc sống ở Nhật', bandSub: 'chottoday.com — visa, thuế, bảo hiểm, thủ tục hành chính', by: 'bởi' },
   onboarding: {
     welcome: 'Học bằng cách nghe những gì bạn yêu thích', intro: 'Chọn ngôn ngữ, trình độ và chủ đề bạn thích. Có thể đổi bất cứ lúc nào.',
     level: 'Trình độ của tôi', interests: 'Bạn quan tâm đến chủ đề nào?', start: 'Bắt đầu học', next: 'Tiếp', back: 'Quay lại',
@@ -317,6 +327,10 @@ const ja: DeepPartial<Dict> = {
     shortHint: '3分未満', deep: 'じっくりリスニング', deepHint: '10分以上',
     deepEmpty: '長いレッスンはまだありません。講演やポッドキャストを取り込んでみましょう。',
     empty: 'この言語のレッスンはまだありません。', importCta: '自分の動画・音声を取り込む', greeting: '今日は何を聞きますか？',
+    lead: '聞いて、読んで、声に出す。一文ずつ。好きな内容を選びましょう。',
+    recommendedDesc: 'あなたのレベルと興味に合わせて。',
+    topicsDesc: '好きなテーマなら続けやすい。',
+    privacy: '進捗と録音はこの端末にだけ保存されます。',
   },
   lesson: {
     sentences: '{n}文', synthetic: '合成音声', syntheticHint: '合成音声のデモレッスンです。自然な発話は実際の録音を取り込んでください。',
@@ -399,6 +413,7 @@ const ja: DeepPartial<Dict> = {
     settings: '文字起こし', serverUrl: 'ローカルサーバーURL', check: '確認', online: '接続済み', offline: '未起動',
     settingsHint: '音声認識はあなたのパソコン上（faster-whisper）で行われ、音声がクラウドに送られることはありません。',
   },
+  brand: { band: '日本での暮らしをもっと手軽に', bandSub: 'chottoday.com — ビザ・税金・保険・手続きの情報（ベトナム語）', by: 'by' },
   onboarding: {
     welcome: '好きなものを聞いて学ぶ', intro: '言語・レベル・好きなトピックを選んでください。後で変更できます。',
     level: '自分のレベル', interests: '興味のあるトピックは？', start: '学習を始める', next: '次へ', back: '戻る',

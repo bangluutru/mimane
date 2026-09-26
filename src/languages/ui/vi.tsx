@@ -130,7 +130,7 @@ export const viUI: LanguageUI = {
         {notes.length > 0 && (
           <details style={{ marginTop: 10 }}>
             <summary className="small" style={{ cursor: 'pointer', fontWeight: 600 }}>{t('vocab.regional')} · {t(`accent.${region}`)}</summary>
-            <ul className="small" style={{ margin: '6px 0 0', paddingLeft: 18, color: 'var(--ink-2)' }}>
+            <ul className="small" style={{ margin: '6px 0 0', paddingLeft: 18, color: 'var(--text-secondary)' }}>
               {notes.map((n, i) => (
                 <li key={i}>{pick(n.text, ui)}</li>
               ))}

@@ -77,7 +77,7 @@ export function VocabSheet({ lesson, sentenceIndex, tokenIndex, onClose, onPlayS
       ) : (
         <p className="muted small" style={{ marginTop: 8 }}>{t('vocab.noMeaning')}</p>
       )}
-      {entry?.note && pick(entry.note, ui) && <p className="small" style={{ marginTop: 6, color: 'var(--ink-2)' }}>{pick(entry.note, ui)}</p>}
+      {entry?.note && pick(entry.note, ui) && <p className="small" style={{ marginTop: 6, color: 'var(--text-secondary)' }}>{pick(entry.note, ui)}</p>}
 
       <UI.VocabBody token={token} entry={entry} lesson={lesson} ui={ui} t={t} />
 

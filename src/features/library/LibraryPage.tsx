@@ -11,7 +11,7 @@ import { getAdapter, TARGET_LANGS } from '@/languages/registry';
 import type { AccentId, TargetLang } from '@/languages/types';
 import { useLive } from '@/ui/hooks';
 import { LessonTile } from '@/ui/LessonTile';
-import { FLAG } from '@/ui/format';
+import { LangMark } from '@/ui/brand';
 
 export default function LibraryPage() {
   const t = useT();
@@ -45,7 +45,7 @@ export default function LibraryPage() {
     <div className="stack" style={{ gap: 16 }}>
       <h1>{t('library.title')}</h1>
       <label className="row" style={{ position: 'relative' }}>
-        <Search size={18} style={{ position: 'absolute', left: 14, color: 'var(--muted)' }} aria-hidden />
+        <Search size={18} style={{ position: 'absolute', left: 14, color: 'var(--text-muted)' }} aria-hidden />
         <input className="input" style={{ paddingLeft: 40 }} type="search" placeholder={t('library.search')} value={q.text} onChange={(e) => set('q', e.target.value)} aria-label={t('library.search')} />
       </label>
 
@@ -53,27 +53,27 @@ export default function LibraryPage() {
         <div className="row wrap">
           {TARGET_LANGS.map((l) => (
             <button key={l} className={`chip${lang === l ? ' on' : ''}`} onClick={() => set('lang', l)}>
-              {FLAG[l]} {t(`lang.${l}`)}
+              <LangMark lang={l} /> {t(`lang.${l}`)}
             </button>
           ))}
         </div>
         <div className="row wrap">
-          <select className="input" style={{ width: 'auto', minHeight: 36, padding: '4px 12px' }} value={q.level ?? ''} onChange={(e) => set('level', e.target.value)} aria-label={t('import.level')}>
+          <select className="input" style={{ width: 'auto', minHeight: 40, padding: '6px 12px', fontSize: 14 }} value={q.level ?? ''} onChange={(e) => set('level', e.target.value)} aria-label={t('import.level')}>
             <option value="">{t('library.anyLevel')}</option>
             {exploreLevels(lang).map((l) => <option key={l.id} value={l.id}>{l.label}</option>)}
           </select>
-          <select className="input" style={{ width: 'auto', minHeight: 36, padding: '4px 12px' }} value={q.category ?? ''} onChange={(e) => set('category', e.target.value)} aria-label={t('import.categories')}>
+          <select className="input" style={{ width: 'auto', minHeight: 40, padding: '6px 12px', fontSize: 14 }} value={q.category ?? ''} onChange={(e) => set('category', e.target.value)} aria-label={t('import.categories')}>
             <option value="">{t('library.anyTopic')}</option>
-            {CATEGORIES.map((c) => <option key={c.id} value={c.id}>{c.icon} {pick(c.label, profile.supportLanguage)}</option>)}
+            {CATEGORIES.map((c) => <option key={c.id} value={c.id}>{pick(c.label, profile.supportLanguage)}</option>)}
           </select>
-          <select className="input" style={{ width: 'auto', minHeight: 36, padding: '4px 12px' }} value={q.duration ?? ''} onChange={(e) => set('duration', e.target.value)} aria-label="duration">
+          <select className="input" style={{ width: 'auto', minHeight: 40, padding: '6px 12px', fontSize: 14 }} value={q.duration ?? ''} onChange={(e) => set('duration', e.target.value)} aria-label="duration">
             <option value="">{t('library.anyLength')}</option>
             <option value="short">{t('library.short')}</option>
             <option value="medium">{t('library.medium')}</option>
             <option value="deep">{t('library.deep')}</option>
           </select>
           {getAdapter(lang).accents.length > 1 && (
-            <select className="input" style={{ width: 'auto', minHeight: 36, padding: '4px 12px' }} value={q.accent ?? ''} onChange={(e) => set('accent', e.target.value)} aria-label={t('import.accent')}>
+            <select className="input" style={{ width: 'auto', minHeight: 40, padding: '6px 12px', fontSize: 14 }} value={q.accent ?? ''} onChange={(e) => set('accent', e.target.value)} aria-label={t('import.accent')}>
               <option value="">{t('library.anyAccent')}</option>
               {getAdapter(lang).accents.map((a) => <option key={a} value={a}>{t(`accent.${a}`)}</option>)}
             </select>

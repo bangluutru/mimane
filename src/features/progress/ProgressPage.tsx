@@ -1,3 +1,4 @@
+import { Check } from 'lucide-react';
 import { useT } from '@/app/i18n';
 import { getStats, listLessonProgress } from '@/domains/progress/repo';
 import { listLessons } from '@/domains/lesson/repo';
@@ -40,7 +41,7 @@ export default function ProgressPage() {
                 <div key={p.lessonId} className="row" style={{ gap: 12 }}>
                   <div className="grow"><LessonTile lesson={l} wide progress={pct} /></div>
                   <span className="xs muted" style={{ textAlign: 'right', minWidth: 72 }}>
-                    {p.completed ? `✓ ${t('lesson.completed')}` : t('lesson.progress', { n: Math.round((p.practicedSentenceIds.length / l.sentenceCount) * 100) })}
+                    {p.completed ? <><Check size={13} style={{ verticalAlign: -2 }} aria-hidden /> {t('lesson.completed')}</> : t('lesson.progress', { n: Math.round((p.practicedSentenceIds.length / l.sentenceCount) * 100) })}
                   </span>
                 </div>
               );

@@ -12,7 +12,7 @@ import type { Lesson } from '@/domains/lesson/types';
 import { getLanguageUI } from '@/languages/ui/registry';
 import { useLive } from '@/ui/hooks';
 import { Wave } from '@/features/player/RecordingPanel';
-import { FLAG } from '@/ui/format';
+import { LangMark } from '@/ui/brand';
 
 type Tab = 'difficult' | 'favorites' | 'vocabulary' | 'recordings';
 
@@ -38,7 +38,7 @@ function SentenceItem({ lesson, sentenceId, icon }: { lesson: Lesson; sentenceId
           <UI.SentenceView sentence={s} variant="list" display={display} accent={lesson.accent} />
         </div>
         {tr && s.translations[tr] && <p className="small muted">{s.translations[tr]}</p>}
-        <p className="xs muted" style={{ marginTop: 4 }}>{FLAG[lesson.targetLanguage]} {lesson.title.original}</p>
+        <p className="xs muted row" style={{ marginTop: 6 }}><LangMark lang={lesson.targetLanguage} /> {lesson.title.original}</p>
       </div>
       <Link className="btn sm" to={`/lesson/${encodeURIComponent(lesson.id)}?s=${s.index}&mode=shadow`}>
         <Play size={14} /> {t('review.practice')}
@@ -92,7 +92,7 @@ export default function ReviewPage() {
               const l = marks.lessons.get(m.lessonId);
               return l ? (
                 <SentenceItem key={m.sentenceId} lesson={l} sentenceId={m.sentenceId}
-                  icon={tab === 'difficult' ? <Flag size={16} style={{ color: 'var(--warn)' }} fill="currentColor" /> : <Star size={16} style={{ color: 'var(--fav)' }} fill="currentColor" />} />
+                  icon={tab === 'difficult' ? <Flag size={16} style={{ color: 'var(--coral)' }} fill="currentColor" /> : <Star size={16} style={{ color: 'var(--text-primary)' }} fill="currentColor" />} />
               ) : null;
             })}
           </div>
@@ -108,7 +108,7 @@ export default function ReviewPage() {
               const meaning = w.entry?.meanings[ui] ?? w.meaning;
               return (
                 <div key={w.id} className="review-item">
-                  <span style={{ fontSize: '1.2rem' }}>{FLAG[w.lang]}</span>
+                  <LangMark lang={w.lang} />
                   <div className="grow">
                     <div className="row" style={{ gap: 10, alignItems: 'baseline', flexWrap: 'wrap' }}>
                       <strong style={{ fontSize: '1.2rem' }} lang={w.lang}>{w.lemma}</strong>

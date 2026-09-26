@@ -1,5 +1,6 @@
+import type { ReactNode } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { Plus } from 'lucide-react';
+import { Clock, Compass, Headphones, History, Plus, Sparkles, TrendingUp, Zap } from 'lucide-react';
 import { useT, pick } from '@/app/i18n';
 import { useProfile } from '@/domains/user/profile';
 import { listLessons } from '@/domains/lesson/repo';
@@ -9,11 +10,26 @@ import { CATEGORY_BY_ID, FEATURED_TOPICS } from '@/domains/library/taxonomy';
 import { exploreLevels } from '@/languages/proficiency';
 import { useLive } from '@/ui/hooks';
 import { LessonTile } from '@/ui/LessonTile';
+import { ChottoBand, TopicIcon } from '@/ui/brand';
 import type { LessonMeta } from '@/domains/lesson/types';
 import type { LessonProgress } from '@/domains/progress/types';
 
 const pct = (p: LessonProgress | undefined, l: LessonMeta) =>
   p ? (p.completed ? 100 : Math.round(((p.lastSentenceIndex + 1) / Math.max(1, l.sentenceCount)) * 100)) : 0;
+
+/** Chotto SectionHead: icon box + section title + one-line description + "see all". */
+function SectionHead({ icon, title, desc, action }: { icon: ReactNode; title: string; desc?: string; action?: ReactNode }) {
+  return (
+    <div className="section-head">
+      <span className="icon-box" aria-hidden>{icon}</span>
+      <div className="titles">
+        <h2>{title}</h2>
+        {desc && <p className="desc">{desc}</p>}
+      </div>
+      {action}
+    </div>
+  );
+}
 
 export function HomePage() {
   const t = useT();
@@ -40,11 +56,17 @@ export function HomePage() {
 
   return (
     <div>
-      <h1 style={{ marginTop: 4 }}>{t('home.greeting')}</h1>
+      <section className="home-hero">
+        <span className="motif ring hero-ring" aria-hidden />
+        <span className="motif dot hero-dot" aria-hidden />
+        <p className="eyebrow">{t(`lang.${lang}`)} · {t('app.tagline')}</p>
+        <h1>{t('home.greeting')}</h1>
+        <p className="lead">{t('home.lead')}</p>
+      </section>
 
       {continuing.length > 0 && (
         <section className="section">
-          <div className="section-head"><h2>{t('home.continue')}</h2></div>
+          <SectionHead icon={<History size={22} />} title={t('home.continue')} />
           <div className="hscroll">
             {continuing.map((l) => <LessonTile key={l.id} lesson={l} progress={pct(byId.get(l.id), l)} />)}
           </div>
@@ -52,10 +74,12 @@ export function HomePage() {
       )}
 
       <section className="section">
-        <div className="section-head">
-          <h2>{t('home.recommended')}</h2>
-          <Link to={`/library?lang=${lang}`} className="small">{t('common.seeAll')}</Link>
-        </div>
+        <SectionHead
+          icon={<Sparkles size={22} />}
+          title={t('home.recommended')}
+          desc={t('home.recommendedDesc')}
+          action={<Link to={`/library?lang=${lang}`}>{t('common.seeAll')}</Link>}
+        />
         {recs.length ? (
           <div className="hscroll">
             {recs.map((r) => (
@@ -68,11 +92,11 @@ export function HomePage() {
       </section>
 
       <section className="section">
-        <div className="section-head"><h2>{t('home.topics')}</h2></div>
+        <SectionHead icon={<Compass size={22} />} title={t('home.topics')} desc={t('home.topicsDesc')} />
         <div className="topic-grid">
           {topics.map((c) => (
             <button key={c} className="topic" onClick={() => nav(`/library?lang=${lang}&category=${c}`)}>
-              <span className="ico" aria-hidden>{CATEGORY_BY_ID[c].icon}</span>
+              <span className="icon-box" aria-hidden><TopicIcon id={c} size={20} /></span>
               {pick(CATEGORY_BY_ID[c].label, profile.supportLanguage)}
             </button>
           ))}
@@ -80,14 +104,14 @@ export function HomePage() {
       </section>
 
       <section className="section">
-        <div className="section-head"><h2>{t('home.level')}</h2></div>
+        <SectionHead icon={<TrendingUp size={22} />} title={t('home.level')} />
         <div className="row wrap">
           {exploreLevels(lang).map((lv) => {
             const n = lessons.filter((l) => l.difficulty?.level === lv.id).length;
             return (
               <button key={lv.id} className={`chip${profile.levels[lang] === lv.id ? ' on' : ''}`} onClick={() => nav(`/library?lang=${lang}&level=${lv.id}`)}>
                 {lv.short}
-                <span className="muted xs">{n}</span>
+                <span className="count">{n}</span>
               </button>
             );
           })}
@@ -95,10 +119,7 @@ export function HomePage() {
       </section>
 
       <section className="section">
-        <div className="section-head">
-          <h2>{t('home.short')}</h2>
-          <span className="muted small">{t('home.shortHint')}</span>
-        </div>
+        <SectionHead icon={<Zap size={22} />} title={t('home.short')} desc={t('home.shortHint')} />
         {short.length ? (
           <div className="hscroll">
             {short.map((l) => <LessonTile key={l.id} lesson={l} progress={pct(byId.get(l.id), l)} />)}
@@ -109,10 +130,7 @@ export function HomePage() {
       </section>
 
       <section className="section">
-        <div className="section-head">
-          <h2>{t('home.deep')}</h2>
-          <span className="muted small">{t('home.deepHint')}</span>
-        </div>
+        <SectionHead icon={<Headphones size={22} />} title={t('home.deep')} desc={t('home.deepHint')} />
         {deep.length ? (
           <div className="hscroll">
             {deep.map((l) => <LessonTile key={l.id} lesson={l} progress={pct(byId.get(l.id), l)} />)}
@@ -120,11 +138,18 @@ export function HomePage() {
         ) : (
           <div className="empty">
             <p>{t('home.deepEmpty')}</p>
-            <Link to="/import" className="btn sm" style={{ marginTop: 12 }}>
+            <Link to="/import" className="btn sm" style={{ marginTop: 14 }}>
               <Plus size={16} /> {t('home.importCta')}
             </Link>
           </div>
         )}
+      </section>
+
+      <section className="section">
+        <ChottoBand />
+        <p className="xs muted" style={{ marginTop: 10, display: 'flex', alignItems: 'center', gap: 6 }}>
+          <Clock size={13} aria-hidden /> {t('home.privacy')}
+        </p>
       </section>
     </div>
   );

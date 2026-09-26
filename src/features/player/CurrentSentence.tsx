@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { Eye, Flag, Lightbulb, Star } from 'lucide-react';
+import { Eye, Flag, Lightbulb, Mic, Star } from 'lucide-react';
 import { pick, useT } from '@/app/i18n';
 import type { Lesson } from '@/domains/lesson/types';
 import type { SentenceMark } from '@/domains/progress/types';
@@ -15,7 +15,7 @@ function GapIndicator({ state }: { state: StudyState }) {
   if (state.phase !== 'gap') return null;
   return (
     <span className="turn" aria-live="polite">
-      🗣 {t('player.yourTurn')}
+      <Mic size={16} aria-hidden /> {t('player.yourTurn')}
       <span className="bar">
         <i key={state.gapStartedAt} style={{ animation: `shrink ${state.gapDuration}s linear forwards` }} />
       </span>
@@ -86,7 +86,7 @@ export function CurrentSentence({
         <button className={`icon-btn sm${mark?.favorite ? ' on' : ''}`} onClick={() => toggleFavorite(lesson.id, s.id)} aria-label={t('player.favorite')} aria-pressed={!!mark?.favorite}>
           <Star size={18} fill={mark?.favorite ? 'currentColor' : 'none'} />
         </button>
-        <button className={`icon-btn sm${mark?.difficult ? ' on' : ''}`} onClick={() => toggleDifficult(lesson.id, s.id)} aria-label={t('player.difficult')} aria-pressed={!!mark?.difficult} style={mark?.difficult ? { color: 'var(--warn)', background: 'var(--warn-soft)' } : undefined}>
+        <button className={`icon-btn sm${mark?.difficult ? ' on' : ''}`} onClick={() => toggleDifficult(lesson.id, s.id)} aria-label={t('player.difficult')} aria-pressed={!!mark?.difficult} style={mark?.difficult ? { color: 'var(--coral-text)', background: 'var(--coral-bg)' } : undefined}>
           <Flag size={18} fill={mark?.difficult ? 'currentColor' : 'none'} />
         </button>
       </div>

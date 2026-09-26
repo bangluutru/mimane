@@ -9,7 +9,7 @@ import { deleteAllRecordings } from '@/domains/recording/repo';
 import { db } from '@/domains/storage/db';
 import { Toggle } from '@/ui/Sheet';
 import { toast } from '@/ui/toast';
-import { FLAG } from '@/ui/format';
+import { ChottoBand, LangMark } from '@/ui/brand';
 import { useEffect, useState } from 'react';
 import { serverHealth } from '@/domains/transcript/providers';
 
@@ -82,7 +82,7 @@ export default function SettingsPage() {
           <div className="seg" style={{ alignSelf: 'flex-start' }}>
             {SPEAK.map((s) => (
               <button key={s.id} className={p.supportLanguage === s.id ? 'on' : ''} onClick={() => p.update({ supportLanguage: s.id, targetLanguage: p.targetLanguage === s.id ? (s.id === 'vi' ? 'ja' : 'vi') : p.targetLanguage })}>
-                {FLAG[s.id]} {s.label}
+                {s.label}
               </button>
             ))}
           </div>
@@ -90,7 +90,7 @@ export default function SettingsPage() {
         </div>
         {TARGET_LANGS.filter((l) => l !== p.supportLanguage).map((l) => (
           <label key={l} className="field">
-            <span>{FLAG[l]} {t(`lang.${l}`)} · {t('onboarding.level')}</span>
+            <span className="row"><LangMark lang={l} /> {t(`lang.${l}`)} · {t('onboarding.level')}</span>
             <select className="input" value={p.levels[l] ?? ''} onChange={(e) => p.update({ levels: { ...p.levels, [l]: e.target.value } })}>
               {FRAMEWORKS[FRAMEWORK_FOR[l]].levels.map((lv) => <option key={lv.id} value={lv.id}>{lv.label}</option>)}
             </select>
@@ -103,7 +103,7 @@ export default function SettingsPage() {
               const on = p.interests.includes(c.id);
               return (
                 <button key={c.id} className={`chip${on ? ' on' : ''}`} aria-pressed={on} onClick={() => p.update({ interests: on ? p.interests.filter((x) => x !== c.id) : [...p.interests, c.id] })}>
-                  {c.icon} {pick(c.label, p.supportLanguage)}
+                  {pick(c.label, p.supportLanguage)}
                 </button>
               );
             })}
@@ -115,7 +115,7 @@ export default function SettingsPage() {
         <h2>{t('settings.display')}</h2>
         <Toggle label={t('player.showTranslation')} checked={p.display.showTranslation} onChange={(v) => p.setDisplay({ showTranslation: v })} />
         <Toggle label={t('player.showPronunciation')} checked={p.display.showPronunciation} onChange={(v) => p.setDisplay({ showPronunciation: v })} />
-        <p className="small muted" style={{ marginTop: 8 }}>{FLAG[p.targetLanguage]} {t(`lang.${p.targetLanguage}`)}</p>
+        <p className="small muted row" style={{ marginTop: 8 }}><LangMark lang={p.targetLanguage} /> {t(`lang.${p.targetLanguage}`)}</p>
         <UI.DisplaySettings display={p.display} setDisplay={p.setDisplay} t={t} />
       </section>
 
@@ -125,7 +125,7 @@ export default function SettingsPage() {
         <h2>{t('settings.privacy')}</h2>
         <p className="small">{t('settings.privacyText')}</p>
         <div className="row wrap">
-          <button className="btn sm" onClick={async () => { if (confirm(t('review.deleteAllConfirm'))) { await deleteAllRecordings(); toast('✓'); } }}>{t('settings.deleteRecordings')}</button>
+          <button className="btn sm" onClick={async () => { if (confirm(t('review.deleteAllConfirm'))) { await deleteAllRecordings(); toast(t('settings.done')); } }}>{t('settings.deleteRecordings')}</button>
           <button className="btn sm danger" onClick={resetAll}>{t('settings.deleteAll')}</button>
         </div>
       </section>
@@ -134,6 +134,8 @@ export default function SettingsPage() {
         <h2>{t('settings.about')}</h2>
         <p className="small muted">{t('settings.credits')}</p>
       </section>
+
+      <ChottoBand />
     </div>
   );
 }

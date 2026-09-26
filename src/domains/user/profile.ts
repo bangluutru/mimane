@@ -71,7 +71,9 @@ function load(): LearnerProfile {
   } catch {
     /* storage unavailable: use defaults */
   }
-  const nav = typeof navigator !== 'undefined' ? navigator.language : 'vi';
+  // chottoday.com links sister apps with ?lang=vi (see its src/data/apps.js)
+  const fromUrl = typeof location !== 'undefined' ? new URLSearchParams(location.search).get('lang') : null;
+  const nav = fromUrl ?? (typeof navigator !== 'undefined' ? navigator.language : 'vi');
   const supportLanguage: SupportLang = nav.startsWith('ja') ? 'ja' : nav.startsWith('en') ? 'en' : 'vi';
   return { ...DEFAULT_PROFILE, supportLanguage, targetLanguage: supportLanguage === 'vi' ? 'ja' : 'vi' };
 }

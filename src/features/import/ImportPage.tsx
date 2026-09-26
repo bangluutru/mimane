@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { FileAudio, MonitorPlay, Upload } from 'lucide-react';
+import { FileAudio, MonitorPlay, Upload, X } from 'lucide-react';
 import { pick, useT } from '@/app/i18n';
 import { useProfile } from '@/domains/user/profile';
 import { parseYouTubeId } from '@/domains/media/youtube';
@@ -13,7 +13,6 @@ import { detectLanguage, getAdapter, TARGET_LANGS } from '@/languages/registry';
 import type { AccentId, SupportLang, TargetLang } from '@/languages/types';
 import { uid } from '@/domains/storage/db';
 import type { MediaSource } from '@/domains/lesson/types';
-import { FLAG } from '@/ui/format';
 import { AutoTranscribe } from './AutoTranscribe';
 
 function mediaDuration(file: File): Promise<number | undefined> {
@@ -161,7 +160,7 @@ export default function ImportPage() {
             {yt && !ytId && <span className="error">{t('import.invalidYoutube')}</span>}
           </label>
         ) : file ? (
-          <div className="row"><FileAudio size={18} /> <span className="grow">{file.name}</span><button className="btn sm ghost" onClick={() => setFile(undefined)}>✕</button></div>
+          <div className="row"><FileAudio size={18} /> <span className="grow">{file.name}</span><button className="btn sm ghost" onClick={() => setFile(undefined)} aria-label={t('common.delete')}><X size={16} /></button></div>
         ) : (
           <FileDrop accept="audio/*,video/*" label={t('import.file')} icon={<Upload size={18} />} onFile={(f) => { setFile(f); if (!title) setTitle(f.name.replace(/\.[^.]+$/, '')); }} />
         )}
@@ -205,7 +204,7 @@ export default function ImportPage() {
         <p className="small muted">{t('import.translationHint')}</p>
         <div className="row wrap">
           <select className="input" style={{ width: 'auto' }} value={trLang} onChange={(e) => setTrLang(e.target.value as SupportLang)} aria-label={t('import.yourLanguage')}>
-            {(['vi', 'en', 'ja'] as SupportLang[]).filter((l) => l !== lang).map((l) => <option key={l} value={l}>{FLAG[l]} {t(`lang.${l}`)}</option>)}
+            {(['vi', 'en', 'ja'] as SupportLang[]).filter((l) => l !== lang).map((l) => <option key={l} value={l}>{t(`lang.${l}`)}</option>)}
           </select>
           <div className="grow">
             <FileDrop accept=".srt,.vtt,.json" label={translation?.name ?? t('import.uploadSub')} icon={<Upload size={18} />} onFile={(f) => f.text().then((text) => setTranslation({ text, name: f.name }))} />
@@ -223,7 +222,7 @@ export default function ImportPage() {
           <label className="field">
             <span>{t('import.language')}</span>
             <select className="input" value={lang} onChange={(e) => { setLang(e.target.value as TargetLang); setLangTouched(true); setLevel(''); setAccent(undefined); }}>
-              {TARGET_LANGS.map((l) => <option key={l} value={l}>{FLAG[l]} {t(`lang.${l}`)}</option>)}
+              {TARGET_LANGS.map((l) => <option key={l} value={l}>{t(`lang.${l}`)}</option>)}
             </select>
           </label>
           <label className="field">
@@ -249,7 +248,7 @@ export default function ImportPage() {
               const on = cats.includes(c.id);
               return (
                 <button key={c.id} className={`chip${on ? ' on' : ''}`} onClick={() => setCats(on ? cats.filter((x) => x !== c.id) : [...cats, c.id])} aria-pressed={on}>
-                  {c.icon} {pick(c.label, profile.supportLanguage)}
+                  {pick(c.label, profile.supportLanguage)}
                 </button>
               );
             })}

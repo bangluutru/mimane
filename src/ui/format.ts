@@ -11,4 +11,3 @@ export function fmtDuration(sec: number): string {
   return m < 60 ? `${m} min` : `${Math.floor(m / 60)}h ${m % 60}m`;
 }
 
-export const FLAG: Record<string, string> = { ja: '🇯🇵', en: '🇬🇧', vi: '🇻🇳' };

@@ -4,7 +4,8 @@ import { makeT } from '@/app/i18n';
 import { CATEGORIES, type CategoryId } from '@/domains/library/taxonomy';
 import { FRAMEWORKS, FRAMEWORK_FOR } from '@/languages/proficiency';
 import type { SupportLang, TargetLang } from '@/languages/types';
-import { FLAG } from '@/ui/format';
+import { Check } from 'lucide-react';
+import { ByChotto, LangMark, TopicIcon, Wordmark } from '@/ui/brand';
 import { pick } from '@/app/i18n';
 
 const SPEAK: { id: SupportLang; label: string }[] = [
@@ -50,12 +51,11 @@ export function Onboarding() {
 
   return (
     <div className="onboard" lang={speak}>
-      <div className="row" style={{ marginBottom: 28 }}>
-        <span className="brand-mark" aria-hidden>
-          <svg width="18" height="18" viewBox="0 0 64 64"><path d="M8 38c7 0 7-14 14-14s7 14 14 14 7-14 14-14" fill="none" stroke="currentColor" strokeWidth="7" strokeLinecap="round" /></svg>
-        </span>
-        <strong>Mimane</strong>
-        <span className="muted small">· {t('app.tagline')}</span>
+      <span className="motif ring onboard-ring" aria-hidden />
+      <span className="motif dot onboard-dot" aria-hidden />
+      <div className="brand" style={{ marginBottom: 32 }}>
+        <Wordmark />
+        <ByChotto />
       </div>
 
       {step === 0 && (
@@ -69,7 +69,8 @@ export function Onboarding() {
             <div className="pair-grid">
               {SPEAK.map((s) => (
                 <button key={s.id} className={`choice${speak === s.id ? ' on' : ''}`} onClick={() => chooseSpeak(s.id)} aria-pressed={speak === s.id}>
-                  <span className="flag">{FLAG[s.id]}</span> {s.label}
+                  <LangMark lang={s.id} /> {s.label}
+                  {speak === s.id && <Check size={18} className="check" aria-hidden />}
                 </button>
               ))}
             </div>
@@ -79,7 +80,8 @@ export function Onboarding() {
             <div className="pair-grid">
               {(['ja', 'en', 'vi'] as TargetLang[]).filter((l) => l !== speak).map((l) => (
                 <button key={l} className={`choice${learn === l ? ' on' : ''}`} onClick={() => chooseLearn(l)} aria-pressed={learn === l}>
-                  <span className="flag">{FLAG[l]}</span> {t(`lang.${l}`)}
+                  <LangMark lang={l} /> {t(`lang.${l}`)}
+                  {learn === l && <Check size={18} className="check" aria-hidden />}
                 </button>
               ))}
             </div>
@@ -90,11 +92,12 @@ export function Onboarding() {
       {step === 1 && (
         <div className="stack" style={{ gap: 16 }}>
           <h1>{t('onboarding.level')}</h1>
-          <p className="muted">{FLAG[learn]} {t(`lang.${learn}`)}</p>
+          <p className="muted row"><LangMark lang={learn} /> {t(`lang.${learn}`)}</p>
           <div className="pair-grid">
             {FRAMEWORKS[FRAMEWORK_FOR[learn]].levels.filter((l) => l.id !== 'native').map((l) => (
               <button key={l.id} className={`choice${level === l.id ? ' on' : ''}`} onClick={() => setLevel(l.id)} aria-pressed={level === l.id}>
                 {l.label}
+                {level === l.id && <Check size={18} className="check" aria-hidden />}
               </button>
             ))}
           </div>
@@ -109,8 +112,9 @@ export function Onboarding() {
               const on = interests.includes(c.id);
               return (
                 <button key={c.id} className={`topic${on ? ' on' : ''}`} aria-pressed={on} onClick={() => setInterests(on ? interests.filter((x) => x !== c.id) : [...interests, c.id])}>
-                  <span className="ico" aria-hidden>{c.icon}</span>
+                  <span className="icon-box" aria-hidden><TopicIcon id={c.id} size={20} /></span>
                   {pick(c.label, speak)}
+                  {on && <Check size={18} className="check" aria-hidden />}
                 </button>
               );
             })}

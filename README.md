@@ -1,4 +1,4 @@
-# Mimane — Listen · Shadow · Speak
+# Mimane by Chotto — Listen · Shadow · Speak
 
 A media-based language learning engine that turns authentic content into
 **Sentence Learning Units** — listen, read, repeat, shadow, record, compare, review.
@@ -7,6 +7,9 @@ First-class learner groups: 🇻🇳→🇯🇵 Vietnamese learning Japanese · 
 learning English · 🌏→🇻🇳 foreigners learning Vietnamese (English / Japanese UI).
 
 Architecture, domain boundaries, data model and MVP scope: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
+The UI follows the **chottoday** design system (Chotto's brand): mapping, deliberate
+exceptions and how to list Mimane on chottoday.com are in
+[docs/CHOTTO_INTEGRATION.md](docs/CHOTTO_INTEGRATION.md).
 
 ## Run
 

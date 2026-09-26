@@ -36,7 +36,7 @@ export function RecordingPanel({
     return (
       <div className="rec-panel" aria-live="polite">
         <div className="row">
-          <span className="small" style={{ color: 'var(--danger)', fontWeight: 650 }}>● {t('rec.recording')}</span>
+          <span className="live-dot">{t('rec.recording')}</span>
           <div className="meter"><i style={{ width: `${Math.round(rec.level * 100)}%` }} /></div>
           <button className="btn sm" onClick={rec.stop}>
             <Square size={14} fill="currentColor" /> {t('rec.stop')}
@@ -62,7 +62,7 @@ export function RecordingPanel({
         <span className="small" style={{ fontWeight: 650 }}>{t('rec.title')}</span>
         <div className="rec-attempts grow">
           {attempts.map((a) => (
-            <button key={a.id} className={`chip${a.id === current.id ? ' on' : ''}`} style={{ height: 26, padding: '0 8px', fontSize: '0.75rem' }} onClick={() => setSel(a.id)}>
+            <button key={a.id} className={`chip${a.id === current.id ? ' on' : ''}`} style={{ height: 30, padding: '0 10px' }} onClick={() => setSel(a.id)}>
               {a.attempt}
             </button>
           ))}
