@@ -1,5 +1,29 @@
 # Brief thiết kế logo Mimane (gửi Claude Design)
 
+## Kết quả (27/09/2026): đã chốt hướng E · Soi sóng
+
+Canvas thiết kế: https://claude.ai/artifact/PDKnyBz3RLJbEaxMwkhP4i. Canvas có 3 hướng theo brief (A–C),
+3 hướng tự do ngoài brief (D–F) và bộ logo đã chốt (quy cách, biến thể màu, lockup, cách dùng).
+
+- **Ý tưởng:** sóng giọng bản xứ màu Giấy ở trên, sóng giọng người học soi xuống dưới màu Tím Lam, ngắn hơn một chút.
+  Đỉnh năm vạch trên vẽ thành chữ M. Hình lấy từ tính năng nghe lại Native ↔ Me của app.
+- **Biểu tượng:** x = 5.6, bằng độ rộng một vạch. Cụm vạch 7x × 7x, căn giữa khung 64 nền Mực bo góc 15.
+  Độ dài vạch hàng trên: 3.5x · 2.25x · 1x · 2.25x · 3.5x. Hàng dưới: 2.5x · 1.5x · 1x · 1.5x · 2.5x, cách hàng trên 1x.
+- **Logo chữ:** "Mimane" dựng từ Nunito 800, giãn chữ −0.02em, đã chuyển thành path. Dưới chữ có một dải sóng
+  Tím Lam trải từ mép M tới mép e. Trên nền tối: chữ Giấy, sóng `#C4AEFF`.
+- **Lockup:** chữ M cao bằng logo Chotto; dải sóng treo dưới dòng. Khoảng cách tính theo x của Chotto:
+  2x tới vạch dọc, 2x tới chữ "by", 1.5x tới logo Chotto. Chữ "by" dựng từ Be Vietnam Pro 500, 13px.
+- **File** trong `public/brand/`:
+  - `mimane-icon.svg`: bản này cũng là `public/favicon.svg` và `public/apps/mimane.svg` của chottoday;
+  - `mimane-mark.svg`: cụm sóng không khung;
+  - logo chữ: `mimane-logo(-white|-ink).svg`;
+  - lockup: `mimane-lockup(-white).svg` và `mimane-lockup-stacked(-white).svg`.
+- **Cỡ tối thiểu:** biểu tượng 16px; logo chữ khi chữ M cao 14px; lockup ngang rộng 279px vì logo Chotto không nhỏ hơn 110px.
+
+Phần dưới đây là brief gốc, giữ lại để tham khảo. Mục "Tham chiếu hiện trạng" mô tả logo tạm trước khi chốt.
+
+---
+
 Dán toàn bộ phần dưới đường kẻ vào Claude Design.
 
 ---

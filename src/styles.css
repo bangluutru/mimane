@@ -195,10 +195,12 @@ h3 { font-size: 18px; line-height: 24px; font-weight: 700; }
   background: var(--scrim-paper-strong); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
   border-bottom: 1px solid var(--border-card);
 }
-.brand { display: flex; align-items: center; gap: 10px; color: var(--text-primary); text-decoration: none !important; }
-.wordmark { font-family: var(--font-heading); font-weight: 800; font-size: 22px; letter-spacing: -0.02em; line-height: 1; display: inline-flex; align-items: baseline; gap: 2px; color: var(--text-primary); }
-.wordmark i { width: 7px; height: 7px; border-radius: 50%; background: var(--accent); display: inline-block; }
-.by-chotto { display: none; align-items: center; gap: 8px; padding-left: 10px; border-left: 1px solid var(--border-card); font-size: 13px; color: var(--text-muted); }
+/* Lockup (see docs/MIMANE_LOGO_BRIEF.md): M and the Chotto logo share a height and a top line;
+   the wordmark's wave hangs below. Gaps are multiples of Chotto's stroke x ≈ 6.44px: 2x · 2x · 1.5x. */
+.brand { display: flex; align-items: flex-start; gap: 13px; color: var(--text-primary); text-decoration: none !important; }
+.wordmark { display: block; flex-shrink: 0; line-height: 0; }
+.wordmark img { display: block; width: 116px; height: auto; }
+.by-chotto { display: none; align-items: center; gap: 10px; height: 23px; margin-top: 1px; padding-left: 13px; border-left: 1px solid var(--border-card); font-size: 13px; color: var(--text-muted); }
 .by-chotto img { width: 110px; height: auto; }
 .logo-dark { display: none !important; }
 @media (prefers-color-scheme: dark) {

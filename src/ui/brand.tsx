@@ -11,13 +11,18 @@ const base = import.meta.env.BASE_URL;
 
 /**
  * Brand pieces for Mimane as a Chotto app (chottoday design system):
- * app wordmark + "by Chotto" lockup using the official Chotto logo file,
- * never retyped in another font.
+ * the outlined "Mimane · Soi sóng" wordmark + "by Chotto" lockup using the
+ * official Chotto logo file, never retyped in another font.
+ * The wordmark's M is as tall as the Chotto logo (23.18px at 110px wide);
+ * its wave hangs below the line. Files: public/brand/mimane-logo*.svg.
  */
+const WORDMARK = { width: 116, height: 37.45 };
+
 export function Wordmark() {
   return (
-    <span className="wordmark" aria-label="Mimane">
-      Mimane<i aria-hidden />
+    <span className="wordmark">
+      <img className="logo-light" src={`${base}brand/mimane-logo.svg`} alt="Mimane" {...WORDMARK} />
+      <img className="logo-dark" src={`${base}brand/mimane-logo-white.svg`} alt="Mimane" {...WORDMARK} />
     </span>
   );
 }
