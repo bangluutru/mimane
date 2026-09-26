@@ -25,17 +25,18 @@ Mimane là một ứng dụng của Chotto, chạy ở tên miền phụ như c�
 | Chế độ tối "Đêm" | `prefers-color-scheme: dark`, đúng giá trị trong tokens |
 | Focus: vòng Ngọc 3px | `--focus-ring` trên mọi phần tử bấm được |
 
-## Ngoại lệ có chủ đích (cần người duyệt)
+## Ngoại lệ có chủ đích
 
 1. **Sáu màu thanh điệu tiếng Việt.** Sổ tay giới hạn hai màu nhấn mỗi màn hình.
    Thanh điệu là mã hoá sư phạm, không phải trang trí, nên dùng đúng sáu màu chữ
    AA của Chotto (`cat-*-text`, ≥4.5:1 trên Giấy, khác nhau cả về độ sáng).
-   Người học tắt được trong "Hỗ trợ đọc".
+   Người học tắt được trong "Hỗ trợ đọc". **Đã duyệt (2026-09-26).**
 2. **Phông tiếng Nhật.** Nunito và Be Vietnam Pro không có kana/kanji. Chữ Nhật
    rơi về phông hệ thống (Hiragino Sans / Noto Sans JP), không tải phông thứ ba.
+   **Đã duyệt (2026-09-26).**
 3. **Tên "Mimane" là chữ Nunito**, chưa có logo riêng. Các ứng dụng chị em có
-   logo vẽ riêng (xem canvas 英級アップ × Chotto). Nếu cần, giao cho Claude Design
-   làm logo Mimane theo hình học của logo Chotto.
+   logo vẽ riêng (xem canvas 英級アップ × Chotto). **Đang giao Claude Design** —
+   brief ở [MIMANE_LOGO_BRIEF.md](MIMANE_LOGO_BRIEF.md).
 
 ## Thêm vào chottoday.com
 
