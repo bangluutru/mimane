@@ -37,7 +37,7 @@ Transformers.js; slower and less accurate).
 Generated files in `public/` are meant to be checked in, so `npm run dev` works
 without macOS or network access. `npm test` runs the unit tests (engine, parsers, language
 adapters, import pipeline); `npm run build` produces a static site in `dist/`
-(host on any static host with SPA fallback to `index.html`).
+(Cloudflare Pages: see [docs/DEPLOY.md](docs/DEPLOY.md)).
 
 ## What is in the MVP
 

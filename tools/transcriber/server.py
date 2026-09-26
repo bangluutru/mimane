@@ -36,8 +36,18 @@ MAX_UPLOAD = 1024 * 1024 * 1024  # 1 GB
 
 app = Flask(__name__)
 app.config["MAX_CONTENT_LENGTH"] = MAX_UPLOAD
-# Only pages served from this machine may call the API.
-CORS(app, origins=[r"http://localhost(:\d+)?", r"http://127\.0\.0\.1(:\d+)?", r"https?://.*\.localhost(:\d+)?"])
+# Only the app itself may call the API: local dev servers and the deployed
+# Mimane (Cloudflare Pages production + preview URLs).
+ALLOWED_ORIGINS = [
+    r"http://localhost(:\d+)?",
+    r"http://127\.0\.0\.1(:\d+)?",
+    r"https?://.*\.localhost(:\d+)?",
+    r"https://mimane\.chottoday\.com",
+    r"https://([a-z0-9-]+\.)?mimane\.pages\.dev",
+]
+# allow_private_network: Chrome's Private Network Access — a public HTTPS page
+# (mimane.chottoday.com) calling 127.0.0.1 needs this opt-in on the preflight.
+CORS(app, origins=ALLOWED_ORIGINS, allow_private_network=True)
 
 _models = {}
 _model_lock = threading.Lock()
