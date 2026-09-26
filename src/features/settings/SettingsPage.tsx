@@ -10,6 +10,47 @@ import { db } from '@/domains/storage/db';
 import { Toggle } from '@/ui/Sheet';
 import { toast } from '@/ui/toast';
 import { FLAG } from '@/ui/format';
+import { useEffect, useState } from 'react';
+import { serverHealth } from '@/domains/transcript/providers';
+
+function TranscriptionSettings() {
+  const t = useT();
+  const { transcription, update } = useProfile();
+  const [url, setUrl] = useState(transcription.serverUrl);
+  const [status, setStatus] = useState<boolean>();
+  const check = async (u = url) => setStatus(!!(await serverHealth(u)));
+  useEffect(() => {
+    check(transcription.serverUrl);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+  return (
+    <section className="panel stack">
+      <h2>{t('asr.settings')}</h2>
+      <p className="small muted">{t('asr.settingsHint')}</p>
+      <label className="field">
+        <span>{t('asr.serverUrl')}</span>
+        <div className="row">
+          <input className="input grow" value={url} onChange={(e) => setUrl(e.target.value)} onBlur={() => update({ transcription: { ...transcription, serverUrl: url.replace(/\/$/, '') } })} />
+          <button className="btn sm" onClick={() => check()}>{t('asr.check')}</button>
+        </div>
+      </label>
+      {status !== undefined && (
+        <p className="small">
+          <span className={`badge ${status ? 'accent' : 'warn'}`}>{status ? t('asr.online') : t('asr.offline')}</span>
+          {!status && <> <code className="code">npm run transcriber</code></>}
+        </p>
+      )}
+      <div className="field">
+        <span>{t('asr.quality')}</span>
+        <div className="seg" style={{ alignSelf: 'flex-start' }}>
+          {(['accurate', 'fast'] as const).map((q) => (
+            <button key={q} className={transcription.quality === q ? 'on' : ''} onClick={() => update({ transcription: { ...transcription, quality: q } })}>{t(`asr.${q}`)}</button>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}
 
 const SPEAK: { id: SupportLang; label: string }[] = [
   { id: 'vi', label: 'Tiếng Việt' },
@@ -77,6 +118,8 @@ export default function SettingsPage() {
         <p className="small muted" style={{ marginTop: 8 }}>{FLAG[p.targetLanguage]} {t(`lang.${p.targetLanguage}`)}</p>
         <UI.DisplaySettings display={p.display} setDisplay={p.setDisplay} t={t} />
       </section>
+
+      <TranscriptionSettings />
 
       <section className="panel stack">
         <h2>{t('settings.privacy')}</h2>

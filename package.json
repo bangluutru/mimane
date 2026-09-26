@@ -10,9 +10,12 @@
     "test": "vitest run",
     "typecheck": "tsc -b",
     "data:build": "tsx scripts/build-data.ts",
-    "lessons:build": "tsx scripts/build-lessons.ts"
+    "lessons:build": "tsx scripts/build-lessons.ts",
+    "transcriber": "tools/py.sh tools/transcriber/server.py",
+    "lessons:qa": "tools/py.sh scripts/tts/qa_audio.py public/lessons/ja-*.json public/lessons/en-*.json public/lessons/vi-*.json"
   },
   "dependencies": {
+    "@huggingface/transformers": "^4.3.0",
     "idb": "^8.0.3",
     "kuromoji": "^0.1.2",
     "lucide-react": "^1.48.0",

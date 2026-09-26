@@ -49,17 +49,66 @@ function duration(file: string): number {
   return Number(run('ffprobe', ['-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', file]).trim());
 }
 
-/** TTS one sentence → trimmed 24 kHz mono WAV; cached by (voice, rate, text). */
-function synth(text: string, voice: string, rate?: number): string {
-  const hash = crypto.createHash('sha1').update(`${voice}|${rate ?? ''}|${text}`).digest('hex').slice(0, 16);
-  const wav = path.join(ttsCache, `${hash}.wav`);
-  if (fs.existsSync(wav)) return wav;
-  const aiff = path.join(ttsCache, `${hash}.aiff`);
-  run('say', ['-v', voice, ...(rate ? ['-r', String(rate)] : []), '-o', aiff, text]);
-  const trim = 'silenceremove=start_periods=1:start_threshold=-45dB:start_silence=0.03';
-  run('ffmpeg', ['-y', '-v', 'error', '-i', aiff, '-af', `${trim},areverse,${trim},areverse`, '-ar', '24000', '-ac', '1', wav]);
-  fs.unlinkSync(aiff);
-  return wav;
+/**
+ * Voices: "edge:<Edge neural voice>", "vieneu:<VieNeu preset>" (neural TTS from
+ * the ai-workforce toolchain) or "say:<macOS voice>" / bare name (legacy).
+ * The Python engines live in AIWF_DIR's virtualenvs.
+ */
+const AIWF_DIR = process.env.AIWF_DIR ?? path.resolve(root, '../../ai-workforce');
+const ENGINE_PYTHON: Record<string, string> = {
+  edge: path.join(AIWF_DIR, '.venv-tts/bin/python'),
+  vieneu: path.join(AIWF_DIR, '.venv/bin/python'),
+};
+const VOICE_LABEL: Record<string, string> = {
+  edge: 'Microsoft Edge neural TTS',
+  vieneu: 'VieNeu-TTS v3 Turbo',
+  say: 'macOS TTS',
+};
+
+function parseVoice(v: string): { engine: 'edge' | 'vieneu' | 'say'; voice: string } {
+  const m = /^(edge|vieneu|say):(.+)$/.exec(v);
+  return m ? { engine: m[1] as 'edge' | 'vieneu' | 'say', voice: m[2] } : { engine: 'say', voice: v };
+}
+
+const TRIM = 'silenceremove=start_periods=1:start_threshold=-45dB:start_silence=0.03';
+function trimToWav(input: string, wav: string) {
+  run('ffmpeg', ['-y', '-v', 'error', '-i', input, '-af', `${TRIM},areverse,${TRIM},areverse`, '-ar', '24000', '-ac', '1', wav]);
+}
+
+const cacheKey = (voice: string, rate: number | undefined, text: string) =>
+  path.join(ttsCache, `${crypto.createHash('sha1').update(`${voice}|${rate ?? ''}|${text}`).digest('hex').slice(0, 16)}.wav`);
+
+/** Synthesize every sentence (cached per sentence) → trimmed 24 kHz mono WAVs. */
+function synthAll(texts: string[], voiceSpec: string, rate?: number): string[] {
+  const { engine, voice } = parseVoice(voiceSpec);
+  const wavs = texts.map((t) => cacheKey(voiceSpec, rate, t));
+  const missing = texts.map((text, i) => ({ text, wav: wavs[i] })).filter((x) => !fs.existsSync(x.wav));
+  if (!missing.length) return wavs;
+
+  if (engine === 'say') {
+    for (const { text, wav } of missing) {
+      const aiff = wav.replace(/\.wav$/, '.aiff');
+      run('say', ['-v', voice, ...(rate ? ['-r', String(rate)] : []), '-o', aiff, text]);
+      trimToWav(aiff, wav);
+      fs.unlinkSync(aiff);
+    }
+    return wavs;
+  }
+
+  const py = ENGINE_PYTHON[engine];
+  if (!fs.existsSync(py)) throw new Error(`${engine} engine not found at ${py} (set AIWF_DIR)`);
+  const ext = engine === 'edge' ? 'mp3' : 'raw.wav';
+  const items = missing.map(({ text, wav }) => ({ text, voice, out: wav.replace(/\.wav$/, `.${ext}`) }));
+  const jobFile = path.join(ttsCache, `job-${process.pid}.json`);
+  fs.writeFileSync(jobFile, JSON.stringify({ engine, items }));
+  process.stdout.write(`  synthesizing ${items.length} sentences with ${engine}:${voice}…\n`);
+  execFileSync(py, [path.join(root, 'scripts/tts/synthesize.py'), jobFile], { stdio: ['ignore', 'ignore', 'inherit'] });
+  fs.unlinkSync(jobFile);
+  items.forEach((it, i) => {
+    trimToWav(it.out, missing[i].wav);
+    fs.unlinkSync(it.out);
+  });
+  return wavs;
 }
 
 function silence(sec: number): string {
@@ -83,12 +132,14 @@ async function build(file: string): Promise<LessonMeta> {
   const lexicon = lexiconFor(src.targetLanguage);
   console.log(`• ${src.id} (${src.sentences.length} sentences, ${src.voice})`);
 
+
   // 1–2. audio + timings
   const parts: string[] = [silence(LEAD_IN)];
   let t = LEAD_IN;
   const timings: { start: number; end: number }[] = [];
-  src.sentences.forEach((s, i) => {
-    const wav = synth(s.text, src.voice, src.rate);
+  const clips = synthAll(src.sentences.map((s) => s.text), src.voice, src.rate);
+  src.sentences.forEach((_s, i) => {
+    const wav = clips[i];
     const d = duration(wav);
     timings.push({ start: +t.toFixed(3), end: +(t + d).toFixed(3) });
     t += d;
@@ -103,7 +154,7 @@ async function build(file: string): Promise<LessonMeta> {
   const listFile = path.join(ttsCache, `${src.id}.txt`);
   fs.writeFileSync(listFile, parts.map((p) => `file '${p}'`).join('\n'));
   const mp3 = path.join(root, `public/media/${src.id}.mp3`);
-  run('ffmpeg', ['-y', '-v', 'error', '-f', 'concat', '-safe', '0', '-i', listFile, '-c:a', 'libmp3lame', '-b:a', '64k', mp3]);
+  run('ffmpeg', ['-y', '-v', 'error', '-f', 'concat', '-safe', '0', '-i', listFile, '-c:a', 'libmp3lame', '-b:a', '96k', mp3]);
 
   // 3. analysis + glossary
   const glossary: Record<string, LexEntry> = {};
@@ -151,11 +202,11 @@ async function build(file: string): Promise<LessonMeta> {
     tags: src.tags,
     difficulty: src.difficulty,
     accent: src.accent,
-    speakers: [src.voice],
+    speakers: [parseVoice(src.voice).voice],
     source: {
       kind: 'prepared',
       synthetic: true,
-      attribution: `Mimane demo lesson · synthesized voice (${src.voice})`,
+      attribution: `Mimane demo lesson · ${VOICE_LABEL[parseVoice(src.voice).engine]} (${parseVoice(src.voice).voice})`,
       license: 'CC BY 4.0',
     },
     author: 'Mimane',

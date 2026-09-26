@@ -15,6 +15,12 @@ export interface DisplayPrefs {
   hideSubtitle: boolean; // listen / shadow: hide the current sentence text
 }
 
+export interface TranscriptionPrefs {
+  /** local faster-whisper server (tools/transcriber) */
+  serverUrl: string;
+  quality: 'accurate' | 'fast';
+}
+
 export interface LearnerProfile {
   onboarded: boolean;
   /** UI + translation language */
@@ -25,6 +31,7 @@ export interface LearnerProfile {
   interests: CategoryId[];
   display: DisplayPrefs;
   study: Partial<StudySettings>;
+  transcription: TranscriptionPrefs;
 }
 
 const DEFAULT_PROFILE: LearnerProfile = {
@@ -43,6 +50,7 @@ const DEFAULT_PROFILE: LearnerProfile = {
     hideSubtitle: false,
   },
   study: { rate: 1, repeatGapFactor: 1.2 },
+  transcription: { serverUrl: 'http://127.0.0.1:8778', quality: 'accurate' },
 };
 
 const KEY = 'mimane.profile.v1';
@@ -52,7 +60,13 @@ function load(): LearnerProfile {
     const raw = localStorage.getItem(KEY);
     if (raw) {
       const p = JSON.parse(raw) as Partial<LearnerProfile>;
-      return { ...DEFAULT_PROFILE, ...p, display: { ...DEFAULT_PROFILE.display, ...p.display }, study: { ...DEFAULT_PROFILE.study, ...p.study } };
+      return {
+        ...DEFAULT_PROFILE,
+        ...p,
+        display: { ...DEFAULT_PROFILE.display, ...p.display },
+        study: { ...DEFAULT_PROFILE.study, ...p.study },
+        transcription: { ...DEFAULT_PROFILE.transcription, ...p.transcription },
+      };
     }
   } catch {
     /* storage unavailable: use defaults */

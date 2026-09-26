@@ -19,6 +19,8 @@ export interface ImportInput {
   difficulty?: ProficiencyRef;
   accent?: AccentId;
   sourceUrl?: string;
+  /** set when the transcript was produced by automatic speech recognition */
+  transcriber?: string;
 }
 
 /** Parse → segment → align translations → analyse (deterministic, on-device). */
@@ -63,7 +65,12 @@ export async function buildImportedLesson(input: ImportInput, onProgress?: (done
     tags: input.tags,
     difficulty: input.difficulty ?? adapter.estimateDifficulty?.(analyses as never),
     accent: input.accent ?? adapter.defaultAccent,
-    source: { kind: 'user-import', url: input.sourceUrl },
+    source: {
+      kind: 'user-import',
+      url: input.sourceUrl,
+      transcript: input.transcriber ? 'auto' : 'provided',
+      transcriber: input.transcriber,
+    },
     createdAt: now,
     updatedAt: now,
     sentences: cues.map((c, i) => ({

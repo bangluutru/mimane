@@ -1,25 +1,46 @@
 {
   "id": "vi-daily-greetings",
   "targetLanguage": "vi",
-  "title": { "original": "Xin chào!", "en": "Hello! Everyday Greetings", "ja": "こんにちは！毎日のあいさつ" },
+  "title": {
+    "original": "Xin chào!",
+    "en": "Hello! Everyday Greetings",
+    "ja": "こんにちは！毎日のあいさつ"
+  },
   "description": {
     "vi": "Những câu chào hỏi, giới thiệu bản thân và cảm ơn đơn giản nhất trong tiếng Việt.",
     "en": "The simplest Vietnamese phrases for greeting people, introducing yourself and saying thank you.",
     "ja": "あいさつ、自己紹介、お礼など、ベトナム語のいちばん基本的な表現です。"
   },
-  "categories": ["daily-life"],
-  "tags": ["greetings", "introductions", "pronouns", "politeness", "basics"],
-  "difficulty": { "framework": "vi-level", "level": "beginner" },
+  "categories": [
+    "daily-life"
+  ],
+  "tags": [
+    "greetings",
+    "introductions",
+    "pronouns",
+    "politeness",
+    "basics"
+  ],
+  "difficulty": {
+    "framework": "vi-level",
+    "level": "beginner"
+  },
   "accent": "vi-north",
-  "voice": "Linh",
+  "voice": "vieneu:Trúc Ly",
   "sentences": [
     {
       "text": "Xin chào!",
-      "translations": { "en": "Hello!", "ja": "こんにちは！" }
+      "translations": {
+        "en": "Hello!",
+        "ja": "こんにちは！"
+      }
     },
     {
       "text": "Em chào chị ạ.",
-      "translations": { "en": "Hello (to an older woman).", "ja": "（年上の女性に）こんにちは。" },
+      "translations": {
+        "en": "Hello (to an older woman).",
+        "ja": "（年上の女性に）こんにちは。"
+      },
       "note": {
         "en": "Vietnamese greets with chào + a kinship pronoun. The younger speaker calls herself em and calls an older woman chị; the final ạ adds respect.",
         "ja": "ベトナム語では「chào＋人称代名詞」であいさつします。年下の人は自分を em、年上の女性を chị と呼びます。文末の ạ は丁寧さを表します。"
@@ -27,11 +48,17 @@
     },
     {
       "text": "Chào anh, anh có khỏe không?",
-      "translations": { "en": "Hi! How are you?", "ja": "こんにちは、お元気ですか？" }
+      "translations": {
+        "en": "Hi! How are you?",
+        "ja": "こんにちは、お元気ですか？"
+      }
     },
     {
       "text": "Anh khỏe, cảm ơn em.",
-      "translations": { "en": "I'm fine, thank you.", "ja": "元気だよ、ありがとう。" },
+      "translations": {
+        "en": "I'm fine, thank you.",
+        "ja": "元気だよ、ありがとう。"
+      },
       "note": {
         "en": "Pronouns are reciprocal: an older man is called anh (\"you\") and also calls himself anh (\"I\"), while he calls the younger person em.",
         "ja": "人称は相互的です。年上の男性は相手から anh（あなた）と呼ばれ、自分のことも anh（私）と言い、年下の相手を em と呼びます。"
@@ -39,11 +66,17 @@
     },
     {
       "text": "Còn em thì sao?",
-      "translations": { "en": "And how about you?", "ja": "君はどう？" }
+      "translations": {
+        "en": "And how about you?",
+        "ja": "君はどう？"
+      }
     },
     {
       "text": "Em cũng khỏe ạ.",
-      "translations": { "en": "I'm fine too.", "ja": "私も元気です。" },
+      "translations": {
+        "en": "I'm fine too.",
+        "ja": "私も元気です。"
+      },
       "note": {
         "en": "Tone check: cũng has the ngã tone (~, rising with a catch in the throat) and khỏe has the hỏi tone (hook, low dipping). Northern speakers keep them distinct; in the South they sound alike.",
         "ja": "声調に注意：cũng は ngã 声調（~、喉を締めて上がる）、khỏe は hỏi 声調（フック、低く下がる）。北部では区別しますが、南部ではほぼ同じに聞こえます。"
@@ -51,7 +84,10 @@
     },
     {
       "text": "Tôi tên là Linh.",
-      "translations": { "en": "My name is Linh.", "ja": "私の名前はリンです。" },
+      "translations": {
+        "en": "My name is Linh.",
+        "ja": "私の名前はリンです。"
+      },
       "note": {
         "en": "Tôi is the neutral, polite \"I\" — safe with strangers and in formal situations when you don't know the other person's age.",
         "ja": "Tôi は中立的で丁寧な「私」です。初対面の人や、相手の年齢がわからない改まった場面で使えます。"
@@ -59,11 +95,17 @@
     },
     {
       "text": "Tôi là người Việt Nam.",
-      "translations": { "en": "I'm Vietnamese.", "ja": "私はベトナム人です。" }
+      "translations": {
+        "en": "I'm Vietnamese.",
+        "ja": "私はベトナム人です。"
+      }
     },
     {
       "text": "Bạn tên là gì?",
-      "translations": { "en": "What's your name?", "ja": "あなたのお名前は？" },
+      "translations": {
+        "en": "What's your name?",
+        "ja": "あなたのお名前は？"
+      },
       "note": {
         "en": "Bạn literally means \"friend\". It is a friendly \"you\" for people around your own age, and common among young people and in classrooms.",
         "ja": "Bạn は本来「友達」という意味で、同年代の相手への親しみのある「あなた」です。若い人同士や教室でよく使われます。"
@@ -71,15 +113,24 @@
     },
     {
       "text": "Rất vui được gặp bạn.",
-      "translations": { "en": "Nice to meet you.", "ja": "お会いできてうれしいです。" }
+      "translations": {
+        "en": "Nice to meet you.",
+        "ja": "お会いできてうれしいです。"
+      }
     },
     {
       "text": "Cảm ơn bạn rất nhiều.",
-      "translations": { "en": "Thank you very much.", "ja": "本当にありがとう。" }
+      "translations": {
+        "en": "Thank you very much.",
+        "ja": "本当にありがとう。"
+      }
     },
     {
       "text": "Tạm biệt, hẹn gặp lại!",
-      "translations": { "en": "Goodbye, see you again!", "ja": "さようなら、また会いましょう！" }
+      "translations": {
+        "en": "Goodbye, see you again!",
+        "ja": "さようなら、また会いましょう！"
+      }
     }
   ]
 }

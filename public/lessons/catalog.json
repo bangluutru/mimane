@@ -23,7 +23,7 @@
    "mediaType": "audio",
    "url": "media/en-business-better-meetings.mp3"
   },
-  "durationSec": 60.58,
+  "durationSec": 59.58,
   "sentenceCount": 14,
   "categories": [
    "work-business"
@@ -40,17 +40,17 @@
   },
   "accent": "en-us",
   "speakers": [
-   "Samantha"
+   "en-US-AndrewNeural"
   ],
   "source": {
    "kind": "prepared",
    "synthetic": true,
-   "attribution": "Mimane demo lesson · synthesized voice (Samantha)",
+   "attribution": "Mimane demo lesson · Microsoft Edge neural TTS (en-US-AndrewNeural)",
    "license": "CC BY 4.0"
   },
   "author": "Mimane",
-  "createdAt": "2026-09-26T09:30:04.543Z",
-  "updatedAt": "2026-09-26T09:30:04.543Z"
+  "createdAt": "2026-09-26T11:03:23.634Z",
+  "updatedAt": "2026-09-26T11:03:23.634Z"
  },
  {
   "id": "en-daily-ordering-coffee",
@@ -76,7 +76,7 @@
    "mediaType": "audio",
    "url": "media/en-daily-ordering-coffee.mp3"
   },
-  "durationSec": 37.78,
+  "durationSec": 36.6,
   "sentenceCount": 10,
   "categories": [
    "daily-life",
@@ -94,17 +94,17 @@
   },
   "accent": "en-us",
   "speakers": [
-   "Samantha"
+   "en-US-AvaNeural"
   ],
   "source": {
    "kind": "prepared",
    "synthetic": true,
-   "attribution": "Mimane demo lesson · synthesized voice (Samantha)",
+   "attribution": "Mimane demo lesson · Microsoft Edge neural TTS (en-US-AvaNeural)",
    "license": "CC BY 4.0"
   },
   "author": "Mimane",
-  "createdAt": "2026-09-26T09:30:14.515Z",
-  "updatedAt": "2026-09-26T09:30:14.515Z"
+  "createdAt": "2026-09-26T11:03:27.506Z",
+  "updatedAt": "2026-09-26T11:03:27.506Z"
  },
  {
   "id": "en-health-why-sleep",
@@ -130,7 +130,7 @@
    "mediaType": "audio",
    "url": "media/en-health-why-sleep.mp3"
   },
-  "durationSec": 72.32,
+  "durationSec": 71.63,
   "sentenceCount": 14,
   "categories": [
    "health",
@@ -148,17 +148,17 @@
   },
   "accent": "en-us",
   "speakers": [
-   "Samantha"
+   "en-US-EmmaNeural"
   ],
   "source": {
    "kind": "prepared",
    "synthetic": true,
-   "attribution": "Mimane demo lesson · synthesized voice (Samantha)",
+   "attribution": "Mimane demo lesson · Microsoft Edge neural TTS (en-US-EmmaNeural)",
    "license": "CC BY 4.0"
   },
   "author": "Mimane",
-  "createdAt": "2026-09-26T09:30:30.578Z",
-  "updatedAt": "2026-09-26T09:30:30.578Z"
+  "createdAt": "2026-09-26T11:03:34.203Z",
+  "updatedAt": "2026-09-26T11:03:34.203Z"
  },
  {
   "id": "ja-culture-cherry-blossoms",
@@ -184,7 +184,7 @@
    "mediaType": "audio",
    "url": "media/ja-culture-cherry-blossoms.mp3"
   },
-  "durationSec": 57.44,
+  "durationSec": 50.01,
   "sentenceCount": 12,
   "categories": [
    "culture",
@@ -204,17 +204,17 @@
   },
   "accent": "ja-tokyo",
   "speakers": [
-   "Kyoko"
+   "ja-JP-KeitaNeural"
   ],
   "source": {
    "kind": "prepared",
    "synthetic": true,
-   "attribution": "Mimane demo lesson · synthesized voice (Kyoko)",
+   "attribution": "Mimane demo lesson · Microsoft Edge neural TTS (ja-JP-KeitaNeural)",
    "license": "CC BY 4.0"
   },
   "author": "Mimane",
-  "createdAt": "2026-09-26T09:30:45.821Z",
-  "updatedAt": "2026-09-26T09:30:45.821Z"
+  "createdAt": "2026-09-26T11:03:38.019Z",
+  "updatedAt": "2026-09-26T11:03:38.019Z"
  },
  {
   "id": "ja-daily-convenience-store",
@@ -240,7 +240,7 @@
    "mediaType": "audio",
    "url": "media/ja-daily-convenience-store.mp3"
   },
-  "durationSec": 32.23,
+  "durationSec": 32.19,
   "sentenceCount": 9,
   "categories": [
    "daily-life",
@@ -259,17 +259,17 @@
   },
   "accent": "ja-tokyo",
   "speakers": [
-   "Kyoko"
+   "ja-JP-NanamiNeural"
   ],
   "source": {
    "kind": "prepared",
    "synthetic": true,
-   "attribution": "Mimane demo lesson · synthesized voice (Kyoko)",
+   "attribution": "Mimane demo lesson · Microsoft Edge neural TTS (ja-JP-NanamiNeural)",
    "license": "CC BY 4.0"
   },
   "author": "Mimane",
-  "createdAt": "2026-09-26T09:30:55.922Z",
-  "updatedAt": "2026-09-26T09:30:55.922Z"
+  "createdAt": "2026-09-26T11:03:40.662Z",
+  "updatedAt": "2026-09-26T11:03:40.662Z"
  },
  {
   "id": "ja-science-sky-blue",
@@ -295,7 +295,7 @@
    "mediaType": "audio",
    "url": "media/ja-science-sky-blue.mp3"
   },
-  "durationSec": 77.59,
+  "durationSec": 74.23,
   "sentenceCount": 15,
   "categories": [
    "science",
@@ -314,17 +314,17 @@
   },
   "accent": "ja-tokyo",
   "speakers": [
-   "Kyoko"
+   "ja-JP-NanamiNeural"
   ],
   "source": {
    "kind": "prepared",
    "synthetic": true,
-   "attribution": "Mimane demo lesson · synthesized voice (Kyoko)",
+   "attribution": "Mimane demo lesson · Microsoft Edge neural TTS (ja-JP-NanamiNeural)",
    "license": "CC BY 4.0"
   },
   "author": "Mimane",
-  "createdAt": "2026-09-26T09:31:13.584Z",
-  "updatedAt": "2026-09-26T09:31:13.584Z"
+  "createdAt": "2026-09-26T11:03:44.819Z",
+  "updatedAt": "2026-09-26T11:03:44.819Z"
  },
  {
   "id": "vi-culture-tet",
@@ -350,7 +350,7 @@
    "mediaType": "audio",
    "url": "media/vi-culture-tet.mp3"
   },
-  "durationSec": 40.93,
+  "durationSec": 30.51,
   "sentenceCount": 13,
   "categories": [
    "culture",
@@ -369,17 +369,17 @@
   },
   "accent": "vi-north",
   "speakers": [
-   "Linh"
+   "Minh Quân Pro"
   ],
   "source": {
    "kind": "prepared",
    "synthetic": true,
-   "attribution": "Mimane demo lesson · synthesized voice (Linh)",
+   "attribution": "Mimane demo lesson · VieNeu-TTS v3 Turbo (Minh Quân Pro)",
    "license": "CC BY 4.0"
   },
   "author": "Mimane",
-  "createdAt": "2026-09-26T09:31:24.922Z",
-  "updatedAt": "2026-09-26T09:31:24.922Z"
+  "createdAt": "2026-09-26T11:14:48.889Z",
+  "updatedAt": "2026-09-26T11:14:48.889Z"
  },
  {
   "id": "vi-daily-greetings",
@@ -405,7 +405,7 @@
    "mediaType": "audio",
    "url": "media/vi-daily-greetings.mp3"
   },
-  "durationSec": 24.29,
+  "durationSec": 18.65,
   "sentenceCount": 12,
   "categories": [
    "daily-life"
@@ -423,17 +423,17 @@
   },
   "accent": "vi-north",
   "speakers": [
-   "Linh"
+   "Trúc Ly"
   ],
   "source": {
    "kind": "prepared",
    "synthetic": true,
-   "attribution": "Mimane demo lesson · synthesized voice (Linh)",
+   "attribution": "Mimane demo lesson · VieNeu-TTS v3 Turbo (Trúc Ly)",
    "license": "CC BY 4.0"
   },
   "author": "Mimane",
-  "createdAt": "2026-09-26T09:31:34.945Z",
-  "updatedAt": "2026-09-26T09:31:34.945Z"
+  "createdAt": "2026-09-26T11:15:34.333Z",
+  "updatedAt": "2026-09-26T11:15:34.333Z"
  },
  {
   "id": "vi-food-pho",
@@ -459,7 +459,7 @@
    "mediaType": "audio",
    "url": "media/vi-food-pho.mp3"
   },
-  "durationSec": 45.5,
+  "durationSec": 36.29,
   "sentenceCount": 13,
   "categories": [
    "food",
@@ -478,16 +478,16 @@
   },
   "accent": "vi-north",
   "speakers": [
-   "Linh"
+   "Mai Anh"
   ],
   "source": {
    "kind": "prepared",
    "synthetic": true,
-   "attribution": "Mimane demo lesson · synthesized voice (Linh)",
+   "attribution": "Mimane demo lesson · VieNeu-TTS v3 Turbo (Mai Anh)",
    "license": "CC BY 4.0"
   },
   "author": "Mimane",
-  "createdAt": "2026-09-26T09:31:46.335Z",
-  "updatedAt": "2026-09-26T09:31:46.335Z"
+  "createdAt": "2026-09-26T11:16:33.290Z",
+  "updatedAt": "2026-09-26T11:16:33.290Z"
  }
 ]

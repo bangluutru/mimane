@@ -1,21 +1,40 @@
 {
   "id": "vi-food-pho",
   "targetLanguage": "vi",
-  "title": { "original": "Bát phở Hà Nội", "en": "A Bowl of Hanoi Phở", "ja": "ハノイのフォー" },
+  "title": {
+    "original": "Bát phở Hà Nội",
+    "en": "A Bowl of Hanoi Phở",
+    "ja": "ハノイのフォー"
+  },
   "description": {
     "vi": "Nguồn gốc của phở, cách nấu nước dùng, cách ăn và cách gọi một bát phở ở quán.",
     "en": "Where phở comes from, how the broth is made, how people eat it and how to order a bowl.",
     "ja": "フォーの起源、スープの作り方、食べ方、そして店での注文の仕方を紹介します。"
   },
-  "categories": ["food", "culture"],
-  "tags": ["pho", "hanoi", "noodles", "street food", "ordering"],
-  "difficulty": { "framework": "vi-level", "level": "elementary" },
+  "categories": [
+    "food",
+    "culture"
+  ],
+  "tags": [
+    "pho",
+    "hanoi",
+    "noodles",
+    "street food",
+    "ordering"
+  ],
+  "difficulty": {
+    "framework": "vi-level",
+    "level": "elementary"
+  },
   "accent": "vi-north",
-  "voice": "Linh",
+  "voice": "vieneu:Mai Anh",
   "sentences": [
     {
       "text": "Phở là món ăn nổi tiếng của Việt Nam.",
-      "translations": { "en": "Phở is a famous Vietnamese dish.", "ja": "フォーはベトナムの有名な料理です。" },
+      "translations": {
+        "en": "Phở is a famous Vietnamese dish.",
+        "ja": "フォーはベトナムの有名な料理です。"
+      },
       "note": {
         "en": "Phở has the hỏi tone (hook above): start mid-low and dip. Don't confuse it with phố (sắc tone, rising), which means \"street\".",
         "ja": "Phở は hỏi 声調（上のフック）で、やや低く始めて下げます。sắc 声調（上がる）の phố（「通り」）と混同しないように。"
@@ -23,7 +42,10 @@
     },
     {
       "text": "Phở ra đời ở miền Bắc vào đầu thế kỷ hai mươi.",
-      "translations": { "en": "Phở was born in northern Vietnam in the early twentieth century.", "ja": "フォーは20世紀初めにベトナム北部で生まれました。" },
+      "translations": {
+        "en": "Phở was born in northern Vietnam in the early twentieth century.",
+        "ja": "フォーは20世紀初めにベトナム北部で生まれました。"
+      },
       "note": {
         "en": "Kỷ in thế kỷ (century) has the hỏi tone, not ngã. You may also see the spelling thế kỉ — both spellings are accepted.",
         "ja": "thế kỷ（世紀）の kỷ は ngã ではなく hỏi 声調です。thế kỉ という綴りも見かけますが、どちらも認められています。"
@@ -31,23 +53,38 @@
     },
     {
       "text": "Hà Nội nổi tiếng với phở bò và phở gà.",
-      "translations": { "en": "Hanoi is famous for beef phở and chicken phở.", "ja": "ハノイは牛肉のフォーと鶏肉のフォーで有名です。" }
+      "translations": {
+        "en": "Hanoi is famous for beef phở and chicken phở.",
+        "ja": "ハノイは牛肉のフォーと鶏肉のフォーで有名です。"
+      }
     },
     {
       "text": "Nước dùng được ninh từ xương bò trong nhiều giờ.",
-      "translations": { "en": "The broth is simmered from beef bones for many hours.", "ja": "スープは牛骨を何時間も煮込んで作ります。" }
+      "translations": {
+        "en": "The broth is simmered from beef bones for many hours.",
+        "ja": "スープは牛骨を何時間も煮込んで作ります。"
+      }
     },
     {
       "text": "Nước dùng có mùi thơm của gừng nướng và hoa hồi.",
-      "translations": { "en": "The broth smells of grilled ginger and star anise.", "ja": "スープには焼いた生姜と八角の香りがあります。" }
+      "translations": {
+        "en": "The broth smells of grilled ginger and star anise.",
+        "ja": "スープには焼いた生姜と八角の香りがあります。"
+      }
     },
     {
       "text": "Bánh phở làm từ bột gạo.",
-      "translations": { "en": "Phở noodles are made from rice flour.", "ja": "フォーの麺は米粉で作られています。" }
+      "translations": {
+        "en": "Phở noodles are made from rice flour.",
+        "ja": "フォーの麺は米粉で作られています。"
+      }
     },
     {
       "text": "Trên bát phở có thịt bò thái mỏng và hành lá.",
-      "translations": { "en": "On top of the bowl there is thinly sliced beef and spring onion.", "ja": "フォーの上には薄切りの牛肉と青ねぎがのっています。" },
+      "translations": {
+        "en": "On top of the bowl there is thinly sliced beef and spring onion.",
+        "ja": "フォーの上には薄切りの牛肉と青ねぎがのっています。"
+      },
       "note": {
         "en": "Bát (bowl) is the Northern word; in the South people say tô for a large noodle bowl. It also works as a measure word: một bát phở = \"a bowl of phở\".",
         "ja": "Bát（どんぶり・茶碗）は北部の言い方で、南部では大きな麺の器を tô と言います。量詞としても使い、một bát phở は「フォー一杯」です。"
@@ -55,11 +92,17 @@
     },
     {
       "text": "Người Hà Nội thường ăn phở vào buổi sáng.",
-      "translations": { "en": "People in Hanoi usually eat phở in the morning.", "ja": "ハノイの人はふつう朝にフォーを食べます。" }
+      "translations": {
+        "en": "People in Hanoi usually eat phở in the morning.",
+        "ja": "ハノイの人はふつう朝にフォーを食べます。"
+      }
     },
     {
       "text": "Họ ăn phở bằng đũa và thìa.",
-      "translations": { "en": "They eat phở with chopsticks and a spoon.", "ja": "箸とスプーンでフォーを食べます。" },
+      "translations": {
+        "en": "They eat phở with chopsticks and a spoon.",
+        "ja": "箸とスプーンでフォーを食べます。"
+      },
       "note": {
         "en": "\"Spoon\" is thìa in the North and muỗng in the South. Both are standard in their regions.",
         "ja": "「スプーン」は北部で thìa、南部で muỗng と言います。どちらもその地域の標準的な言い方です。"
@@ -67,15 +110,24 @@
     },
     {
       "text": "Có thể cho thêm chanh, ớt hoặc tỏi ngâm.",
-      "translations": { "en": "You can add lime, chili or pickled garlic.", "ja": "ライム、唐辛子、にんにくの酢漬けを加えてもいいです。" }
+      "translations": {
+        "en": "You can add lime, chili or pickled garlic.",
+        "ja": "ライム、唐辛子、にんにくの酢漬けを加えてもいいです。"
+      }
     },
     {
       "text": "Ở quán phở, bạn có thể gọi món như thế này.",
-      "translations": { "en": "At a phở shop, you can order like this.", "ja": "フォーの店では、こんなふうに注文できます。" }
+      "translations": {
+        "en": "At a phở shop, you can order like this.",
+        "ja": "フォーの店では、こんなふうに注文できます。"
+      }
     },
     {
       "text": "Anh ơi, cho tôi một bát phở bò tái!",
-      "translations": { "en": "Excuse me, one bowl of rare beef phở, please!", "ja": "すみません、レアの牛肉のフォーを一杯ください！" },
+      "translations": {
+        "en": "Excuse me, one bowl of rare beef phở, please!",
+        "ja": "すみません、レアの牛肉のフォーを一杯ください！"
+      },
       "note": {
         "en": "Anh ơi calls a male server (chị ơi for a woman, em ơi for someone younger). Cho tôi + number + noun = \"I'd like…\". Tái means the beef is served rare.",
         "ja": "Anh ơi は男性の店員を呼ぶ言い方です（女性には chị ơi、年下には em ơi）。「cho tôi＋数＋名詞」で「〜をください」。tái は牛肉がレアの意味です。"
@@ -83,7 +135,10 @@
     },
     {
       "text": "Một bát phở nóng rất hợp với ngày mùa đông.",
-      "translations": { "en": "A hot bowl of phở is perfect for a winter day.", "ja": "熱いフォーは冬の日にぴったりです。" }
+      "translations": {
+        "en": "A hot bowl of phở is perfect for a winter day.",
+        "ja": "熱いフォーは冬の日にぴったりです。"
+      }
     }
   ]
 }

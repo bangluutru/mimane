@@ -52,6 +52,11 @@ export function SettingsSheet({ lesson, onClose, onDelete }: { lesson: Lesson; o
           {lesson.difficulty && <span>{levelLabel(lesson.difficulty)}{lesson.difficulty.estimated ? ' (est.)' : ''}{lesson.accent ? ` · ${t(`accent.${lesson.accent}`)}` : ''}</span>}
           {lesson.source.attribution && <span>{lesson.source.attribution}{lesson.source.license ? ` · ${lesson.source.license}` : ''}</span>}
           {lesson.source.synthetic && <span>{t('lesson.syntheticHint')}</span>}
+          {lesson.source.transcript === 'auto' && (
+            <span>
+              <span className="badge warn">{t('asr.auto')}</span> {lesson.source.transcriber} · {t('asr.review')}
+            </span>
+          )}
         </div>
         {onDelete && (
           <button className="btn danger sm" style={{ alignSelf: 'flex-start', marginTop: 8 }} onClick={onDelete}>

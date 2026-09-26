@@ -11,11 +11,21 @@
     "en": "Practical tips on agendas, timing, decisions and follow-up for better meetings.",
     "ja": "アジェンダ、時間管理、意思決定、フォローアップについての実践的なアドバイスです。"
   },
-  "categories": ["work-business"],
-  "tags": ["meetings", "workplace", "collocations", "phrasal-verbs"],
-  "difficulty": { "framework": "cefr", "level": "B1" },
+  "categories": [
+    "work-business"
+  ],
+  "tags": [
+    "meetings",
+    "workplace",
+    "collocations",
+    "phrasal-verbs"
+  ],
+  "difficulty": {
+    "framework": "cefr",
+    "level": "B1"
+  },
   "accent": "en-us",
-  "voice": "Samantha",
+  "voice": "edge:en-US-AndrewNeural",
   "sentences": [
     {
       "text": "Most of us spend hours in meetings every week, but many feel like a waste of time.",

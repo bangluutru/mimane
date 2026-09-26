@@ -154,7 +154,12 @@ function PlayerView({ lesson, startIndex }: { lesson: Lesson; startIndex: number
             <ArrowLeft size={22} />
           </button>
           <div className="title">
-            <div className="t1" lang={lesson.targetLanguage}>{lesson.title.original}</div>
+            <div className="t1" lang={lesson.targetLanguage}>
+              {lesson.source.transcript === 'auto' && (
+                <span className="badge warn" style={{ marginRight: 6, verticalAlign: 1 }} title={t('asr.review')}>{t('asr.auto')}</span>
+              )}
+              {lesson.title.original}
+            </div>
             <div className="t2">{pick(lesson.title, supportLanguage, '') !== lesson.title.original ? pick(lesson.title, supportLanguage) : t(`mode.${mode}Hint`)}</div>
           </div>
           {(mode === 'listen' || mode === 'shadow') && (

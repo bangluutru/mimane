@@ -11,11 +11,22 @@
     "en": "A short café scene with everyday phrases for ordering coffee.",
     "ja": "カフェでコーヒーを注文するときの定番フレーズを使った短い場面です。"
   },
-  "categories": ["daily-life", "food"],
-  "tags": ["coffee", "ordering", "cafe", "polite-requests"],
-  "difficulty": { "framework": "cefr", "level": "A2" },
+  "categories": [
+    "daily-life",
+    "food"
+  ],
+  "tags": [
+    "coffee",
+    "ordering",
+    "cafe",
+    "polite-requests"
+  ],
+  "difficulty": {
+    "framework": "cefr",
+    "level": "A2"
+  },
   "accent": "en-us",
-  "voice": "Samantha",
+  "voice": "edge:en-US-AvaNeural",
   "sentences": [
     {
       "text": "Every morning, I stop at a small coffee shop near my office.",

@@ -28,7 +28,7 @@
     "level": "N4"
   },
   "accent": "ja-tokyo",
-  "voice": "Kyoko",
+  "voice": "edge:ja-JP-KeitaNeural",
   "sentences": [
     {
       "text": "日本人は、なぜこんなに桜が好きなのでしょうか。",

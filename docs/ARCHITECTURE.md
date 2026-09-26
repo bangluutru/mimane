@@ -198,9 +198,10 @@ pronunciation scoring, forced alignment, speech recognition.
 
 - **User progress is not embedded in `Sentence`.** Content stays immutable and
   cacheable; progress is joined at runtime by `sentenceId`.
-- **Prepared demo lessons use synthesized (TTS) audio** generated at build time
-  so the catalog is shippable without licensing third-party media; they are
-  labelled as synthetic. Authentic content enters via YouTube/file import.
+- **Prepared demo lessons use neural TTS audio** (Edge neural voices for ja/en,
+  VieNeu-TTS for vi) generated at build time so the catalog is shippable without
+  licensing third-party media; they are labelled as synthesized. Authentic
+  content enters via YouTube/file import, with automatic transcription.
 - **Dictation** is included in basic form because it costs little once the
   `StudyEngine` exists (the brief lists it as Phase 2).
 - **Japanese → Vietnamese meanings** for *imported* text: no open JA–VI dictionary
@@ -226,3 +227,43 @@ pronunciation scoring, forced alignment, speech recognition.
 - **Dictation** reports a transparent count (units matched / expected). For
   Vietnamese and English, a word that is right except for its tone or accent
   marks is reported separately rather than as a missing word.
+
+## 12. Speech: synthesis (build time) and recognition (import time)
+
+```
+                 build time                                   import time (learner's device)
+content/lessons ─▶ scripts/tts/synthesize.py ─┐      media file / YouTube URL
+                   edge  (ja, en: Nanami, Keita, │              │
+                          Ava, Andrew, Emma)     │   ┌──────────┴───────────┐
+                   vieneu (vi: Trúc Ly, Mai Anh, │   ▼                      ▼
+                          Minh Quân Pro)         │ tools/transcriber     whisper.worker.ts
+                   best-of-3 + Whisper check ◀───┘ faster-whisper        Transformers.js
+                          │                        large-v3-turbo        (WebGPU / WASM)
+                          ▼                        + yt-dlp for YouTube  files only
+          scripts/tts/qa_audio.py (round trip)            └──────┬───────┘
+                                                    TranscriptionProvider → words
+                                                    wordsToCues (punctuation, pauses,
+                                                    ≤12 s) → editable SRT → Lesson
+```
+
+- **TTS engines** come from the `ai-workforce` toolchain (`AIWF_DIR`, default
+  `../../ai-workforce`). A lesson picks one with `"voice": "edge:<voice>"` or
+  `"vieneu:<preset>"`. Vietnamese presets exist for the North, Centre and South,
+  which matches the accent metadata.
+- **VieNeu sampling is stochastic** and sometimes mispronounces a syllable
+  ("Phở" → "vở"). That is unacceptable for pronunciation practice, so each
+  sentence is synthesized up to 3 times and the take whose Whisper transcript
+  matches the text best is kept. `npm run lessons:qa` re-checks every lesson.
+- **ASR providers** implement `TranscriptionProvider`
+  (`src/domains/transcript/asr.ts`). `pickProvider` prefers the local
+  faster-whisper server, which is the same engine as the `phu-de` skill and
+  gives word timestamps. The in-browser Whisper is the fallback when no server
+  runs. The browser cannot read audio from a YouTube iframe, so YouTube
+  transcription needs the local server (yt-dlp).
+- Recognition output is **never trusted blindly**. It fills the transcript box
+  as SRT for the learner to review, and the lesson carries
+  `source.transcript = 'auto'` plus the model name, shown as an
+  "Auto transcript" badge in the player.
+- The transcriber binds to `127.0.0.1`, allows CORS only from local origins,
+  accepts only YouTube hosts for URLs, and deletes temporary audio after each
+  job.

@@ -26,7 +26,7 @@
     "level": "B2"
   },
   "accent": "en-us",
-  "voice": "Samantha",
+  "voice": "edge:en-US-EmmaNeural",
   "sentences": [
     {
       "text": "We spend roughly a third of our lives asleep, yet scientists are still uncovering why.",

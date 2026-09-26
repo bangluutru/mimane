@@ -27,7 +27,7 @@
     "level": "N3"
   },
   "accent": "ja-tokyo",
-  "voice": "Kyoko",
+  "voice": "edge:ja-JP-NanamiNeural",
   "sentences": [
     {
       "text": "晴れた日の空は、なぜ青く見えるのでしょうか。",

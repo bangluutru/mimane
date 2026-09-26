@@ -14,6 +14,7 @@ import type { AccentId, SupportLang, TargetLang } from '@/languages/types';
 import { uid } from '@/domains/storage/db';
 import type { MediaSource } from '@/domains/lesson/types';
 import { FLAG } from '@/ui/format';
+import { AutoTranscribe } from './AutoTranscribe';
 
 function mediaDuration(file: File): Promise<number | undefined> {
   return new Promise((resolve) => {
@@ -69,6 +70,9 @@ export default function ImportPage() {
   const [accent, setAccent] = useState<AccentId>();
   const [merge, setMerge] = useState(true);
   const [busy, setBusy] = useState<string>();
+  /** set when the transcript came from speech recognition */
+  const [transcriber, setTranscriber] = useState<string>();
+  const [asrNote, setAsrNote] = useState<string>();
   const [error, setError] = useState<string>();
 
   const ytId = parseYouTubeId(yt);
@@ -85,6 +89,11 @@ export default function ImportPage() {
   const onTranscript = (text: string, name?: string) => {
     setTranscript(text);
     setTranscriptName(name);
+    if (name) {
+      // a subtitle file replaces an automatic transcript
+      setTranscriber(undefined);
+      setAsrNote(undefined);
+    }
     if (!langTouched) setLang(detectLanguage(text));
     if (!title && name) setTitle(name.replace(/\.(srt|vtt|txt|json)$/i, '').replace(/[._-]+/g, ' '));
   };
@@ -119,6 +128,7 @@ export default function ImportPage() {
           difficulty: level ? { framework: FRAMEWORK_FOR[lang], level } : undefined,
           accent,
           sourceUrl: source === 'youtube' ? `https://www.youtube.com/watch?v=${ytId}` : undefined,
+          transcriber,
         },
         (d, n) => setBusy(`${t('import.analysing')} ${d}/${n}`),
       );
@@ -160,6 +170,20 @@ export default function ImportPage() {
       <section className="panel stack">
         <h2>{t('import.transcript')}</h2>
         <p className="small muted">{t('import.transcriptHint')}</p>
+        <AutoTranscribe
+          youtubeUrl={source === 'youtube' && ytId ? `https://www.youtube.com/watch?v=${ytId}` : undefined}
+          file={source === 'file' ? file : undefined}
+          lang={lang}
+          setLang={(l) => { setLang(l); setLangTouched(true); }}
+          onResult={(srt, info) => {
+            setTranscript(srt);
+            setTranscriptName(undefined);
+            setTranscriber(info.model);
+            setMerge(false); // already split into sentences from word timings
+            setAsrNote(t('asr.done', { n: info.sentences, model: info.model }));
+          }}
+        />
+        {asrNote && <div className="note-box small">{asrNote}<br />{t('asr.review')}</div>}
         <FileDrop accept=".srt,.vtt,.txt,.json,text/plain" label={transcriptName ?? t('import.uploadSub')} icon={<Upload size={18} />} onFile={(f) => f.text().then((txt) => onTranscript(txt, f.name))} />
         <textarea className="input" placeholder={t('import.paste')} value={transcript} onChange={(e) => onTranscript(e.target.value)} />
         {cueInfo && (

@@ -29,6 +29,10 @@ export interface LessonSource {
   license?: string;
   /** true when audio is machine-synthesised (demo content) */
   synthetic?: boolean;
+  /** 'auto' when the transcript came from speech recognition (may contain errors) */
+  transcript?: 'provided' | 'auto';
+  /** e.g. "faster-whisper large-v3-turbo" */
+  transcriber?: string;
 }
 
 export interface LessonMeta {

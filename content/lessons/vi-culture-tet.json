@@ -1,37 +1,68 @@
 {
   "id": "vi-culture-tet",
   "targetLanguage": "vi",
-  "title": { "original": "Tết Nguyên Đán", "en": "Tết: The Lunar New Year", "ja": "テト（ベトナムの旧正月）" },
+  "title": {
+    "original": "Tết Nguyên Đán",
+    "en": "Tết: The Lunar New Year",
+    "ja": "テト（ベトナムの旧正月）"
+  },
   "description": {
     "vi": "Người Việt đón Tết như thế nào: dọn nhà, gói bánh chưng, lì xì và đi thăm họ hàng.",
     "en": "How Vietnamese families celebrate Tết: cleaning the house, making bánh chưng, lucky money and family visits.",
     "ja": "大掃除、バインチュン作り、お年玉、親戚訪問など、ベトナムの家族のテトの過ごし方です。"
   },
-  "categories": ["culture", "family"],
-  "tags": ["tet", "lunar new year", "holidays", "traditions", "family"],
-  "difficulty": { "framework": "vi-level", "level": "beginner" },
+  "categories": [
+    "culture",
+    "family"
+  ],
+  "tags": [
+    "tet",
+    "lunar new year",
+    "holidays",
+    "traditions",
+    "family"
+  ],
+  "difficulty": {
+    "framework": "vi-level",
+    "level": "beginner"
+  },
   "accent": "vi-north",
-  "voice": "Linh",
+  "voice": "vieneu:Minh Quân Pro",
   "sentences": [
     {
       "text": "Tết Nguyên Đán là Tết cổ truyền của người Việt.",
-      "translations": { "en": "Tết Nguyên Đán is the traditional New Year of the Vietnamese.", "ja": "テト・グエンダンはベトナム人の伝統的なお正月です。" }
+      "translations": {
+        "en": "Tết Nguyên Đán is the traditional New Year of the Vietnamese.",
+        "ja": "テト・グエンダンはベトナム人の伝統的なお正月です。"
+      }
     },
     {
       "text": "Tết là năm mới theo âm lịch.",
-      "translations": { "en": "Tết is the New Year of the lunar calendar.", "ja": "テトは旧暦のお正月です。" }
+      "translations": {
+        "en": "Tết is the New Year of the lunar calendar.",
+        "ja": "テトは旧暦のお正月です。"
+      }
     },
     {
       "text": "Trước Tết, mọi người dọn dẹp nhà cửa.",
-      "translations": { "en": "Before Tết, everyone cleans up the house.", "ja": "テトの前に、みんな家の大掃除をします。" }
+      "translations": {
+        "en": "Before Tết, everyone cleans up the house.",
+        "ja": "テトの前に、みんな家の大掃除をします。"
+      }
     },
     {
       "text": "Ở miền Bắc, nhà nào cũng có hoa đào.",
-      "translations": { "en": "In the North, every home has peach blossoms.", "ja": "北部では、どの家にも桃の花があります。" }
+      "translations": {
+        "en": "In the North, every home has peach blossoms.",
+        "ja": "北部では、どの家にも桃の花があります。"
+      }
     },
     {
       "text": "Ở miền Nam, người ta thích hoa mai vàng.",
-      "translations": { "en": "In the South, people love yellow apricot blossoms.", "ja": "南部では、黄色いマイの花が好まれます。" },
+      "translations": {
+        "en": "In the South, people love yellow apricot blossoms.",
+        "ja": "南部では、黄色いマイの花が好まれます。"
+      },
       "note": {
         "en": "A regional tradition: pink hoa đào (peach blossom) is the Tết flower of the North, yellow hoa mai (ochna / \"apricot\" blossom) that of the South.",
         "ja": "地域による伝統の違いです。北部のテトの花はピンクの hoa đào（桃の花）、南部では黄色い hoa mai（マイの花）です。"
@@ -39,11 +70,17 @@
     },
     {
       "text": "Cả gia đình cùng nhau gói bánh chưng.",
-      "translations": { "en": "The whole family wraps bánh chưng together.", "ja": "家族みんなでバインチュンを包みます。" }
+      "translations": {
+        "en": "The whole family wraps bánh chưng together.",
+        "ja": "家族みんなでバインチュンを包みます。"
+      }
     },
     {
       "text": "Bánh chưng làm từ gạo nếp, đậu xanh và thịt lợn.",
-      "translations": { "en": "Bánh chưng is made from sticky rice, mung beans and pork.", "ja": "バインチュンはもち米、緑豆、豚肉で作ります。" },
+      "translations": {
+        "en": "Bánh chưng is made from sticky rice, mung beans and pork.",
+        "ja": "バインチュンはもち米、緑豆、豚肉で作ります。"
+      },
       "note": {
         "en": "\"Pork\" is thịt lợn in the North and thịt heo in the South — both are correct. The South also makes a round, log-shaped cake called bánh tét.",
         "ja": "「豚肉」は北部で thịt lợn、南部で thịt heo と言い、どちらも正しい言い方です。南部では丸い筒形の bánh tét も作ります。"
@@ -51,7 +88,10 @@
     },
     {
       "text": "Đêm giao thừa, cả nhà quây quần bên nhau.",
-      "translations": { "en": "On New Year's Eve, the whole family gathers together.", "ja": "大晦日の夜、家族全員が集まります。" },
+      "translations": {
+        "en": "On New Year's Eve, the whole family gathers together.",
+        "ja": "大晦日の夜、家族全員が集まります。"
+      },
       "note": {
         "en": "Giao thừa is the exact moment when the old year hands over to the new one; đêm giao thừa is the night of New Year's Eve.",
         "ja": "Giao thừa は旧年から新年へ移り変わる瞬間のことで、đêm giao thừa は大晦日の夜を指します。"
@@ -59,11 +99,17 @@
     },
     {
       "text": "Sáng mùng một, con cháu chúc Tết ông bà.",
-      "translations": { "en": "On the morning of the first day, the children and grandchildren wish their grandparents a happy Tết.", "ja": "元日の朝、子や孫が祖父母に新年のあいさつをします。" }
+      "translations": {
+        "en": "On the morning of the first day, the children and grandchildren wish their grandparents a happy Tết.",
+        "ja": "元日の朝、子や孫が祖父母に新年のあいさつをします。"
+      }
     },
     {
       "text": "Người lớn lì xì cho trẻ em.",
-      "translations": { "en": "Adults give lucky money to children.", "ja": "大人は子どもにお年玉をあげます。" },
+      "translations": {
+        "en": "Adults give lucky money to children.",
+        "ja": "大人は子どもにお年玉をあげます。"
+      },
       "note": {
         "en": "Lì xì (lucky money) comes from Cantonese. Northerners also often say mừng tuổi, literally \"celebrating (a new) age\".",
         "ja": "Lì xì（お年玉）は広東語から来た言葉です。北部では mừng tuổi（「歳を祝う」の意味）ともよく言います。"
@@ -71,15 +117,24 @@
     },
     {
       "text": "Tiền lì xì được đựng trong phong bao đỏ.",
-      "translations": { "en": "The lucky money is put in red envelopes.", "ja": "お年玉は赤い封筒に入れます。" }
+      "translations": {
+        "en": "The lucky money is put in red envelopes.",
+        "ja": "お年玉は赤い封筒に入れます。"
+      }
     },
     {
       "text": "Mọi người đi thăm họ hàng và bạn bè.",
-      "translations": { "en": "People go to visit relatives and friends.", "ja": "みんな親戚や友達の家を訪ねます。" }
+      "translations": {
+        "en": "People go to visit relatives and friends.",
+        "ja": "みんな親戚や友達の家を訪ねます。"
+      }
     },
     {
       "text": "Chúc mừng năm mới!",
-      "translations": { "en": "Happy New Year!", "ja": "明けましておめでとう！" },
+      "translations": {
+        "en": "Happy New Year!",
+        "ja": "明けましておめでとう！"
+      },
       "note": {
         "en": "The standard Tết greeting. Watch the tones: chúc rises (sắc), mừng falls low (huyền), năm stays level and mới rises again (sắc).",
         "ja": "テトの定番のあいさつです。声調に注意：chúc（sắc・上がる）、mừng（huyền・低く下がる）、năm（平ら）、mới（sắc・上がる）。"

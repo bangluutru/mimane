@@ -18,7 +18,7 @@ computes sentence timestamps — so the app only *renders* pre-analysed data.
   "tags": ["physics", "light", "sky"],     // free-form, lowercase English
   "difficulty": { "framework": "jlpt", "level": "N3" },
   "accent": "ja-tokyo",                    // ja-tokyo | en-us | en-gb | vi-north | vi-central | vi-south
-  "voice": "Kyoko",                        // macOS `say` voice used for demo audio
+  "voice": "edge:ja-JP-NanamiNeural",      // edge:<voice> | vieneu:<preset> | say:<macOS voice>
   "sentences": [
     {
       "text": "空はなぜ青く見えるのでしょうか。",
