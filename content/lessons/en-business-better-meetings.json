@@ -1,0 +1,139 @@
+{
+  "id": "en-business-better-meetings",
+  "targetLanguage": "en",
+  "title": {
+    "original": "How to Run Better Meetings",
+    "vi": "Cách tổ chức cuộc họp hiệu quả hơn",
+    "ja": "より良い会議の進め方"
+  },
+  "description": {
+    "vi": "Lời khuyên thực tế về chương trình họp, thời gian, ra quyết định và theo dõi sau cuộc họp.",
+    "en": "Practical tips on agendas, timing, decisions and follow-up for better meetings.",
+    "ja": "アジェンダ、時間管理、意思決定、フォローアップについての実践的なアドバイスです。"
+  },
+  "categories": ["work-business"],
+  "tags": ["meetings", "workplace", "collocations", "phrasal-verbs"],
+  "difficulty": { "framework": "cefr", "level": "B1" },
+  "accent": "en-us",
+  "voice": "Samantha",
+  "sentences": [
+    {
+      "text": "Most of us spend hours in meetings every week, but many feel like a waste of time.",
+      "translations": {
+        "vi": "Hầu hết chúng ta dành hàng giờ mỗi tuần cho các cuộc họp, nhưng nhiều cuộc họp lại có cảm giác thật phí thời gian.",
+        "ja": "私たちの多くは毎週何時間も会議に費やしていますが、その多くは時間の無駄に感じられます。"
+      }
+    },
+    {
+      "text": "The good news is that a few simple habits can make meetings much better.",
+      "translations": {
+        "vi": "Tin tốt là chỉ vài thói quen đơn giản cũng có thể giúp các cuộc họp hiệu quả hơn nhiều.",
+        "ja": "うれしいことに、いくつかの簡単な習慣で会議はずっと良くなります。"
+      }
+    },
+    {
+      "text": "First, always send out a short agenda at least a day before the meeting.",
+      "translations": {
+        "vi": "Trước tiên, hãy luôn gửi một chương trình họp ngắn gọn ít nhất một ngày trước buổi họp.",
+        "ja": "まず、少なくとも会議の前日までに、短いアジェンダを必ず送りましょう。"
+      }
+    },
+    {
+      "text": "That way, everyone knows what to prepare and why they need to be there.",
+      "translations": {
+        "vi": "Như vậy, mọi người đều biết cần chuẩn bị gì và vì sao mình cần có mặt.",
+        "ja": "そうすれば、全員が何を準備すべきか、なぜ出席する必要があるのかがわかります。"
+      }
+    },
+    {
+      "text": "Second, start on time, even if one or two people are running late.",
+      "translations": {
+        "vi": "Thứ hai, hãy bắt đầu đúng giờ, kể cả khi có một hai người đến muộn.",
+        "ja": "次に、一人か二人が遅れていても、時間どおりに始めましょう。"
+      },
+      "note": {
+        "vi": "\"run late\" = bị trễ so với dự kiến (người hoặc cuộc họp). \"on time\" = đúng giờ, còn \"in time\" = kịp lúc.",
+        "en": "\"Run late\" = be behind schedule (a person or a meeting). \"On time\" = punctual; \"in time\" = early enough."
+      }
+    },
+    {
+      "text": "Keep the meeting short; thirty minutes is often enough for most topics.",
+      "translations": {
+        "vi": "Hãy giữ cuộc họp ngắn gọn; ba mươi phút thường là đủ cho hầu hết các chủ đề.",
+        "ja": "会議は短くしましょう。たいていの議題なら三十分で十分です。"
+      }
+    },
+    {
+      "text": "Ask someone to take notes and keep an eye on the clock.",
+      "translations": {
+        "vi": "Hãy nhờ một người ghi chép và để ý đồng hồ.",
+        "ja": "誰かにメモを取ってもらい、時間にも気を配ってもらいましょう。"
+      },
+      "note": {
+        "vi": "\"take notes\" = ghi chép; \"keep an eye on\" = để mắt tới, theo dõi. Khi nói, cụm này nối âm thành /kiːpənˈaɪɑn/.",
+        "en": "\"Take notes\" = write down key points; \"keep an eye on\" = watch. In speech it links as /kiːpənˈaɪɑn/."
+      }
+    },
+    {
+      "text": "If the discussion goes off topic, gently bring it back to the agenda.",
+      "translations": {
+        "vi": "Nếu cuộc thảo luận bị lạc đề, hãy nhẹ nhàng đưa nó trở lại chương trình họp.",
+        "ja": "話が脱線したら、やんわりとアジェンダに戻しましょう。"
+      }
+    },
+    {
+      "text": "A good facilitator helps the group stay on track without cutting people off.",
+      "translations": {
+        "vi": "Một người điều phối giỏi giúp cả nhóm đi đúng hướng mà không ngắt lời người khác.",
+        "ja": "優れた進行役は、人の話を遮ることなく、グループが本題からそれないようにします。"
+      },
+      "note": {
+        "vi": "\"stay on track\" = đi đúng hướng, không lạc đề; \"cut someone off\" = ngắt lời ai đó.",
+        "en": "\"Stay on track\" = keep to the plan; \"cut someone off\" = interrupt them."
+      }
+    },
+    {
+      "text": "Before the meeting ends, make sure that every decision is clear.",
+      "translations": {
+        "vi": "Trước khi kết thúc cuộc họp, hãy đảm bảo mọi quyết định đều rõ ràng.",
+        "ja": "会議が終わる前に、すべての決定事項がはっきりしているか確認しましょう。"
+      }
+    },
+    {
+      "text": "Who is going to do what, and by when?",
+      "translations": {
+        "vi": "Ai sẽ làm gì, và hạn chót là khi nào?",
+        "ja": "誰が、何を、いつまでにやるのか？"
+      },
+      "note": {
+        "vi": "Khi nói nhanh, \"going to\" thường thành \"gonna\" /ˈɡʌnə/. \"by when?\" = hạn chót là lúc nào?",
+        "en": "In fast speech \"going to\" often becomes \"gonna\" /ˈɡʌnə/. \"By when?\" asks for a deadline."
+      }
+    },
+    {
+      "text": "Write down each action item with a name and a deadline next to it.",
+      "translations": {
+        "vi": "Hãy ghi lại từng đầu việc cần làm, kèm tên người phụ trách và hạn chót bên cạnh.",
+        "ja": "各アクションアイテムを書き出し、その横に担当者名と期限を書き添えましょう。"
+      }
+    },
+    {
+      "text": "After the meeting, follow up with a short email that sums up the key points.",
+      "translations": {
+        "vi": "Sau cuộc họp, hãy gửi một email ngắn tóm tắt các ý chính để tiếp tục theo dõi công việc.",
+        "ja": "会議の後は、要点をまとめた短いメールでフォローアップしましょう。"
+      },
+      "note": {
+        "vi": "\"follow up (with…)\" là động từ = liên hệ/theo dõi tiếp; danh từ viết có gạch nối: \"a follow-up\". \"sum up\" = tóm tắt.",
+        "en": "\"Follow up (with…)\" is the verb; the noun is hyphenated: \"a follow-up\". \"Sum up\" = summarise."
+      }
+    },
+    {
+      "text": "When meetings are well run, people leave with energy instead of frustration.",
+      "translations": {
+        "vi": "Khi cuộc họp được điều hành tốt, mọi người ra về với năng lượng thay vì sự bực bội.",
+        "ja": "会議がうまく運営されれば、参加者は不満ではなく活力を持って帰っていきます。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,493 @@
+[
+ {
+  "id": "en-business-better-meetings",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "How to Run Better Meetings",
+   "vi": "Cách tổ chức cuộc họp hiệu quả hơn",
+   "ja": "より良い会議の進め方"
+  },
+  "description": {
+   "vi": "Lời khuyên thực tế về chương trình họp, thời gian, ra quyết định và theo dõi sau cuộc họp.",
+   "en": "Practical tips on agendas, timing, decisions and follow-up for better meetings.",
+   "ja": "アジェンダ、時間管理、意思決定、フォローアップについての実践的なアドバイスです。"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [
+   "vi",
+   "ja"
+  ],
+  "media": {
+   "kind": "file",
+   "mediaType": "audio",
+   "url": "media/en-business-better-meetings.mp3"
+  },
+  "durationSec": 60.58,
+  "sentenceCount": 14,
+  "categories": [
+   "work-business"
+  ],
+  "tags": [
+   "meetings",
+   "workplace",
+   "collocations",
+   "phrasal-verbs"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "B1"
+  },
+  "accent": "en-us",
+  "speakers": [
+   "Samantha"
+  ],
+  "source": {
+   "kind": "prepared",
+   "synthetic": true,
+   "attribution": "Mimane demo lesson · synthesized voice (Samantha)",
+   "license": "CC BY 4.0"
+  },
+  "author": "Mimane",
+  "createdAt": "2026-09-26T09:30:04.543Z",
+  "updatedAt": "2026-09-26T09:30:04.543Z"
+ },
+ {
+  "id": "en-daily-ordering-coffee",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "Ordering Coffee",
+   "vi": "Gọi cà phê",
+   "ja": "コーヒーを注文する"
+  },
+  "description": {
+   "vi": "Một cảnh ngắn ở quán cà phê với những câu gọi món thông dụng hằng ngày.",
+   "en": "A short café scene with everyday phrases for ordering coffee.",
+   "ja": "カフェでコーヒーを注文するときの定番フレーズを使った短い場面です。"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [
+   "vi",
+   "ja"
+  ],
+  "media": {
+   "kind": "file",
+   "mediaType": "audio",
+   "url": "media/en-daily-ordering-coffee.mp3"
+  },
+  "durationSec": 37.78,
+  "sentenceCount": 10,
+  "categories": [
+   "daily-life",
+   "food"
+  ],
+  "tags": [
+   "coffee",
+   "ordering",
+   "cafe",
+   "polite-requests"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "A2"
+  },
+  "accent": "en-us",
+  "speakers": [
+   "Samantha"
+  ],
+  "source": {
+   "kind": "prepared",
+   "synthetic": true,
+   "attribution": "Mimane demo lesson · synthesized voice (Samantha)",
+   "license": "CC BY 4.0"
+  },
+  "author": "Mimane",
+  "createdAt": "2026-09-26T09:30:14.515Z",
+  "updatedAt": "2026-09-26T09:30:14.515Z"
+ },
+ {
+  "id": "en-health-why-sleep",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "Why Do We Need Sleep?",
+   "vi": "Vì sao chúng ta cần ngủ?",
+   "ja": "私たちはなぜ眠る必要があるのか"
+  },
+  "description": {
+   "vi": "Giải thích khoa học dễ hiểu về vai trò của giấc ngủ đối với trí nhớ và não bộ (không phải lời khuyên y tế).",
+   "en": "A plain-language look at how sleep supports memory and brain health (not medical advice).",
+   "ja": "睡眠が記憶と脳の健康をどう支えているかをわかりやすく解説します（医療上の助言ではありません）。"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [
+   "vi",
+   "ja"
+  ],
+  "media": {
+   "kind": "file",
+   "mediaType": "audio",
+   "url": "media/en-health-why-sleep.mp3"
+  },
+  "durationSec": 72.32,
+  "sentenceCount": 14,
+  "categories": [
+   "health",
+   "science"
+  ],
+  "tags": [
+   "sleep",
+   "brain",
+   "memory",
+   "wellbeing"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "B2"
+  },
+  "accent": "en-us",
+  "speakers": [
+   "Samantha"
+  ],
+  "source": {
+   "kind": "prepared",
+   "synthetic": true,
+   "attribution": "Mimane demo lesson · synthesized voice (Samantha)",
+   "license": "CC BY 4.0"
+  },
+  "author": "Mimane",
+  "createdAt": "2026-09-26T09:30:30.578Z",
+  "updatedAt": "2026-09-26T09:30:30.578Z"
+ },
+ {
+  "id": "ja-culture-cherry-blossoms",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "日本人はなぜ桜が好きなのか",
+   "vi": "Vì sao người Nhật yêu hoa anh đào?",
+   "en": "Why Do Japanese People Love Cherry Blossoms?"
+  },
+  "description": {
+   "vi": "Hoa anh đào gắn với khởi đầu mới, lễ ngắm hoa và vẻ đẹp chóng tàn trong tâm hồn người Nhật.",
+   "en": "How cherry blossoms connect to new beginnings, hanami parties and the beauty of things that don't last.",
+   "ja": "桜が日本人にとって特別な花である理由を、やさしい日本語で紹介します。"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [
+   "vi",
+   "en"
+  ],
+  "media": {
+   "kind": "file",
+   "mediaType": "audio",
+   "url": "media/ja-culture-cherry-blossoms.mp3"
+  },
+  "durationSec": 57.44,
+  "sentenceCount": 12,
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "tags": [
+   "japan",
+   "spring",
+   "society",
+   "sakura",
+   "hanami",
+   "seasons"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N4"
+  },
+  "accent": "ja-tokyo",
+  "speakers": [
+   "Kyoko"
+  ],
+  "source": {
+   "kind": "prepared",
+   "synthetic": true,
+   "attribution": "Mimane demo lesson · synthesized voice (Kyoko)",
+   "license": "CC BY 4.0"
+  },
+  "author": "Mimane",
+  "createdAt": "2026-09-26T09:30:45.821Z",
+  "updatedAt": "2026-09-26T09:30:45.821Z"
+ },
+ {
+  "id": "ja-daily-convenience-store",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "朝のコンビニ",
+   "vi": "Cửa hàng tiện lợi buổi sáng",
+   "en": "A Morning at the Convenience Store"
+  },
+  "description": {
+   "vi": "Một chuyến ghé cửa hàng tiện lợi buổi sáng, kể bằng những câu です/ます ngắn và đơn giản.",
+   "en": "A quick morning trip to a Japanese konbini, told in short, simple です/ます sentences.",
+   "ja": "朝、近くのコンビニで朝ごはんを買う短い話です。"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [
+   "vi",
+   "en"
+  ],
+  "media": {
+   "kind": "file",
+   "mediaType": "audio",
+   "url": "media/ja-daily-convenience-store.mp3"
+  },
+  "durationSec": 32.23,
+  "sentenceCount": 9,
+  "categories": [
+   "daily-life",
+   "food"
+  ],
+  "tags": [
+   "japan",
+   "konbini",
+   "shopping",
+   "breakfast",
+   "morning"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N5"
+  },
+  "accent": "ja-tokyo",
+  "speakers": [
+   "Kyoko"
+  ],
+  "source": {
+   "kind": "prepared",
+   "synthetic": true,
+   "attribution": "Mimane demo lesson · synthesized voice (Kyoko)",
+   "license": "CC BY 4.0"
+  },
+  "author": "Mimane",
+  "createdAt": "2026-09-26T09:30:55.922Z",
+  "updatedAt": "2026-09-26T09:30:55.922Z"
+ },
+ {
+  "id": "ja-science-sky-blue",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "空はなぜ青いのか",
+   "vi": "Vì sao bầu trời có màu xanh?",
+   "en": "Why Is the Sky Blue?"
+  },
+  "description": {
+   "vi": "Giải thích đơn giản về tán xạ Rayleigh: vì sao trời xanh ban ngày và đỏ lúc hoàng hôn.",
+   "en": "A simple explanation of Rayleigh scattering: why the sky is blue by day and red at sunset.",
+   "ja": "レイリー散乱を使って、空が青く、夕焼けが赤く見える理由をやさしく説明します。"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [
+   "vi",
+   "en"
+  ],
+  "media": {
+   "kind": "file",
+   "mediaType": "audio",
+   "url": "media/ja-science-sky-blue.mp3"
+  },
+  "durationSec": 77.59,
+  "sentenceCount": 15,
+  "categories": [
+   "science",
+   "nature"
+  ],
+  "tags": [
+   "physics",
+   "light",
+   "sky",
+   "sunset",
+   "scattering"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N3"
+  },
+  "accent": "ja-tokyo",
+  "speakers": [
+   "Kyoko"
+  ],
+  "source": {
+   "kind": "prepared",
+   "synthetic": true,
+   "attribution": "Mimane demo lesson · synthesized voice (Kyoko)",
+   "license": "CC BY 4.0"
+  },
+  "author": "Mimane",
+  "createdAt": "2026-09-26T09:31:13.584Z",
+  "updatedAt": "2026-09-26T09:31:13.584Z"
+ },
+ {
+  "id": "vi-culture-tet",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "Tết Nguyên Đán",
+   "en": "Tết: The Lunar New Year",
+   "ja": "テト（ベトナムの旧正月）"
+  },
+  "description": {
+   "vi": "Người Việt đón Tết như thế nào: dọn nhà, gói bánh chưng, lì xì và đi thăm họ hàng.",
+   "en": "How Vietnamese families celebrate Tết: cleaning the house, making bánh chưng, lucky money and family visits.",
+   "ja": "大掃除、バインチュン作り、お年玉、親戚訪問など、ベトナムの家族のテトの過ごし方です。"
+  },
+  "targetLanguage": "vi",
+  "supportLanguages": [
+   "en",
+   "ja"
+  ],
+  "media": {
+   "kind": "file",
+   "mediaType": "audio",
+   "url": "media/vi-culture-tet.mp3"
+  },
+  "durationSec": 40.93,
+  "sentenceCount": 13,
+  "categories": [
+   "culture",
+   "family"
+  ],
+  "tags": [
+   "tet",
+   "lunar new year",
+   "holidays",
+   "traditions",
+   "family"
+  ],
+  "difficulty": {
+   "framework": "vi-level",
+   "level": "beginner"
+  },
+  "accent": "vi-north",
+  "speakers": [
+   "Linh"
+  ],
+  "source": {
+   "kind": "prepared",
+   "synthetic": true,
+   "attribution": "Mimane demo lesson · synthesized voice (Linh)",
+   "license": "CC BY 4.0"
+  },
+  "author": "Mimane",
+  "createdAt": "2026-09-26T09:31:24.922Z",
+  "updatedAt": "2026-09-26T09:31:24.922Z"
+ },
+ {
+  "id": "vi-daily-greetings",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "Xin chào!",
+   "en": "Hello! Everyday Greetings",
+   "ja": "こんにちは！毎日のあいさつ"
+  },
+  "description": {
+   "vi": "Những câu chào hỏi, giới thiệu bản thân và cảm ơn đơn giản nhất trong tiếng Việt.",
+   "en": "The simplest Vietnamese phrases for greeting people, introducing yourself and saying thank you.",
+   "ja": "あいさつ、自己紹介、お礼など、ベトナム語のいちばん基本的な表現です。"
+  },
+  "targetLanguage": "vi",
+  "supportLanguages": [
+   "en",
+   "ja"
+  ],
+  "media": {
+   "kind": "file",
+   "mediaType": "audio",
+   "url": "media/vi-daily-greetings.mp3"
+  },
+  "durationSec": 24.29,
+  "sentenceCount": 12,
+  "categories": [
+   "daily-life"
+  ],
+  "tags": [
+   "greetings",
+   "introductions",
+   "pronouns",
+   "politeness",
+   "basics"
+  ],
+  "difficulty": {
+   "framework": "vi-level",
+   "level": "beginner"
+  },
+  "accent": "vi-north",
+  "speakers": [
+   "Linh"
+  ],
+  "source": {
+   "kind": "prepared",
+   "synthetic": true,
+   "attribution": "Mimane demo lesson · synthesized voice (Linh)",
+   "license": "CC BY 4.0"
+  },
+  "author": "Mimane",
+  "createdAt": "2026-09-26T09:31:34.945Z",
+  "updatedAt": "2026-09-26T09:31:34.945Z"
+ },
+ {
+  "id": "vi-food-pho",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "Bát phở Hà Nội",
+   "en": "A Bowl of Hanoi Phở",
+   "ja": "ハノイのフォー"
+  },
+  "description": {
+   "vi": "Nguồn gốc của phở, cách nấu nước dùng, cách ăn và cách gọi một bát phở ở quán.",
+   "en": "Where phở comes from, how the broth is made, how people eat it and how to order a bowl.",
+   "ja": "フォーの起源、スープの作り方、食べ方、そして店での注文の仕方を紹介します。"
+  },
+  "targetLanguage": "vi",
+  "supportLanguages": [
+   "en",
+   "ja"
+  ],
+  "media": {
+   "kind": "file",
+   "mediaType": "audio",
+   "url": "media/vi-food-pho.mp3"
+  },
+  "durationSec": 45.5,
+  "sentenceCount": 13,
+  "categories": [
+   "food",
+   "culture"
+  ],
+  "tags": [
+   "pho",
+   "hanoi",
+   "noodles",
+   "street food",
+   "ordering"
+  ],
+  "difficulty": {
+   "framework": "vi-level",
+   "level": "elementary"
+  },
+  "accent": "vi-north",
+  "speakers": [
+   "Linh"
+  ],
+  "source": {
+   "kind": "prepared",
+   "synthetic": true,
+   "attribution": "Mimane demo lesson · synthesized voice (Linh)",
+   "license": "CC BY 4.0"
+  },
+  "author": "Mimane",
+  "createdAt": "2026-09-26T09:31:46.335Z",
+  "updatedAt": "2026-09-26T09:31:46.335Z"
+ }
+]

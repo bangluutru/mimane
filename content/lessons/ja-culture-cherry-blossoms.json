@@ -1,0 +1,134 @@
+{
+  "id": "ja-culture-cherry-blossoms",
+  "targetLanguage": "ja",
+  "title": {
+    "original": "日本人はなぜ桜が好きなのか",
+    "vi": "Vì sao người Nhật yêu hoa anh đào?",
+    "en": "Why Do Japanese People Love Cherry Blossoms?"
+  },
+  "description": {
+    "vi": "Hoa anh đào gắn với khởi đầu mới, lễ ngắm hoa và vẻ đẹp chóng tàn trong tâm hồn người Nhật.",
+    "en": "How cherry blossoms connect to new beginnings, hanami parties and the beauty of things that don't last.",
+    "ja": "桜が日本人にとって特別な花である理由を、やさしい日本語で紹介します。"
+  },
+  "categories": [
+    "culture",
+    "nature"
+  ],
+  "tags": [
+    "japan",
+    "spring",
+    "society",
+    "sakura",
+    "hanami",
+    "seasons"
+  ],
+  "difficulty": {
+    "framework": "jlpt",
+    "level": "N4"
+  },
+  "accent": "ja-tokyo",
+  "voice": "Kyoko",
+  "sentences": [
+    {
+      "text": "日本人は、なぜこんなに桜が好きなのでしょうか。",
+      "translations": {
+        "vi": "Vì sao người Nhật lại yêu hoa anh đào đến thế?",
+        "en": "Why do Japanese people love cherry blossoms so much?"
+      },
+      "note": {
+        "vi": "〜のでしょうか: cách hỏi mềm mại, mang tính gợi mở \"… nhỉ?\", hay dùng để mở đầu một chủ đề.",
+        "en": "〜のでしょうか is a soft, wondering question (\"I wonder why…\"), often used to open a topic."
+      }
+    },
+    {
+      "text": "桜は、毎年三月の終わりから四月に咲きます。",
+      "translations": {
+        "vi": "Hoa anh đào nở từ cuối tháng Ba đến tháng Tư hằng năm.",
+        "en": "Cherry trees bloom every year from late March into April."
+      }
+    },
+    {
+      "text": "日本では、四月に学校や会社が始まります。",
+      "translations": {
+        "vi": "Ở Nhật, trường học và công ty bắt đầu năm mới vào tháng Tư.",
+        "en": "In Japan, the school year and the working year begin in April."
+      }
+    },
+    {
+      "text": "だから、桜は新しい生活のシンボルなのです。",
+      "translations": {
+        "vi": "Vì vậy, hoa anh đào là biểu tượng của một cuộc sống mới.",
+        "en": "That is why cherry blossoms are a symbol of a new life."
+      }
+    },
+    {
+      "text": "春になると、たくさんの人が公園で花見をします。",
+      "translations": {
+        "vi": "Khi mùa xuân đến, rất nhiều người đi ngắm hoa ở công viên.",
+        "en": "When spring comes, many people go to parks for hanami."
+      },
+      "note": {
+        "vi": "Danh từ + になると = \"khi trở thành / khi đến …\": 春になると = \"hễ đến mùa xuân\".",
+        "en": "Noun + になると = \"when it becomes …\": 春になると = \"when spring comes\"."
+      }
+    },
+    {
+      "text": "桜を見ながら、家族や友達とお弁当を食べます。",
+      "translations": {
+        "vi": "Họ vừa ngắm hoa anh đào vừa ăn cơm hộp cùng gia đình và bạn bè.",
+        "en": "They eat boxed lunches with family and friends while looking at the blossoms."
+      }
+    },
+    {
+      "text": "でも、桜の花は一週間ぐらいしか咲きません。",
+      "translations": {
+        "vi": "Nhưng hoa anh đào chỉ nở trong khoảng một tuần.",
+        "en": "But cherry blossoms only bloom for about a week."
+      },
+      "note": {
+        "vi": "〜しか + thể phủ định = \"chỉ …\" (nhấn mạnh là ít). 一週間ぐらいしか咲きません = \"chỉ nở khoảng một tuần\".",
+        "en": "〜しか + negative = \"only …\" (stressing how little). 一週間ぐらいしか咲きません = \"blooms for only about a week\"."
+      }
+    },
+    {
+      "text": "風が吹くと、花びらはすぐに散ってしまいます。",
+      "translations": {
+        "vi": "Hễ gió thổi là cánh hoa rụng ngay.",
+        "en": "When the wind blows, the petals quickly scatter and fall."
+      },
+      "note": {
+        "vi": "〜てしまいます: hành động kết thúc hoàn toàn, thường kèm cảm giác tiếc nuối.",
+        "en": "〜てしまいます shows an action is completely finished, often with a sense of regret."
+      }
+    },
+    {
+      "text": "テレビのニュースでも、毎日桜の情報が紹介されます。",
+      "translations": {
+        "vi": "Ngay cả bản tin truyền hình cũng giới thiệu thông tin hoa anh đào mỗi ngày.",
+        "en": "Even the TV news reports on the cherry blossoms every day."
+      }
+    },
+    {
+      "text": "昔の人は、美しいものは長く続かないと考えました。",
+      "translations": {
+        "vi": "Người xưa cho rằng những gì đẹp đẽ thì không kéo dài.",
+        "en": "People long ago believed that beautiful things do not last."
+      }
+    },
+    {
+      "text": "咲いている時間が短いので、人々はその時を大切にします。",
+      "translations": {
+        "vi": "Vì thời gian hoa nở ngắn ngủi nên mọi người rất trân trọng khoảnh khắc ấy.",
+        "en": "Because the blossoms last so briefly, people treasure that moment."
+      }
+    },
+    {
+      "text": "桜は、日本人の心の中で特別な花なのです。",
+      "translations": {
+        "vi": "Hoa anh đào là loài hoa đặc biệt trong trái tim người Nhật.",
+        "en": "Cherry blossoms are a special flower in the hearts of Japanese people."
+      }
+    }
+  ]
+}

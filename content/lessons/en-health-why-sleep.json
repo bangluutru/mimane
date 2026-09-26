@@ -1,0 +1,150 @@
+{
+  "id": "en-health-why-sleep",
+  "targetLanguage": "en",
+  "title": {
+    "original": "Why Do We Need Sleep?",
+    "vi": "Vì sao chúng ta cần ngủ?",
+    "ja": "私たちはなぜ眠る必要があるのか"
+  },
+  "description": {
+    "vi": "Giải thích khoa học dễ hiểu về vai trò của giấc ngủ đối với trí nhớ và não bộ (không phải lời khuyên y tế).",
+    "en": "A plain-language look at how sleep supports memory and brain health (not medical advice).",
+    "ja": "睡眠が記憶と脳の健康をどう支えているかをわかりやすく解説します（医療上の助言ではありません）。"
+  },
+  "categories": [
+    "health",
+    "science"
+  ],
+  "tags": [
+    "sleep",
+    "brain",
+    "memory",
+    "wellbeing"
+  ],
+  "difficulty": {
+    "framework": "cefr",
+    "level": "B2"
+  },
+  "accent": "en-us",
+  "voice": "Samantha",
+  "sentences": [
+    {
+      "text": "We spend roughly a third of our lives asleep, yet scientists are still uncovering why.",
+      "translations": {
+        "vi": "Chúng ta dành khoảng một phần ba cuộc đời để ngủ, vậy mà các nhà khoa học vẫn đang tìm hiểu lý do.",
+        "ja": "私たちは人生のおよそ3分の1を眠って過ごしますが、その理由を科学者たちは今も解き明かしている最中です。"
+      }
+    },
+    {
+      "text": "Sleep might look passive, but the brain stays remarkably busy throughout the night.",
+      "translations": {
+        "vi": "Giấc ngủ trông có vẻ thụ động, nhưng não bộ vẫn bận rộn đến kinh ngạc suốt cả đêm.",
+        "ja": "睡眠は受け身の状態に見えるかもしれませんが、脳は一晩中驚くほど活発に働いています。"
+      }
+    },
+    {
+      "text": "One of its key jobs is memory consolidation, turning fragile new memories into lasting ones.",
+      "translations": {
+        "vi": "Một trong những nhiệm vụ chính của nó là củng cố trí nhớ, biến những ký ức mới còn mong manh thành ký ức bền lâu.",
+        "ja": "その重要な役割の一つが記憶の固定で、壊れやすい新しい記憶を長く残る記憶へと変えていきます。"
+      },
+      "note": {
+        "vi": "\"memory consolidation\" = sự củng cố trí nhớ. \"turn A into B\" = biến A thành B.",
+        "en": "\"Memory consolidation\" is the process of stabilising memories. \"Turn A into B\" = change A so it becomes B."
+      }
+    },
+    {
+      "text": "During deep sleep, the brain appears to replay what we learned and strengthen those connections.",
+      "translations": {
+        "vi": "Trong giai đoạn ngủ sâu, não dường như \"phát lại\" những gì ta đã học và củng cố các kết nối đó.",
+        "ja": "深い眠りの間、脳は学んだことを再生し、そのつながりを強めているようです。"
+      }
+    },
+    {
+      "text": "That's why staying up all night before an exam often backfires.",
+      "translations": {
+        "vi": "Đó là lý do việc thức trắng đêm trước kỳ thi thường phản tác dụng.",
+        "ja": "だからこそ、試験前の徹夜はかえって逆効果になりがちなのです。"
+      },
+      "note": {
+        "vi": "\"stay up (all night)\" = thức khuya / thức trắng đêm; \"backfire\" = phản tác dụng. \"That's why\" nói nhanh: /ðæts waɪ/.",
+        "en": "\"Stay up (all night)\" = not go to bed; \"backfire\" = have the opposite effect. \"That's why\" is said /ðæts waɪ/."
+      }
+    },
+    {
+      "text": "Sleep may also help the brain clean itself.",
+      "translations": {
+        "vi": "Giấc ngủ có lẽ còn giúp não tự làm sạch.",
+        "ja": "睡眠は、脳が自分自身をきれいにするのにも役立っているのかもしれません。"
+      }
+    },
+    {
+      "text": "Studies in mice suggest that the space between brain cells widens during sleep.",
+      "translations": {
+        "vi": "Các nghiên cứu trên chuột cho thấy khoảng trống giữa các tế bào não giãn rộng ra khi ngủ.",
+        "ja": "マウスを使った研究では、睡眠中に脳細胞どうしのすき間が広がることが示唆されています。"
+      },
+      "note": {
+        "vi": "\"mice\" là số nhiều bất quy tắc của \"mouse\". Trong văn khoa học, \"suggest\" = cho thấy (chưa khẳng định chắc chắn).",
+        "en": "\"Mice\" is the irregular plural of \"mouse\". In science writing, \"suggest\" signals evidence, not proof."
+      }
+    },
+    {
+      "text": "This allows fluid to flush away waste products more efficiently, a process called glymphatic clearance.",
+      "translations": {
+        "vi": "Điều này giúp chất dịch trong não cuốn trôi chất thải hiệu quả hơn, một quá trình được gọi là thanh thải glymphatic.",
+        "ja": "これにより液体が老廃物をより効率よく洗い流せるようになります。この働きはグリンパティック・クリアランスと呼ばれています。"
+      }
+    },
+    {
+      "text": "Researchers are still working out how exactly this works in humans.",
+      "translations": {
+        "vi": "Các nhà nghiên cứu vẫn đang tìm hiểu xem cơ chế này hoạt động chính xác ra sao ở người.",
+        "ja": "これが人間で具体的にどう働いているのか、研究者たちは今も解明を進めています。"
+      }
+    },
+    {
+      "text": "Meanwhile, even one bad night can weaken our attention, mood, and reaction time.",
+      "translations": {
+        "vi": "Trong khi đó, chỉ một đêm ngủ kém cũng có thể làm suy giảm sự tập trung, tâm trạng và tốc độ phản xạ.",
+        "ja": "一方で、たった一晩よく眠れないだけでも、注意力や気分、反応速度が落ちることがあります。"
+      }
+    },
+    {
+      "text": "Most adults need at least seven hours of sleep a night, while teenagers need even more.",
+      "translations": {
+        "vi": "Hầu hết người trưởng thành cần ngủ ít nhất bảy tiếng mỗi đêm, còn thanh thiếu niên thì cần nhiều hơn nữa.",
+        "ja": "ほとんどの大人は一晩に少なくとも7時間の睡眠が必要で、十代の若者はさらに多くの睡眠を必要とします。"
+      }
+    },
+    {
+      "text": "Keeping a regular schedule and cutting back on caffeine in the afternoon can make a real difference.",
+      "translations": {
+        "vi": "Giữ giờ giấc đều đặn và hạn chế caffeine vào buổi chiều có thể tạo ra khác biệt rõ rệt.",
+        "ja": "規則正しい生活リズムを保ち、午後のカフェインを控えるだけでも、はっきりとした違いが生まれます。"
+      },
+      "note": {
+        "vi": "\"cut back on\" = cắt giảm; \"make a (real) difference\" = tạo ra khác biệt (rõ rệt).",
+        "en": "\"Cut back on\" = reduce; \"make a (real) difference\" = have a noticeable effect."
+      }
+    },
+    {
+      "text": "A cool, dark room and less screen time before bed also help many people fall asleep.",
+      "translations": {
+        "vi": "Một căn phòng mát, tối và ít dùng màn hình trước khi ngủ cũng giúp nhiều người dễ ngủ hơn.",
+        "ja": "涼しく暗い部屋や、寝る前に画面を見る時間を減らすことも、多くの人の寝つきを助けます。"
+      }
+    },
+    {
+      "text": "If you regularly struggle to sleep, it's worth seeing a doctor rather than putting up with it.",
+      "translations": {
+        "vi": "Nếu bạn thường xuyên khó ngủ, bạn nên đi gặp bác sĩ thay vì chỉ cố chịu đựng.",
+        "ja": "眠れないことがよくあるなら、ただ我慢するのではなく、医師に相談してみる価値があります。"
+      },
+      "note": {
+        "vi": "\"it's worth + V-ing\" = đáng để làm gì; \"put up with\" = chịu đựng, cam chịu; \"rather than\" = thay vì.",
+        "en": "\"It's worth + -ing\" = it is a good idea to do it; \"put up with\" = tolerate; \"rather than\" = instead of."
+      }
+    }
+  ]
+}

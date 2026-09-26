@@ -1,0 +1,1317 @@
+{
+  "日本人": {
+    "reading": "にほんじん",
+    "pos": "noun",
+    "vi": "người Nhật",
+    "en": "Japanese person",
+    "jlpt": "N5"
+  },
+  "日本": {
+    "reading": "にほん",
+    "pos": "noun",
+    "vi": "Nhật Bản",
+    "en": "Japan",
+    "jlpt": "N5"
+  },
+  "なぜ": {
+    "reading": "なぜ",
+    "pos": "adverb",
+    "vi": "tại sao",
+    "en": "why",
+    "jlpt": "N5"
+  },
+  "こんなに": {
+    "reading": "こんなに",
+    "pos": "adverb",
+    "vi": "đến mức này, nhiều thế này",
+    "en": "this much, so",
+    "jlpt": "N4"
+  },
+  "桜": {
+    "reading": "さくら",
+    "pos": "noun",
+    "vi": "hoa anh đào",
+    "en": "cherry blossom",
+    "jlpt": "N4"
+  },
+  "好き": {
+    "reading": "すき",
+    "pos": "adjective",
+    "vi": "thích",
+    "en": "liked, fond of",
+    "jlpt": "N5"
+  },
+  "毎年": {
+    "reading": "まいとし",
+    "pos": "noun",
+    "vi": "hằng năm",
+    "en": "every year",
+    "jlpt": "N5"
+  },
+  "三月": {
+    "reading": "さんがつ",
+    "pos": "noun",
+    "vi": "tháng Ba",
+    "en": "March",
+    "jlpt": "N5"
+  },
+  "四月": {
+    "reading": "しがつ",
+    "pos": "noun",
+    "vi": "tháng Tư",
+    "en": "April",
+    "jlpt": "N5"
+  },
+  "終わる": {
+    "reading": "おわる",
+    "pos": "verb",
+    "vi": "kết thúc",
+    "en": "to end",
+    "jlpt": "N5"
+  },
+  "咲く": {
+    "reading": "さく",
+    "pos": "verb",
+    "vi": "(hoa) nở",
+    "en": "to bloom",
+    "jlpt": "N4"
+  },
+  "学校": {
+    "reading": "がっこう",
+    "pos": "noun",
+    "vi": "trường học",
+    "en": "school",
+    "jlpt": "N5"
+  },
+  "会社": {
+    "reading": "かいしゃ",
+    "pos": "noun",
+    "vi": "công ty",
+    "en": "company, office",
+    "jlpt": "N5"
+  },
+  "始まる": {
+    "reading": "はじまる",
+    "pos": "verb",
+    "vi": "bắt đầu",
+    "en": "to begin",
+    "jlpt": "N5"
+  },
+  "だから": {
+    "reading": "だから",
+    "pos": "conjunction",
+    "vi": "vì vậy, cho nên",
+    "en": "so, therefore",
+    "jlpt": "N5"
+  },
+  "新しい": {
+    "reading": "あたらしい",
+    "pos": "adjective",
+    "vi": "mới",
+    "en": "new",
+    "jlpt": "N5"
+  },
+  "生活": {
+    "reading": "せいかつ",
+    "pos": "noun",
+    "vi": "cuộc sống, sinh hoạt",
+    "en": "life, daily living",
+    "jlpt": "N4"
+  },
+  "シンボル": {
+    "reading": "しんぼる",
+    "pos": "noun",
+    "vi": "biểu tượng",
+    "en": "symbol",
+    "jlpt": "N2"
+  },
+  "春": {
+    "reading": "はる",
+    "pos": "noun",
+    "vi": "mùa xuân",
+    "en": "spring",
+    "jlpt": "N5"
+  },
+  "なる": {
+    "reading": "なる",
+    "pos": "verb",
+    "vi": "trở thành, trở nên",
+    "en": "to become",
+    "jlpt": "N5"
+  },
+  "たくさん": {
+    "reading": "たくさん",
+    "pos": "adverb",
+    "vi": "nhiều",
+    "en": "a lot, many",
+    "jlpt": "N5"
+  },
+  "人": {
+    "reading": "ひと",
+    "pos": "noun",
+    "vi": "người",
+    "en": "person",
+    "jlpt": "N5"
+  },
+  "公園": {
+    "reading": "こうえん",
+    "pos": "noun",
+    "vi": "công viên",
+    "en": "park",
+    "jlpt": "N5"
+  },
+  "花見": {
+    "reading": "はなみ",
+    "pos": "noun",
+    "vi": "ngắm hoa (anh đào)",
+    "en": "cherry-blossom viewing",
+    "jlpt": "N4"
+  },
+  "する": {
+    "reading": "する",
+    "pos": "verb",
+    "vi": "làm",
+    "en": "to do",
+    "jlpt": "N5"
+  },
+  "家族": {
+    "reading": "かぞく",
+    "pos": "noun",
+    "vi": "gia đình",
+    "en": "family",
+    "jlpt": "N5"
+  },
+  "友達": {
+    "reading": "ともだち",
+    "pos": "noun",
+    "vi": "bạn bè",
+    "en": "friend",
+    "jlpt": "N5"
+  },
+  "弁当": {
+    "reading": "べんとう",
+    "pos": "noun",
+    "vi": "cơm hộp",
+    "en": "boxed lunch",
+    "jlpt": "N5"
+  },
+  "食べる": {
+    "reading": "たべる",
+    "pos": "verb",
+    "vi": "ăn",
+    "en": "to eat",
+    "jlpt": "N5"
+  },
+  "でも": {
+    "reading": "でも",
+    "pos": "conjunction",
+    "vi": "nhưng",
+    "en": "but",
+    "jlpt": "N5"
+  },
+  "花": {
+    "reading": "はな",
+    "pos": "noun",
+    "vi": "hoa",
+    "en": "flower",
+    "jlpt": "N5"
+  },
+  "短い": {
+    "reading": "みじかい",
+    "pos": "adjective",
+    "vi": "ngắn",
+    "en": "short",
+    "jlpt": "N5"
+  },
+  "一週間": {
+    "reading": "いっしゅうかん",
+    "pos": "noun",
+    "vi": "một tuần",
+    "en": "one week",
+    "jlpt": "N5"
+  },
+  "週間": {
+    "reading": "しゅうかん",
+    "pos": "suffix",
+    "vi": "tuần (đếm số tuần)",
+    "en": "week(s) (counter)",
+    "jlpt": "N5"
+  },
+  "花びら": {
+    "reading": "はなびら",
+    "pos": "noun",
+    "vi": "cánh hoa",
+    "en": "petal",
+    "jlpt": "N3"
+  },
+  "全部": {
+    "reading": "ぜんぶ",
+    "pos": "noun",
+    "vi": "tất cả, toàn bộ",
+    "en": "all, everything",
+    "jlpt": "N5"
+  },
+  "散る": {
+    "reading": "ちる",
+    "pos": "verb",
+    "vi": "(hoa, lá) rụng, rơi rải rác",
+    "en": "to scatter, to fall (petals)",
+    "jlpt": "N3"
+  },
+  "しまう": {
+    "reading": "しまう",
+    "pos": "verb",
+    "vi": "(〜てしまう) … mất, … xong hẳn (thường kèm tiếc nuối)",
+    "en": "(〜てしまう) to end up / finish completely",
+    "jlpt": "N4"
+  },
+  "風": {
+    "reading": "かぜ",
+    "pos": "noun",
+    "vi": "gió",
+    "en": "wind",
+    "jlpt": "N5"
+  },
+  "吹く": {
+    "reading": "ふく",
+    "pos": "verb",
+    "vi": "(gió) thổi",
+    "en": "to blow",
+    "jlpt": "N5"
+  },
+  "すぐ": {
+    "reading": "すぐ",
+    "pos": "adverb",
+    "vi": "ngay, lập tức",
+    "en": "right away, soon",
+    "jlpt": "N5"
+  },
+  "テレビ": {
+    "reading": "てれび",
+    "pos": "noun",
+    "vi": "ti vi",
+    "en": "television",
+    "jlpt": "N5"
+  },
+  "ニュース": {
+    "reading": "にゅーす",
+    "pos": "noun",
+    "vi": "tin tức",
+    "en": "news",
+    "jlpt": "N5"
+  },
+  "毎日": {
+    "reading": "まいにち",
+    "pos": "noun",
+    "vi": "mỗi ngày",
+    "en": "every day",
+    "jlpt": "N5"
+  },
+  "情報": {
+    "reading": "じょうほう",
+    "pos": "noun",
+    "vi": "thông tin",
+    "en": "information",
+    "jlpt": "N3"
+  },
+  "紹介": {
+    "reading": "しょうかい",
+    "pos": "noun",
+    "vi": "giới thiệu",
+    "en": "introduction",
+    "jlpt": "N4"
+  },
+  "昔": {
+    "reading": "むかし",
+    "pos": "noun",
+    "vi": "ngày xưa",
+    "en": "long ago, the old days",
+    "jlpt": "N4"
+  },
+  "美しい": {
+    "reading": "うつくしい",
+    "pos": "adjective",
+    "vi": "đẹp",
+    "en": "beautiful",
+    "jlpt": "N4"
+  },
+  "もの": {
+    "reading": "もの",
+    "pos": "noun",
+    "vi": "đồ vật, điều",
+    "en": "thing",
+    "jlpt": "N5"
+  },
+  "長い": {
+    "reading": "ながい",
+    "pos": "adjective",
+    "vi": "dài, lâu",
+    "en": "long",
+    "jlpt": "N5"
+  },
+  "続く": {
+    "reading": "つづく",
+    "pos": "verb",
+    "vi": "tiếp tục, kéo dài",
+    "en": "to continue, to last",
+    "jlpt": "N4"
+  },
+  "考える": {
+    "reading": "かんがえる",
+    "pos": "verb",
+    "vi": "suy nghĩ, cho rằng",
+    "en": "to think, to consider",
+    "jlpt": "N4"
+  },
+  "時間": {
+    "reading": "じかん",
+    "pos": "noun",
+    "vi": "thời gian; giờ",
+    "en": "time; hours",
+    "jlpt": "N5"
+  },
+  "人々": {
+    "reading": "ひとびと",
+    "pos": "noun",
+    "vi": "mọi người, người ta",
+    "en": "people",
+    "jlpt": "N3"
+  },
+  "その": {
+    "reading": "その",
+    "pos": "determiner",
+    "vi": "đó, ấy",
+    "en": "that",
+    "jlpt": "N5"
+  },
+  "時": {
+    "reading": "とき",
+    "pos": "noun",
+    "vi": "lúc, khi",
+    "en": "time, moment",
+    "jlpt": "N5"
+  },
+  "大切": {
+    "reading": "たいせつ",
+    "pos": "adjective",
+    "vi": "quan trọng, quý giá",
+    "en": "important, precious",
+    "jlpt": "N4"
+  },
+  "心": {
+    "reading": "こころ",
+    "pos": "noun",
+    "vi": "trái tim, tâm hồn",
+    "en": "heart, mind",
+    "jlpt": "N4"
+  },
+  "中": {
+    "reading": "なか",
+    "pos": "noun",
+    "vi": "bên trong",
+    "en": "inside, middle",
+    "jlpt": "N5"
+  },
+  "特別": {
+    "reading": "とくべつ",
+    "pos": "adjective",
+    "vi": "đặc biệt",
+    "en": "special",
+    "jlpt": "N4"
+  },
+  "見る": {
+    "reading": "みる",
+    "pos": "verb",
+    "vi": "nhìn, xem",
+    "en": "to see, to watch",
+    "jlpt": "N5"
+  },
+  "毎朝": {
+    "reading": "まいあさ",
+    "pos": "noun",
+    "vi": "mỗi sáng",
+    "en": "every morning",
+    "jlpt": "N5"
+  },
+  "私": {
+    "reading": "わたし",
+    "pos": "pronoun",
+    "vi": "tôi",
+    "en": "I, me",
+    "jlpt": "N5"
+  },
+  "近く": {
+    "reading": "ちかく",
+    "pos": "noun",
+    "vi": "gần, chỗ gần",
+    "en": "nearby, vicinity",
+    "jlpt": "N5"
+  },
+  "コンビニ": {
+    "reading": "こんびに",
+    "pos": "noun",
+    "vi": "cửa hàng tiện lợi",
+    "en": "convenience store",
+    "jlpt": "N4"
+  },
+  "行く": {
+    "reading": "いく",
+    "pos": "verb",
+    "vi": "đi",
+    "en": "to go",
+    "jlpt": "N5"
+  },
+  "やる": {
+    "reading": "やる",
+    "pos": "verb",
+    "vi": "làm; (cửa hàng) mở cửa (văn nói)",
+    "en": "to do; (of a shop) to be open (casual)",
+    "jlpt": "N4"
+  },
+  "店": {
+    "reading": "みせ",
+    "pos": "noun",
+    "vi": "cửa hàng",
+    "en": "shop, store",
+    "jlpt": "N5"
+  },
+  "入る": {
+    "reading": "はいる",
+    "pos": "verb",
+    "vi": "đi vào",
+    "en": "to enter",
+    "jlpt": "N5"
+  },
+  "店員": {
+    "reading": "てんいん",
+    "pos": "noun",
+    "vi": "nhân viên cửa hàng",
+    "en": "shop clerk",
+    "jlpt": "N4"
+  },
+  "さん": {
+    "reading": "さん",
+    "pos": "suffix",
+    "vi": "anh/chị/ông/bà (kính ngữ sau tên, nghề)",
+    "en": "Mr./Ms. (polite suffix)",
+    "jlpt": "N5"
+  },
+  "いらっしゃる": {
+    "reading": "いらっしゃる",
+    "pos": "verb",
+    "vi": "(kính ngữ) đến, đi, ở; いらっしゃいませ = xin mời quý khách",
+    "en": "(honorific) to come/go/be; いらっしゃいませ = welcome",
+    "jlpt": "N4"
+  },
+  "言う": {
+    "reading": "いう",
+    "pos": "verb",
+    "vi": "nói",
+    "en": "to say",
+    "jlpt": "N5"
+  },
+  "いう": {
+    "reading": "いう",
+    "pos": "verb",
+    "vi": "(〜という) gọi là",
+    "en": "(〜という) to be called",
+    "jlpt": "N5"
+  },
+  "まず": {
+    "reading": "まず",
+    "pos": "adverb",
+    "vi": "trước tiên",
+    "en": "first of all",
+    "jlpt": "N4"
+  },
+  "おにぎり": {
+    "reading": "おにぎり",
+    "pos": "noun",
+    "vi": "cơm nắm",
+    "en": "rice ball",
+    "jlpt": "N4"
+  },
+  "二つ": {
+    "reading": "ふたつ",
+    "pos": "noun",
+    "vi": "hai cái",
+    "en": "two (things)",
+    "jlpt": "N5"
+  },
+  "取る": {
+    "reading": "とる",
+    "pos": "verb",
+    "vi": "lấy, cầm",
+    "en": "to take",
+    "jlpt": "N5"
+  },
+  "それから": {
+    "reading": "それから",
+    "pos": "conjunction",
+    "vi": "sau đó",
+    "en": "and then",
+    "jlpt": "N5"
+  },
+  "冷たい": {
+    "reading": "つめたい",
+    "pos": "adjective",
+    "vi": "lạnh (khi chạm, đồ uống)",
+    "en": "cold (to the touch)",
+    "jlpt": "N5"
+  },
+  "お茶": {
+    "reading": "おちゃ",
+    "pos": "noun",
+    "vi": "trà",
+    "en": "tea",
+    "jlpt": "N5"
+  },
+  "買う": {
+    "reading": "かう",
+    "pos": "verb",
+    "vi": "mua",
+    "en": "to buy",
+    "jlpt": "N5"
+  },
+  "レジ": {
+    "reading": "れじ",
+    "pos": "noun",
+    "vi": "quầy thu ngân",
+    "en": "cash register, checkout",
+    "jlpt": "N3"
+  },
+  "袋": {
+    "reading": "ふくろ",
+    "pos": "noun",
+    "vi": "túi",
+    "en": "bag",
+    "jlpt": "N4"
+  },
+  "要る": {
+    "reading": "いる",
+    "pos": "verb",
+    "vi": "cần",
+    "en": "to need",
+    "jlpt": "N5"
+  },
+  "聞く": {
+    "reading": "きく",
+    "pos": "verb",
+    "vi": "nghe; hỏi",
+    "en": "to listen; to ask",
+    "jlpt": "N5"
+  },
+  "いいえ": {
+    "reading": "いいえ",
+    "pos": "interjection",
+    "vi": "không",
+    "en": "no",
+    "jlpt": "N5"
+  },
+  "大丈夫": {
+    "reading": "だいじょうぶ",
+    "pos": "adjective",
+    "vi": "ổn, không sao",
+    "en": "all right, fine",
+    "jlpt": "N4"
+  },
+  "答える": {
+    "reading": "こたえる",
+    "pos": "verb",
+    "vi": "trả lời",
+    "en": "to answer",
+    "jlpt": "N5"
+  },
+  "円": {
+    "reading": "えん",
+    "pos": "suffix",
+    "vi": "yên (tiền Nhật)",
+    "en": "yen",
+    "jlpt": "N5"
+  },
+  "朝": {
+    "reading": "あさ",
+    "pos": "noun",
+    "vi": "buổi sáng",
+    "en": "morning",
+    "jlpt": "N5"
+  },
+  "ごはん": {
+    "reading": "ごはん",
+    "pos": "noun",
+    "vi": "cơm, bữa ăn",
+    "en": "rice, meal",
+    "jlpt": "N5"
+  },
+  "朝ごはん": {
+    "reading": "あさごはん",
+    "pos": "noun",
+    "vi": "bữa sáng",
+    "en": "breakfast",
+    "jlpt": "N5"
+  },
+  "持つ": {
+    "reading": "もつ",
+    "pos": "verb",
+    "vi": "cầm, mang; có",
+    "en": "to hold, to carry; to have",
+    "jlpt": "N5"
+  },
+  "晴れる": {
+    "reading": "はれる",
+    "pos": "verb",
+    "vi": "(trời) nắng, quang",
+    "en": "to be sunny, to clear up",
+    "jlpt": "N5"
+  },
+  "日": {
+    "reading": "ひ",
+    "pos": "noun",
+    "vi": "ngày",
+    "en": "day",
+    "jlpt": "N5"
+  },
+  "空": {
+    "reading": "そら",
+    "pos": "noun",
+    "vi": "bầu trời",
+    "en": "sky",
+    "jlpt": "N5"
+  },
+  "青い": {
+    "reading": "あおい",
+    "pos": "adjective",
+    "vi": "xanh (lam)",
+    "en": "blue",
+    "jlpt": "N5"
+  },
+  "見える": {
+    "reading": "みえる",
+    "pos": "verb",
+    "vi": "trông thấy, trông có vẻ",
+    "en": "to be visible, to look (like)",
+    "jlpt": "N4"
+  },
+  "太陽": {
+    "reading": "たいよう",
+    "pos": "noun",
+    "vi": "mặt trời",
+    "en": "sun",
+    "jlpt": "N3"
+  },
+  "光": {
+    "reading": "ひかり",
+    "pos": "noun",
+    "vi": "ánh sáng",
+    "en": "light",
+    "jlpt": "N4"
+  },
+  "白い": {
+    "reading": "しろい",
+    "pos": "adjective",
+    "vi": "trắng",
+    "en": "white",
+    "jlpt": "N5"
+  },
+  "実は": {
+    "reading": "じつは",
+    "pos": "adverb",
+    "vi": "thực ra",
+    "en": "actually, in fact",
+    "jlpt": "N4"
+  },
+  "いろいろ": {
+    "reading": "いろいろ",
+    "pos": "adjective",
+    "vi": "nhiều loại, đủ thứ",
+    "en": "various",
+    "jlpt": "N5"
+  },
+  "色": {
+    "reading": "いろ",
+    "pos": "noun",
+    "vi": "màu sắc",
+    "en": "color",
+    "jlpt": "N5"
+  },
+  "混ざる": {
+    "reading": "まざる",
+    "pos": "verb",
+    "vi": "trộn lẫn, pha trộn",
+    "en": "to be mixed",
+    "jlpt": "N3"
+  },
+  "波": {
+    "reading": "なみ",
+    "pos": "noun",
+    "vi": "sóng",
+    "en": "wave",
+    "jlpt": "N3"
+  },
+  "よう": {
+    "reading": "よう",
+    "pos": "noun",
+    "vi": "(〜のような) giống như; (〜ように) để, sao cho",
+    "en": "(〜のような) like; (〜ように) so that",
+    "jlpt": "N4"
+  },
+  "性質": {
+    "reading": "せいしつ",
+    "pos": "noun",
+    "vi": "tính chất",
+    "en": "nature, property",
+    "jlpt": "N2"
+  },
+  "波長": {
+    "reading": "はちょう",
+    "pos": "noun",
+    "vi": "bước sóng",
+    "en": "wavelength",
+    "jlpt": "N1"
+  },
+  "違う": {
+    "reading": "ちがう",
+    "pos": "verb",
+    "vi": "khác",
+    "en": "to differ",
+    "jlpt": "N5"
+  },
+  "青": {
+    "reading": "あお",
+    "pos": "noun",
+    "vi": "màu xanh lam",
+    "en": "blue (color)",
+    "jlpt": "N5"
+  },
+  "紫": {
+    "reading": "むらさき",
+    "pos": "noun",
+    "vi": "màu tím",
+    "en": "purple, violet",
+    "jlpt": "N2"
+  },
+  "赤い": {
+    "reading": "あかい",
+    "pos": "adjective",
+    "vi": "đỏ",
+    "en": "red",
+    "jlpt": "N5"
+  },
+  "空気": {
+    "reading": "くうき",
+    "pos": "noun",
+    "vi": "không khí",
+    "en": "air",
+    "jlpt": "N4"
+  },
+  "小さな": {
+    "reading": "ちいさな",
+    "pos": "determiner",
+    "vi": "nhỏ",
+    "en": "small, little",
+    "jlpt": "N4"
+  },
+  "分子": {
+    "reading": "ぶんし",
+    "pos": "noun",
+    "vi": "phân tử",
+    "en": "molecule",
+    "jlpt": "N1"
+  },
+  "当たる": {
+    "reading": "あたる",
+    "pos": "verb",
+    "vi": "va vào, chiếu vào",
+    "en": "to hit, to strike",
+    "jlpt": "N3"
+  },
+  "すると": {
+    "reading": "すると",
+    "pos": "conjunction",
+    "vi": "thế là, khi đó",
+    "en": "then, thereupon",
+    "jlpt": "N3"
+  },
+  "方向": {
+    "reading": "ほうこう",
+    "pos": "noun",
+    "vi": "hướng, phương hướng",
+    "en": "direction",
+    "jlpt": "N3"
+  },
+  "散らばる": {
+    "reading": "ちらばる",
+    "pos": "verb",
+    "vi": "tản ra, rải rác khắp nơi",
+    "en": "to scatter, to spread out",
+    "jlpt": "N1"
+  },
+  "これ": {
+    "reading": "これ",
+    "pos": "pronoun",
+    "vi": "cái này, điều này",
+    "en": "this",
+    "jlpt": "N5"
+  },
+  "レイリー": {
+    "reading": "れいりー",
+    "pos": "noun",
+    "vi": "Rayleigh (nhà vật lý người Anh)",
+    "en": "Rayleigh (British physicist)"
+  },
+  "散乱": {
+    "reading": "さんらん",
+    "pos": "noun",
+    "vi": "tán xạ; sự rải rác",
+    "en": "scattering",
+    "jlpt": "N1"
+  },
+  "強い": {
+    "reading": "つよい",
+    "pos": "adjective",
+    "vi": "mạnh",
+    "en": "strong",
+    "jlpt": "N5"
+  },
+  "全体": {
+    "reading": "ぜんたい",
+    "pos": "noun",
+    "vi": "toàn bộ, khắp",
+    "en": "whole, entirety",
+    "jlpt": "N3"
+  },
+  "広がる": {
+    "reading": "ひろがる",
+    "pos": "verb",
+    "vi": "lan rộng, trải ra",
+    "en": "to spread",
+    "jlpt": "N3"
+  },
+  "たち": {
+    "reading": "たち",
+    "pos": "suffix",
+    "vi": "(hậu tố số nhiều) các, chúng",
+    "en": "(plural suffix)",
+    "jlpt": "N4"
+  },
+  "目": {
+    "reading": "め",
+    "pos": "noun",
+    "vi": "mắt",
+    "en": "eye",
+    "jlpt": "N5"
+  },
+  "届く": {
+    "reading": "とどく",
+    "pos": "verb",
+    "vi": "đến nơi, chạm tới",
+    "en": "to reach, to arrive",
+    "jlpt": "N3"
+  },
+  "では": {
+    "reading": "では",
+    "pos": "conjunction",
+    "vi": "vậy thì",
+    "en": "well then",
+    "jlpt": "N5"
+  },
+  "ほう": {
+    "reading": "ほう",
+    "pos": "noun",
+    "vi": "phía; (〜のほうが) … hơn",
+    "en": "side; (〜のほうが) the one that is more …",
+    "jlpt": "N5"
+  },
+  "少ない": {
+    "reading": "すくない",
+    "pos": "adjective",
+    "vi": "ít",
+    "en": "few, little",
+    "jlpt": "N5"
+  },
+  "あまり": {
+    "reading": "あまり",
+    "pos": "adverb",
+    "vi": "(+ phủ định) không … lắm",
+    "en": "(+ negative) not very",
+    "jlpt": "N5"
+  },
+  "感じる": {
+    "reading": "かんじる",
+    "pos": "verb",
+    "vi": "cảm thấy, cảm nhận",
+    "en": "to feel, to sense",
+    "jlpt": "N3"
+  },
+  "夕方": {
+    "reading": "ゆうがた",
+    "pos": "noun",
+    "vi": "chiều tối",
+    "en": "evening",
+    "jlpt": "N5"
+  },
+  "低い": {
+    "reading": "ひくい",
+    "pos": "adjective",
+    "vi": "thấp",
+    "en": "low",
+    "jlpt": "N5"
+  },
+  "進む": {
+    "reading": "すすむ",
+    "pos": "verb",
+    "vi": "tiến lên, đi tới",
+    "en": "to advance, to travel",
+    "jlpt": "N3"
+  },
+  "途中": {
+    "reading": "とちゅう",
+    "pos": "noun",
+    "vi": "giữa đường, giữa chừng",
+    "en": "on the way, midway",
+    "jlpt": "N4"
+  },
+  "ほとんど": {
+    "reading": "ほとんど",
+    "pos": "adverb",
+    "vi": "hầu hết, gần như",
+    "en": "almost, mostly",
+    "jlpt": "N4"
+  },
+  "最後": {
+    "reading": "さいご",
+    "pos": "noun",
+    "vi": "cuối cùng",
+    "en": "last, end",
+    "jlpt": "N4"
+  },
+  "残る": {
+    "reading": "のこる",
+    "pos": "verb",
+    "vi": "còn lại",
+    "en": "to remain",
+    "jlpt": "N4"
+  },
+  "にくい": {
+    "reading": "にくい",
+    "pos": "suffix",
+    "vi": "(〜にくい) khó …",
+    "en": "(〜にくい) hard to …",
+    "jlpt": "N4"
+  },
+  "赤": {
+    "reading": "あか",
+    "pos": "noun",
+    "vi": "màu đỏ",
+    "en": "red (color)",
+    "jlpt": "N5"
+  },
+  "オレンジ": {
+    "reading": "おれんじ",
+    "pos": "noun",
+    "vi": "màu cam; quả cam",
+    "en": "orange",
+    "jlpt": "N4"
+  },
+  "夕焼け": {
+    "reading": "ゆうやけ",
+    "pos": "noun",
+    "vi": "ráng chiều, hoàng hôn đỏ",
+    "en": "sunset glow",
+    "jlpt": "N3"
+  },
+  "一": {
+    "reading": "いち",
+    "pos": "numeral",
+    "vi": "một",
+    "en": "one",
+    "jlpt": "N5"
+  },
+  "二": {
+    "reading": "に",
+    "pos": "numeral",
+    "vi": "hai",
+    "en": "two",
+    "jlpt": "N5"
+  },
+  "四": {
+    "reading": "よん",
+    "pos": "numeral",
+    "vi": "bốn",
+    "en": "four",
+    "jlpt": "N5"
+  },
+  "十": {
+    "reading": "じゅう",
+    "pos": "numeral",
+    "vi": "mười",
+    "en": "ten",
+    "jlpt": "N5"
+  },
+  "百": {
+    "reading": "ひゃく",
+    "pos": "numeral",
+    "vi": "trăm",
+    "en": "hundred",
+    "jlpt": "N5"
+  },
+  "こと": {
+    "reading": "こと",
+    "pos": "noun",
+    "vi": "việc, điều (danh từ hóa)",
+    "en": "thing, matter (nominalizer)",
+    "jlpt": "N5"
+  },
+  "ため": {
+    "reading": "ため",
+    "pos": "noun",
+    "vi": "vì, do (nguyên nhân); để (mục đích)",
+    "en": "because of; in order to",
+    "jlpt": "N4"
+  },
+  "は": {
+    "reading": "は",
+    "pos": "particle",
+    "vi": "trợ từ chủ đề: \"còn … thì\"",
+    "en": "topic marker",
+    "jlpt": "N5"
+  },
+  "が": {
+    "reading": "が",
+    "pos": "particle",
+    "vi": "trợ từ chủ ngữ; nhưng (nối câu)",
+    "en": "subject marker; but (between clauses)",
+    "jlpt": "N5"
+  },
+  "を": {
+    "reading": "を",
+    "pos": "particle",
+    "vi": "trợ từ tân ngữ; (đi) qua, trong",
+    "en": "object marker; through (a place)",
+    "jlpt": "N5"
+  },
+  "に": {
+    "reading": "に",
+    "pos": "particle",
+    "vi": "chỉ thời điểm, đích đến, đối tượng",
+    "en": "at/on (time), to (destination), target",
+    "jlpt": "N5"
+  },
+  "で": {
+    "reading": "で",
+    "pos": "particle",
+    "vi": "tại (nơi); bằng; tính gộp (全部で)",
+    "en": "at (place); by means of; in total",
+    "jlpt": "N5"
+  },
+  "へ": {
+    "reading": "へ",
+    "pos": "particle",
+    "vi": "về phía, đến",
+    "en": "toward, to",
+    "jlpt": "N5"
+  },
+  "の": {
+    "reading": "の",
+    "pos": "particle",
+    "vi": "của; danh từ hóa; (〜のです) giải thích",
+    "en": "of, 's; nominalizer; explanatory のです",
+    "jlpt": "N5"
+  },
+  "か": {
+    "reading": "か",
+    "pos": "particle",
+    "vi": "trợ từ nghi vấn",
+    "en": "question marker",
+    "jlpt": "N5"
+  },
+  "も": {
+    "reading": "も",
+    "pos": "particle",
+    "vi": "cũng; ngay cả",
+    "en": "also, too; even",
+    "jlpt": "N5"
+  },
+  "と": {
+    "reading": "と",
+    "pos": "particle",
+    "vi": "và, cùng với; trích dẫn; hễ … thì",
+    "en": "and, with; quotation; when/if",
+    "jlpt": "N5"
+  },
+  "や": {
+    "reading": "や",
+    "pos": "particle",
+    "vi": "và (liệt kê không hết)",
+    "en": "and (non-exhaustive list)",
+    "jlpt": "N5"
+  },
+  "から": {
+    "reading": "から",
+    "pos": "particle",
+    "vi": "từ; vì",
+    "en": "from; because",
+    "jlpt": "N5"
+  },
+  "まで": {
+    "reading": "まで",
+    "pos": "particle",
+    "vi": "đến, cho tới",
+    "en": "until, up to",
+    "jlpt": "N5"
+  },
+  "より": {
+    "reading": "より",
+    "pos": "particle",
+    "vi": "hơn (so sánh); từ",
+    "en": "than; from",
+    "jlpt": "N5"
+  },
+  "ぐらい": {
+    "reading": "ぐらい",
+    "pos": "particle",
+    "vi": "khoảng",
+    "en": "about, approximately",
+    "jlpt": "N5"
+  },
+  "しか": {
+    "reading": "しか",
+    "pos": "particle",
+    "vi": "(+ phủ định) chỉ",
+    "en": "(+ negative) only",
+    "jlpt": "N4"
+  },
+  "ほど": {
+    "reading": "ほど",
+    "pos": "particle",
+    "vi": "mức độ; (〜ほど) càng … càng",
+    "en": "extent; the more …",
+    "jlpt": "N4"
+  },
+  "て": {
+    "reading": "て",
+    "pos": "particle",
+    "vi": "thể て: nối hành động, 〜ています, 〜てしまう",
+    "en": "te-form connector",
+    "jlpt": "N5"
+  },
+  "ので": {
+    "reading": "ので",
+    "pos": "particle",
+    "vi": "vì, bởi vì",
+    "en": "because, since",
+    "jlpt": "N4"
+  },
+  "のに": {
+    "reading": "のに",
+    "pos": "particle",
+    "vi": "mặc dù, thế mà",
+    "en": "even though",
+    "jlpt": "N4"
+  },
+  "ながら": {
+    "reading": "ながら",
+    "pos": "particle",
+    "vi": "vừa … vừa …",
+    "en": "while (doing)",
+    "jlpt": "N4"
+  },
+  "によって": {
+    "reading": "によって",
+    "pos": "particle",
+    "vi": "tùy theo; bởi",
+    "en": "depending on; by",
+    "jlpt": "N3"
+  },
+  "ます": {
+    "reading": "ます",
+    "pos": "auxiliary",
+    "vi": "đuôi lịch sự của động từ",
+    "en": "polite verb ending",
+    "jlpt": "N5"
+  },
+  "です": {
+    "reading": "です",
+    "pos": "auxiliary",
+    "vi": "là (lịch sự)",
+    "en": "to be (polite copula)",
+    "jlpt": "N5"
+  },
+  "だ": {
+    "reading": "だ",
+    "pos": "auxiliary",
+    "vi": "là (thể thường)",
+    "en": "to be (plain copula)",
+    "jlpt": "N5"
+  },
+  "た": {
+    "reading": "た",
+    "pos": "auxiliary",
+    "vi": "thì quá khứ",
+    "en": "past tense",
+    "jlpt": "N5"
+  },
+  "ない": {
+    "reading": "ない",
+    "pos": "auxiliary",
+    "vi": "phủ định (không)",
+    "en": "negative (not)",
+    "jlpt": "N5"
+  },
+  "ん": {
+    "reading": "ん",
+    "pos": "auxiliary",
+    "vi": "phủ định (〜ません)",
+    "en": "negative (in 〜ません)",
+    "jlpt": "N5"
+  },
+  "う": {
+    "reading": "う",
+    "pos": "auxiliary",
+    "vi": "(〜でしょう) phỏng đoán; (〜ましょう) rủ rê",
+    "en": "(〜でしょう) conjecture; (〜ましょう) volitional",
+    "jlpt": "N5"
+  },
+  "れる": {
+    "reading": "れる",
+    "pos": "auxiliary",
+    "vi": "thể bị động / khả năng / kính ngữ",
+    "en": "passive / potential / honorific",
+    "jlpt": "N4"
+  },
+  "られる": {
+    "reading": "られる",
+    "pos": "auxiliary",
+    "vi": "thể bị động / khả năng / kính ngữ",
+    "en": "passive / potential / honorific",
+    "jlpt": "N4"
+  },
+  "たい": {
+    "reading": "たい",
+    "pos": "auxiliary",
+    "vi": "muốn (làm)",
+    "en": "want to",
+    "jlpt": "N5"
+  },
+  "いる": {
+    "reading": "いる",
+    "pos": "verb",
+    "vi": "có, ở (người, động vật); (〜ている) đang …",
+    "en": "to be, to exist (animate); (〜ている) -ing / state",
+    "jlpt": "N5"
+  },
+  "くる": {
+    "reading": "くる",
+    "pos": "verb",
+    "vi": "đến; (〜てくる) … đến, … lại",
+    "en": "to come; (〜てくる) toward the speaker",
+    "jlpt": "N5"
+  },
+  "お": {
+    "reading": "お",
+    "pos": "prefix",
+    "vi": "tiền tố lịch sự",
+    "en": "polite prefix",
+    "jlpt": "N5"
+  }
+}

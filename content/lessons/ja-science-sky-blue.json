@@ -1,0 +1,154 @@
+{
+  "id": "ja-science-sky-blue",
+  "targetLanguage": "ja",
+  "title": {
+    "original": "空はなぜ青いのか",
+    "vi": "Vì sao bầu trời có màu xanh?",
+    "en": "Why Is the Sky Blue?"
+  },
+  "description": {
+    "vi": "Giải thích đơn giản về tán xạ Rayleigh: vì sao trời xanh ban ngày và đỏ lúc hoàng hôn.",
+    "en": "A simple explanation of Rayleigh scattering: why the sky is blue by day and red at sunset.",
+    "ja": "レイリー散乱を使って、空が青く、夕焼けが赤く見える理由をやさしく説明します。"
+  },
+  "categories": [
+    "science",
+    "nature"
+  ],
+  "tags": [
+    "physics",
+    "light",
+    "sky",
+    "sunset",
+    "scattering"
+  ],
+  "difficulty": {
+    "framework": "jlpt",
+    "level": "N3"
+  },
+  "accent": "ja-tokyo",
+  "voice": "Kyoko",
+  "sentences": [
+    {
+      "text": "晴れた日の空は、なぜ青く見えるのでしょうか。",
+      "translations": {
+        "vi": "Vì sao bầu trời ngày nắng lại trông có màu xanh?",
+        "en": "Why does the sky look blue on a clear day?"
+      }
+    },
+    {
+      "text": "太陽の光は白く見えますが、実はいろいろな色が混ざっています。",
+      "translations": {
+        "vi": "Ánh sáng mặt trời trông có vẻ trắng, nhưng thực ra là hỗn hợp của nhiều màu.",
+        "en": "Sunlight looks white, but it is actually a mix of many colors."
+      }
+    },
+    {
+      "text": "光は波のような性質を持ち、色によって波長が違います。",
+      "translations": {
+        "vi": "Ánh sáng có tính chất giống như sóng, và mỗi màu có bước sóng khác nhau.",
+        "en": "Light behaves like a wave, and its wavelength differs depending on the color."
+      },
+      "note": {
+        "vi": "〜によって = \"tùy theo …\": 色によって波長が違います = \"bước sóng khác nhau tùy theo màu\".",
+        "en": "〜によって = \"depending on …\": 色によって波長が違います = \"wavelength varies by color\"."
+      }
+    },
+    {
+      "text": "青や紫の光は波長が短く、赤い光は波長が長いです。",
+      "translations": {
+        "vi": "Ánh sáng xanh lam và tím có bước sóng ngắn, còn ánh sáng đỏ có bước sóng dài.",
+        "en": "Blue and violet light have short wavelengths, while red light has a long one."
+      }
+    },
+    {
+      "text": "太陽の光は、空気の中の小さな分子に当たります。",
+      "translations": {
+        "vi": "Ánh sáng mặt trời va vào các phân tử nhỏ li ti trong không khí.",
+        "en": "Sunlight hits the tiny molecules in the air."
+      }
+    },
+    {
+      "text": "すると、光はいろいろな方向に散らばります。",
+      "translations": {
+        "vi": "Khi đó, ánh sáng bị tỏa ra theo nhiều hướng khác nhau.",
+        "en": "Then the light spreads out in many directions."
+      }
+    },
+    {
+      "text": "これを「レイリー散乱」といいます。",
+      "translations": {
+        "vi": "Hiện tượng này được gọi là \"tán xạ Rayleigh\".",
+        "en": "This is called \"Rayleigh scattering\"."
+      }
+    },
+    {
+      "text": "波長が短い光ほど、強く散乱されます。",
+      "translations": {
+        "vi": "Ánh sáng có bước sóng càng ngắn thì càng bị tán xạ mạnh.",
+        "en": "The shorter the wavelength, the more strongly the light is scattered."
+      },
+      "note": {
+        "vi": "A ほど、B = \"càng A thì càng B\". 散乱されます là thể bị động của 散乱します.",
+        "en": "A ほど、B = \"the more A, the more B\". 散乱されます is the passive of 散乱します."
+      }
+    },
+    {
+      "text": "そのため、青い光が空全体に広がって、私たちの目に届くのです。",
+      "translations": {
+        "vi": "Vì thế, ánh sáng xanh lan khắp bầu trời và đến được mắt chúng ta.",
+        "en": "That is why blue light fills the whole sky and reaches our eyes."
+      },
+      "note": {
+        "vi": "そのため = \"vì lý do đó, do đó\"; ため diễn tả nguyên nhân, mang sắc thái văn viết/giải thích.",
+        "en": "そのため = \"for that reason\"; ため expresses cause and sounds explanatory or formal."
+      }
+    },
+    {
+      "text": "では、紫の光のほうが波長が短いのに、なぜ空は紫ではないのでしょうか。",
+      "translations": {
+        "vi": "Vậy thì, ánh sáng tím có bước sóng ngắn hơn, sao bầu trời lại không có màu tím?",
+        "en": "But violet light has an even shorter wavelength, so why isn't the sky violet?"
+      },
+      "note": {
+        "vi": "〜のに = \"thế mà / mặc dù …\", thể hiện điều trái với mong đợi.",
+        "en": "〜のに = \"even though …\", expressing something contrary to expectation."
+      }
+    },
+    {
+      "text": "太陽の光には紫が少なく、人の目も紫をあまり感じないためです。",
+      "translations": {
+        "vi": "Đó là vì ánh sáng mặt trời chứa ít màu tím, và mắt người cũng kém nhạy với màu tím.",
+        "en": "It's because sunlight contains little violet, and our eyes are not very sensitive to it."
+      }
+    },
+    {
+      "text": "夕方は太陽が低いので、光は空気の中を長く進みます。",
+      "translations": {
+        "vi": "Buổi chiều tà, mặt trời ở thấp nên ánh sáng phải đi một quãng dài trong không khí.",
+        "en": "In the evening the sun is low, so its light travels a long way through the air."
+      }
+    },
+    {
+      "text": "その途中で、青い光はほとんど散らばってしまいます。",
+      "translations": {
+        "vi": "Trên đường đi, phần lớn ánh sáng xanh đã bị tán xạ mất.",
+        "en": "Along the way, most of the blue light gets scattered away."
+      }
+    },
+    {
+      "text": "最後まで残るのは、散乱されにくい赤やオレンジの光です。",
+      "translations": {
+        "vi": "Thứ còn lại đến cuối cùng là ánh sáng đỏ và cam, vốn khó bị tán xạ.",
+        "en": "What remains to the end is red and orange light, which scatters less easily."
+      }
+    },
+    {
+      "text": "だから、夕焼けは赤く見えるのです。",
+      "translations": {
+        "vi": "Vì vậy mà hoàng hôn trông có màu đỏ.",
+        "en": "That is why sunsets look red."
+      }
+    }
+  ]
+}

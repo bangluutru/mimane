@@ -1,0 +1,111 @@
+{
+  "id": "en-daily-ordering-coffee",
+  "targetLanguage": "en",
+  "title": {
+    "original": "Ordering Coffee",
+    "vi": "Gọi cà phê",
+    "ja": "コーヒーを注文する"
+  },
+  "description": {
+    "vi": "Một cảnh ngắn ở quán cà phê với những câu gọi món thông dụng hằng ngày.",
+    "en": "A short café scene with everyday phrases for ordering coffee.",
+    "ja": "カフェでコーヒーを注文するときの定番フレーズを使った短い場面です。"
+  },
+  "categories": ["daily-life", "food"],
+  "tags": ["coffee", "ordering", "cafe", "polite-requests"],
+  "difficulty": { "framework": "cefr", "level": "A2" },
+  "accent": "en-us",
+  "voice": "Samantha",
+  "sentences": [
+    {
+      "text": "Every morning, I stop at a small coffee shop near my office.",
+      "translations": {
+        "vi": "Sáng nào tôi cũng ghé một quán cà phê nhỏ gần văn phòng.",
+        "ja": "毎朝、私はオフィスの近くにある小さなコーヒーショップに立ち寄ります。"
+      },
+      "note": {
+        "vi": "\"stop at + nơi chốn\" = ghé qua một chỗ trong chốc lát trên đường đi, không phải \"dừng hẳn\".",
+        "en": "\"Stop at + place\" means to visit a place briefly on the way somewhere."
+      }
+    },
+    {
+      "text": "The line is usually short, so I don't have to wait long.",
+      "translations": {
+        "vi": "Hàng người chờ thường ngắn nên tôi không phải đợi lâu.",
+        "ja": "列はたいてい短いので、長く待つ必要はありません。"
+      },
+      "note": {
+        "vi": "\"line\" (Anh-Mỹ) = \"queue\" (Anh-Anh): hàng người chờ. \"have to\" thường đọc nối thành /ˈhæftə/.",
+        "en": "\"Line\" (US) = \"queue\" (UK). \"Have to\" is usually pronounced /ˈhæftə/ in connected speech."
+      }
+    },
+    {
+      "text": "The barista smiles and asks, \"Hi! What can I get for you?\"",
+      "translations": {
+        "vi": "Cô nhân viên pha chế mỉm cười và hỏi: \"Chào bạn! Bạn muốn dùng gì ạ?\"",
+        "ja": "バリスタが笑顔で「こんにちは！ご注文は何になさいますか？」と聞きます。"
+      },
+      "note": {
+        "vi": "\"What can I get for you?\" là câu nhân viên hay dùng để hỏi bạn muốn gọi gì. Khi nói nhanh, \"for you\" nghe như /fər jə/.",
+        "en": "A common server phrase meaning \"What would you like to order?\"; in fast speech \"for you\" reduces to /fər jə/."
+      }
+    },
+    {
+      "text": "I say, \"Can I have a medium latte, please?\"",
+      "translations": {
+        "vi": "Tôi nói: \"Cho tôi một ly latte cỡ vừa nhé.\"",
+        "ja": "私は「ミディアムのラテをお願いできますか？」と言います。"
+      },
+      "note": {
+        "vi": "\"Can I have…, please?\" là cách gọi món đơn giản mà lịch sự. \"Can I\" thường đọc yếu thành /kənaɪ/.",
+        "en": "\"Can I have…, please?\" is a simple, polite way to order. \"Can I\" is usually weakened to /kənaɪ/."
+      }
+    },
+    {
+      "text": "Sometimes I ask for oat milk instead of regular milk.",
+      "translations": {
+        "vi": "Đôi khi tôi xin đổi sang sữa yến mạch thay vì sữa thường.",
+        "ja": "ときどき、普通の牛乳の代わりにオーツミルクを頼みます。"
+      }
+    },
+    {
+      "text": "\"Is that for here or to go?\" she asks.",
+      "translations": {
+        "vi": "Cô ấy hỏi: \"Bạn dùng ở đây hay mang đi?\"",
+        "ja": "「店内でお召し上がりですか、それともお持ち帰りですか？」と彼女が聞きます。"
+      },
+      "note": {
+        "vi": "\"for here or to go?\" (Anh-Mỹ) = dùng tại chỗ hay mang đi. Anh-Anh thường hỏi \"eat in or take away?\".",
+        "en": "\"For here or to go?\" is American English; British English often uses \"eat in or take away?\"."
+      }
+    },
+    {
+      "text": "I usually take it to go because I'm in a hurry.",
+      "translations": {
+        "vi": "Tôi thường mang đi vì đang vội.",
+        "ja": "急いでいるので、たいていは持ち帰りにします。"
+      }
+    },
+    {
+      "text": "If you want it less sweet, just say \"no sugar, please.\"",
+      "translations": {
+        "vi": "Nếu bạn muốn bớt ngọt, chỉ cần nói \"không đường nhé\".",
+        "ja": "甘さ控えめがよければ、「砂糖なしでお願いします」と言うだけで大丈夫です。"
+      }
+    },
+    {
+      "text": "When you pay, it's polite to say \"thank you\" and smile.",
+      "translations": {
+        "vi": "Khi thanh toán, nói \"cảm ơn\" và mỉm cười là phép lịch sự.",
+        "ja": "支払うときは、「ありがとう」と言ってほほえむのが礼儀です。"
+      }
+    },
+    {
+      "text": "A simple, friendly order can make your whole morning better.",
+      "translations": {
+        "vi": "Một lần gọi món đơn giản, thân thiện có thể khiến cả buổi sáng của bạn tốt đẹp hơn.",
+        "ja": "シンプルで感じのよい注文ひとつで、朝全体が気持ちよくなることもあります。"
+      }
+    }
+  ]
+}

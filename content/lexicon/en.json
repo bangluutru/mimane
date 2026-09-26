@@ -1,0 +1,1631 @@
+{
+  "action": {
+    "pos": "noun",
+    "vi": "hành động",
+    "ja": "行動",
+    "cefr": "A2"
+  },
+  "action item": {
+    "pos": "noun",
+    "vi": "đầu việc cần làm",
+    "ja": "アクションアイテム・やるべき項目",
+    "cefr": "B2"
+  },
+  "adult": {
+    "pos": "noun",
+    "vi": "người trưởng thành",
+    "ja": "大人",
+    "cefr": "A2"
+  },
+  "after": {
+    "pos": "preposition",
+    "vi": "sau, sau khi",
+    "ja": "〜の後で",
+    "cefr": "A1"
+  },
+  "afternoon": {
+    "pos": "noun",
+    "vi": "buổi chiều",
+    "ja": "午後",
+    "cefr": "A1"
+  },
+  "agenda": {
+    "pos": "noun",
+    "vi": "chương trình họp",
+    "ja": "議題・アジェンダ",
+    "cefr": "B2"
+  },
+  "all": {
+    "pos": "determiner",
+    "vi": "tất cả, cả",
+    "ja": "すべての・全部の",
+    "cefr": "A1"
+  },
+  "all night": {
+    "pos": "phrase",
+    "vi": "suốt đêm, cả đêm",
+    "ja": "一晩中",
+    "cefr": "A2"
+  },
+  "allow": {
+    "pos": "verb",
+    "vi": "cho phép, tạo điều kiện",
+    "ja": "可能にする・許す",
+    "cefr": "B1"
+  },
+  "also": {
+    "pos": "adverb",
+    "vi": "cũng",
+    "ja": "〜も・また",
+    "cefr": "A1"
+  },
+  "always": {
+    "pos": "adverb",
+    "vi": "luôn luôn",
+    "ja": "いつも・必ず",
+    "cefr": "A1"
+  },
+  "appear": {
+    "pos": "verb",
+    "vi": "dường như, có vẻ",
+    "ja": "〜のようだ・〜らしい",
+    "cefr": "B1"
+  },
+  "ask": {
+    "pos": "verb",
+    "vi": "hỏi; nhờ",
+    "ja": "聞く・頼む",
+    "cefr": "A1"
+  },
+  "ask for": {
+    "pos": "phrase",
+    "vi": "xin, yêu cầu (món gì)",
+    "ja": "〜を頼む・求める",
+    "cefr": "A2"
+  },
+  "asleep": {
+    "pos": "adjective",
+    "vi": "đang ngủ",
+    "ja": "眠っている",
+    "cefr": "A2"
+  },
+  "at least": {
+    "pos": "phrase",
+    "vi": "ít nhất",
+    "ja": "少なくとも",
+    "cefr": "A2"
+  },
+  "attention": {
+    "pos": "noun",
+    "vi": "sự chú ý, sự tập trung",
+    "ja": "注意・注意力",
+    "cefr": "B1"
+  },
+  "away": {
+    "pos": "adverb",
+    "vi": "đi, xa",
+    "ja": "離れて・去って",
+    "cefr": "A1"
+  },
+  "back": {
+    "pos": "adverb",
+    "vi": "trở lại",
+    "ja": "元へ・戻って",
+    "cefr": "A1"
+  },
+  "backfire": {
+    "pos": "verb",
+    "vi": "phản tác dụng",
+    "ja": "裏目に出る・逆効果になる",
+    "cefr": "C1"
+  },
+  "bad": {
+    "pos": "adjective",
+    "vi": "tệ, kém",
+    "ja": "悪い",
+    "cefr": "A1"
+  },
+  "barista": {
+    "pos": "noun",
+    "vi": "nhân viên pha chế cà phê",
+    "ja": "バリスタ",
+    "cefr": "B2"
+  },
+  "because": {
+    "pos": "conjunction",
+    "vi": "bởi vì",
+    "ja": "〜なので",
+    "cefr": "A1"
+  },
+  "bed": {
+    "pos": "noun",
+    "vi": "giường; giờ đi ngủ",
+    "ja": "ベッド・寝床",
+    "cefr": "A1"
+  },
+  "before": {
+    "pos": "preposition",
+    "vi": "trước, trước khi",
+    "ja": "〜の前に",
+    "cefr": "A1"
+  },
+  "before bed": {
+    "pos": "phrase",
+    "vi": "trước khi đi ngủ",
+    "ja": "寝る前に",
+    "cefr": "A2"
+  },
+  "between": {
+    "pos": "preposition",
+    "vi": "giữa",
+    "ja": "〜の間に",
+    "cefr": "A1"
+  },
+  "brain": {
+    "pos": "noun",
+    "vi": "não",
+    "ja": "脳",
+    "cefr": "A2"
+  },
+  "brain cell": {
+    "pos": "noun",
+    "vi": "tế bào não",
+    "ja": "脳細胞",
+    "cefr": "B1"
+  },
+  "bring": {
+    "pos": "verb",
+    "vi": "mang, đưa",
+    "ja": "持ってくる・連れてくる",
+    "cefr": "A1"
+  },
+  "bring back": {
+    "pos": "phrase",
+    "vi": "đưa trở lại",
+    "ja": "戻す・引き戻す",
+    "cefr": "B1"
+  },
+  "busy": {
+    "pos": "adjective",
+    "vi": "bận rộn",
+    "ja": "忙しい",
+    "cefr": "A1"
+  },
+  "by when": {
+    "pos": "expression",
+    "vi": "hạn chót là khi nào",
+    "ja": "いつまでに",
+    "cefr": "B1"
+  },
+  "caffeine": {
+    "pos": "noun",
+    "vi": "caffeine",
+    "ja": "カフェイン",
+    "cefr": "B2"
+  },
+  "call": {
+    "pos": "verb",
+    "vi": "gọi (là)",
+    "ja": "呼ぶ",
+    "cefr": "A1"
+  },
+  "can i have": {
+    "pos": "expression",
+    "vi": "cho tôi…",
+    "ja": "〜をください",
+    "cefr": "A1"
+  },
+  "cell": {
+    "pos": "noun",
+    "vi": "tế bào",
+    "ja": "細胞",
+    "cefr": "B1"
+  },
+  "clean": {
+    "pos": "verb",
+    "vi": "làm sạch",
+    "ja": "きれいにする・掃除する",
+    "cefr": "A1"
+  },
+  "clear": {
+    "pos": "adjective",
+    "vi": "rõ ràng",
+    "ja": "明確な・はっきりした",
+    "cefr": "A2"
+  },
+  "clearance": {
+    "pos": "noun",
+    "vi": "sự thanh thải, sự dọn sạch",
+    "ja": "除去・クリアランス",
+    "cefr": "C1"
+  },
+  "clock": {
+    "pos": "noun",
+    "vi": "đồng hồ",
+    "ja": "時計",
+    "cefr": "A1"
+  },
+  "coffee": {
+    "pos": "noun",
+    "vi": "cà phê",
+    "ja": "コーヒー",
+    "cefr": "A1"
+  },
+  "coffee shop": {
+    "pos": "noun",
+    "vi": "quán cà phê",
+    "ja": "コーヒーショップ・喫茶店",
+    "cefr": "A1"
+  },
+  "connection": {
+    "pos": "noun",
+    "vi": "sự kết nối, liên kết",
+    "ja": "つながり・結合",
+    "cefr": "B1"
+  },
+  "consolidation": {
+    "pos": "noun",
+    "vi": "sự củng cố",
+    "ja": "固定・強化",
+    "cefr": "C1"
+  },
+  "cool": {
+    "pos": "adjective",
+    "vi": "mát mẻ",
+    "ja": "涼しい",
+    "cefr": "A1"
+  },
+  "cut": {
+    "pos": "verb",
+    "vi": "cắt",
+    "ja": "切る",
+    "cefr": "A2"
+  },
+  "cut back on": {
+    "pos": "phrase",
+    "vi": "cắt giảm",
+    "ja": "〜を減らす・控える",
+    "cefr": "B2"
+  },
+  "cut off": {
+    "pos": "phrase",
+    "vi": "ngắt lời (ai đó)",
+    "ja": "（人の話を）遮る",
+    "cefr": "B2"
+  },
+  "dark": {
+    "pos": "adjective",
+    "vi": "tối",
+    "ja": "暗い",
+    "cefr": "A2"
+  },
+  "day": {
+    "pos": "noun",
+    "vi": "ngày",
+    "ja": "日",
+    "cefr": "A1"
+  },
+  "deadline": {
+    "pos": "noun",
+    "vi": "hạn chót",
+    "ja": "締め切り・期限",
+    "cefr": "B1"
+  },
+  "decision": {
+    "pos": "noun",
+    "vi": "quyết định",
+    "ja": "決定・決断",
+    "cefr": "B1"
+  },
+  "deep": {
+    "pos": "adjective",
+    "vi": "sâu",
+    "ja": "深い",
+    "cefr": "A2"
+  },
+  "deep sleep": {
+    "pos": "noun",
+    "vi": "giấc ngủ sâu",
+    "ja": "深い眠り・深睡眠",
+    "cefr": "B2"
+  },
+  "difference": {
+    "pos": "noun",
+    "vi": "sự khác biệt",
+    "ja": "違い",
+    "cefr": "A2"
+  },
+  "discussion": {
+    "pos": "noun",
+    "vi": "cuộc thảo luận",
+    "ja": "話し合い・議論",
+    "cefr": "B1"
+  },
+  "doctor": {
+    "pos": "noun",
+    "vi": "bác sĩ",
+    "ja": "医者",
+    "cefr": "A1"
+  },
+  "down": {
+    "pos": "adverb",
+    "vi": "xuống",
+    "ja": "下へ",
+    "cefr": "A1"
+  },
+  "during": {
+    "pos": "preposition",
+    "vi": "trong suốt, trong khi",
+    "ja": "〜の間",
+    "cefr": "A2"
+  },
+  "each": {
+    "pos": "determiner",
+    "vi": "mỗi, từng",
+    "ja": "各〜・それぞれの",
+    "cefr": "A1"
+  },
+  "efficiently": {
+    "pos": "adverb",
+    "vi": "một cách hiệu quả",
+    "ja": "効率よく",
+    "cefr": "B2"
+  },
+  "email": {
+    "pos": "noun",
+    "vi": "thư điện tử, email",
+    "ja": "メール",
+    "cefr": "A1"
+  },
+  "end": {
+    "pos": "verb",
+    "vi": "kết thúc",
+    "ja": "終わる",
+    "cefr": "A2"
+  },
+  "energy": {
+    "pos": "noun",
+    "vi": "năng lượng",
+    "ja": "活力・エネルギー",
+    "cefr": "A2"
+  },
+  "enough": {
+    "pos": "adjective",
+    "vi": "đủ",
+    "ja": "十分な",
+    "cefr": "A2"
+  },
+  "even": {
+    "pos": "adverb",
+    "vi": "thậm chí, ngay cả",
+    "ja": "〜さえ・さらに",
+    "cefr": "A2"
+  },
+  "even if": {
+    "pos": "conjunction",
+    "vi": "ngay cả khi",
+    "ja": "たとえ〜でも",
+    "cefr": "B1"
+  },
+  "every": {
+    "pos": "determiner",
+    "vi": "mỗi, mọi",
+    "ja": "毎〜・すべての",
+    "cefr": "A1"
+  },
+  "everyone": {
+    "pos": "pronoun",
+    "vi": "mọi người",
+    "ja": "みんな・全員",
+    "cefr": "A1"
+  },
+  "exactly": {
+    "pos": "adverb",
+    "vi": "chính xác",
+    "ja": "正確に・具体的に",
+    "cefr": "A2"
+  },
+  "exam": {
+    "pos": "noun",
+    "vi": "kỳ thi",
+    "ja": "試験",
+    "cefr": "A1"
+  },
+  "eye": {
+    "pos": "noun",
+    "vi": "mắt",
+    "ja": "目",
+    "cefr": "A1"
+  },
+  "facilitator": {
+    "pos": "noun",
+    "vi": "người điều phối (cuộc họp)",
+    "ja": "進行役・ファシリテーター",
+    "cefr": "C1"
+  },
+  "fall": {
+    "pos": "verb",
+    "vi": "rơi, rơi vào (trạng thái)",
+    "ja": "落ちる",
+    "cefr": "A2"
+  },
+  "fall asleep": {
+    "pos": "phrase",
+    "vi": "ngủ thiếp đi",
+    "ja": "眠りにつく・寝つく",
+    "cefr": "B1"
+  },
+  "feel": {
+    "pos": "verb",
+    "vi": "cảm thấy",
+    "ja": "感じる",
+    "cefr": "A2"
+  },
+  "feel like": {
+    "pos": "phrase",
+    "vi": "có cảm giác như",
+    "ja": "〜のように感じる",
+    "cefr": "B1"
+  },
+  "few": {
+    "pos": "determiner",
+    "vi": "ít; (a few) vài",
+    "ja": "少数の・（a few）いくつかの",
+    "cefr": "A2"
+  },
+  "first": {
+    "pos": "adverb",
+    "vi": "trước tiên",
+    "ja": "まず・最初に",
+    "cefr": "A1"
+  },
+  "fluid": {
+    "pos": "noun",
+    "vi": "chất lỏng, dịch",
+    "ja": "液体・体液",
+    "cefr": "B2"
+  },
+  "flush": {
+    "pos": "verb",
+    "vi": "xả, rửa trôi",
+    "ja": "洗い流す",
+    "cefr": "C1"
+  },
+  "flush away": {
+    "pos": "phrase",
+    "vi": "cuốn trôi, rửa trôi",
+    "ja": "洗い流す",
+    "cefr": "C1"
+  },
+  "follow": {
+    "pos": "verb",
+    "vi": "theo, đi theo",
+    "ja": "従う・ついていく",
+    "cefr": "A2"
+  },
+  "follow up": {
+    "pos": "phrase",
+    "vi": "theo dõi / liên hệ tiếp sau đó",
+    "ja": "フォローアップする・追って連絡する",
+    "cefr": "B2"
+  },
+  "for here or to go": {
+    "pos": "expression",
+    "vi": "dùng tại chỗ hay mang đi",
+    "ja": "店内で召し上がりますか、お持ち帰りですか",
+    "cefr": "A2"
+  },
+  "fragile": {
+    "pos": "adjective",
+    "vi": "mong manh, dễ vỡ",
+    "ja": "壊れやすい・もろい",
+    "cefr": "B2"
+  },
+  "friendly": {
+    "pos": "adjective",
+    "vi": "thân thiện",
+    "ja": "親しみやすい・感じのよい",
+    "cefr": "A1"
+  },
+  "frustration": {
+    "pos": "noun",
+    "vi": "sự bực bội, thất vọng",
+    "ja": "不満・苛立ち",
+    "cefr": "B2"
+  },
+  "gently": {
+    "pos": "adverb",
+    "vi": "nhẹ nhàng",
+    "ja": "優しく・穏やかに",
+    "cefr": "B1"
+  },
+  "get": {
+    "pos": "verb",
+    "vi": "lấy, mang cho",
+    "ja": "手に入れる・持ってくる",
+    "cefr": "A1"
+  },
+  "glymphatic": {
+    "pos": "adjective",
+    "vi": "(thuộc) hệ glymphatic của não",
+    "ja": "グリンパティック（脳の老廃物排出系）の",
+    "cefr": "C2"
+  },
+  "glymphatic clearance": {
+    "pos": "noun",
+    "vi": "cơ chế thanh thải glymphatic",
+    "ja": "グリンパティック・クリアランス",
+    "cefr": "C2"
+  },
+  "go": {
+    "pos": "verb",
+    "vi": "đi",
+    "ja": "行く",
+    "cefr": "A1"
+  },
+  "go off topic": {
+    "pos": "phrase",
+    "vi": "lạc đề",
+    "ja": "話が脱線する",
+    "cefr": "B2"
+  },
+  "going to": {
+    "pos": "auxiliary",
+    "vi": "sẽ (dự định)",
+    "ja": "〜するつもり・〜する予定",
+    "cefr": "A1"
+  },
+  "good": {
+    "pos": "adjective",
+    "vi": "tốt",
+    "ja": "良い",
+    "cefr": "A1",
+    "forms": [
+      "better"
+    ]
+  },
+  "group": {
+    "pos": "noun",
+    "vi": "nhóm",
+    "ja": "グループ",
+    "cefr": "A1"
+  },
+  "habit": {
+    "pos": "noun",
+    "vi": "thói quen",
+    "ja": "習慣",
+    "cefr": "B1"
+  },
+  "have to": {
+    "pos": "auxiliary",
+    "vi": "phải",
+    "ja": "〜しなければならない",
+    "cefr": "A1"
+  },
+  "help": {
+    "pos": "verb",
+    "vi": "giúp",
+    "ja": "助ける・役立つ",
+    "cefr": "A1"
+  },
+  "here": {
+    "pos": "adverb",
+    "vi": "ở đây",
+    "ja": "ここで",
+    "cefr": "A1"
+  },
+  "hi": {
+    "pos": "interjection",
+    "vi": "xin chào",
+    "ja": "こんにちは・やあ",
+    "cefr": "A1"
+  },
+  "hour": {
+    "pos": "noun",
+    "vi": "giờ, tiếng",
+    "ja": "時間",
+    "cefr": "A1"
+  },
+  "human": {
+    "pos": "noun",
+    "vi": "con người",
+    "ja": "人間",
+    "cefr": "A2"
+  },
+  "hurry": {
+    "pos": "noun",
+    "vi": "sự vội vàng",
+    "ja": "急ぎ",
+    "cefr": "A2"
+  },
+  "in a hurry": {
+    "pos": "phrase",
+    "vi": "đang vội",
+    "ja": "急いでいる",
+    "cefr": "A2"
+  },
+  "instead": {
+    "pos": "adverb",
+    "vi": "thay vào đó",
+    "ja": "代わりに",
+    "cefr": "A2"
+  },
+  "instead of": {
+    "pos": "preposition",
+    "vi": "thay vì",
+    "ja": "〜の代わりに・〜ではなく",
+    "cefr": "A2"
+  },
+  "it's worth": {
+    "pos": "expression",
+    "vi": "đáng để (làm gì)",
+    "ja": "〜する価値がある",
+    "cefr": "B1"
+  },
+  "item": {
+    "pos": "noun",
+    "vi": "mục, món",
+    "ja": "項目・品目",
+    "cefr": "B1"
+  },
+  "itself": {
+    "pos": "pronoun",
+    "vi": "tự nó, chính nó",
+    "ja": "それ自身",
+    "cefr": "A2"
+  },
+  "job": {
+    "pos": "noun",
+    "vi": "công việc, nhiệm vụ",
+    "ja": "仕事・役割",
+    "cefr": "A1"
+  },
+  "just": {
+    "pos": "adverb",
+    "vi": "chỉ, chỉ cần",
+    "ja": "ただ・〜だけ",
+    "cefr": "A1"
+  },
+  "keep": {
+    "pos": "verb",
+    "vi": "giữ, duy trì",
+    "ja": "保つ・続ける",
+    "cefr": "A2"
+  },
+  "keep an eye on": {
+    "pos": "phrase",
+    "vi": "để mắt tới, theo dõi",
+    "ja": "〜に気を配る・見守る",
+    "cefr": "B2"
+  },
+  "key": {
+    "pos": "adjective",
+    "vi": "chính, then chốt",
+    "ja": "主要な・重要な",
+    "cefr": "B1"
+  },
+  "key point": {
+    "pos": "noun",
+    "vi": "ý chính",
+    "ja": "要点",
+    "cefr": "B1"
+  },
+  "know": {
+    "pos": "verb",
+    "vi": "biết",
+    "ja": "知っている・わかる",
+    "cefr": "A1"
+  },
+  "lasting": {
+    "pos": "adjective",
+    "vi": "bền lâu, lâu dài",
+    "ja": "長続きする・永続的な",
+    "cefr": "C1"
+  },
+  "late": {
+    "pos": "adverb",
+    "vi": "muộn, trễ",
+    "ja": "遅れて・遅く",
+    "cefr": "A1"
+  },
+  "latte": {
+    "pos": "noun",
+    "vi": "cà phê latte",
+    "ja": "ラテ",
+    "cefr": "B1"
+  },
+  "learn": {
+    "pos": "verb",
+    "vi": "học",
+    "ja": "学ぶ・習う",
+    "cefr": "A1"
+  },
+  "least": {
+    "pos": "adverb",
+    "vi": "ít nhất",
+    "ja": "最も少なく",
+    "cefr": "B1"
+  },
+  "leave": {
+    "pos": "verb",
+    "vi": "rời đi, ra về",
+    "ja": "去る・帰る",
+    "cefr": "A1"
+  },
+  "less": {
+    "pos": "adverb",
+    "vi": "ít hơn",
+    "ja": "より少なく",
+    "cefr": "A2"
+  },
+  "life": {
+    "pos": "noun",
+    "vi": "cuộc sống, cuộc đời",
+    "ja": "人生・生活",
+    "cefr": "A1",
+    "forms": [
+      "lives"
+    ]
+  },
+  "like": {
+    "pos": "preposition",
+    "vi": "như, giống như",
+    "ja": "〜のような",
+    "cefr": "A2"
+  },
+  "line": {
+    "pos": "noun",
+    "vi": "hàng (người xếp hàng)",
+    "ja": "列",
+    "cefr": "A2"
+  },
+  "long": {
+    "pos": "adverb",
+    "vi": "lâu",
+    "ja": "長く",
+    "cefr": "A1"
+  },
+  "look": {
+    "pos": "verb",
+    "vi": "trông có vẻ",
+    "ja": "〜に見える",
+    "cefr": "A1"
+  },
+  "make": {
+    "pos": "verb",
+    "vi": "làm, khiến",
+    "ja": "作る・〜にする",
+    "cefr": "A1"
+  },
+  "make a difference": {
+    "pos": "phrase",
+    "vi": "tạo ra khác biệt",
+    "ja": "違いを生む・効果がある",
+    "cefr": "B1"
+  },
+  "make sure": {
+    "pos": "phrase",
+    "vi": "đảm bảo",
+    "ja": "必ず〜する・確認する",
+    "cefr": "A2"
+  },
+  "many": {
+    "pos": "determiner",
+    "vi": "nhiều",
+    "ja": "多くの",
+    "cefr": "A1"
+  },
+  "meanwhile": {
+    "pos": "adverb",
+    "vi": "trong khi đó",
+    "ja": "一方で・その間に",
+    "cefr": "B1"
+  },
+  "medium": {
+    "pos": "adjective",
+    "vi": "cỡ vừa, trung bình",
+    "ja": "中くらいの・Mサイズの",
+    "cefr": "A2"
+  },
+  "meeting": {
+    "pos": "noun",
+    "vi": "cuộc họp",
+    "ja": "会議",
+    "cefr": "A2"
+  },
+  "memory": {
+    "pos": "noun",
+    "vi": "trí nhớ, ký ức",
+    "ja": "記憶",
+    "cefr": "B1"
+  },
+  "memory consolidation": {
+    "pos": "noun",
+    "vi": "sự củng cố trí nhớ",
+    "ja": "記憶の固定",
+    "cefr": "C1"
+  },
+  "milk": {
+    "pos": "noun",
+    "vi": "sữa",
+    "ja": "牛乳・ミルク",
+    "cefr": "A1"
+  },
+  "minute": {
+    "pos": "noun",
+    "vi": "phút",
+    "ja": "分",
+    "cefr": "A1"
+  },
+  "mood": {
+    "pos": "noun",
+    "vi": "tâm trạng",
+    "ja": "気分",
+    "cefr": "B1"
+  },
+  "more": {
+    "pos": "adverb",
+    "vi": "hơn, nhiều hơn",
+    "ja": "もっと・より多く",
+    "cefr": "A1"
+  },
+  "morning": {
+    "pos": "noun",
+    "vi": "buổi sáng",
+    "ja": "朝",
+    "cefr": "A1"
+  },
+  "most": {
+    "pos": "determiner",
+    "vi": "hầu hết",
+    "ja": "ほとんどの・大部分の",
+    "cefr": "A2"
+  },
+  "mouse": {
+    "pos": "noun",
+    "vi": "con chuột",
+    "ja": "ネズミ・マウス",
+    "cefr": "A2",
+    "forms": [
+      "mice"
+    ]
+  },
+  "much": {
+    "pos": "adverb",
+    "vi": "nhiều (dùng để nhấn mạnh so sánh)",
+    "ja": "ずっと・はるかに",
+    "cefr": "A1"
+  },
+  "name": {
+    "pos": "noun",
+    "vi": "tên",
+    "ja": "名前",
+    "cefr": "A1"
+  },
+  "near": {
+    "pos": "preposition",
+    "vi": "gần",
+    "ja": "〜の近くに",
+    "cefr": "A1"
+  },
+  "need": {
+    "pos": "verb",
+    "vi": "cần",
+    "ja": "必要とする",
+    "cefr": "A1"
+  },
+  "new": {
+    "pos": "adjective",
+    "vi": "mới",
+    "ja": "新しい",
+    "cefr": "A1"
+  },
+  "news": {
+    "pos": "noun",
+    "vi": "tin, tin tức",
+    "ja": "知らせ・ニュース",
+    "cefr": "A1"
+  },
+  "next": {
+    "pos": "adverb",
+    "vi": "bên cạnh; tiếp theo",
+    "ja": "隣に・次に",
+    "cefr": "A1"
+  },
+  "next to": {
+    "pos": "preposition",
+    "vi": "bên cạnh",
+    "ja": "〜の隣に",
+    "cefr": "A1"
+  },
+  "night": {
+    "pos": "noun",
+    "vi": "đêm",
+    "ja": "夜",
+    "cefr": "A1"
+  },
+  "no": {
+    "pos": "determiner",
+    "vi": "không",
+    "ja": "〜なし・ない",
+    "cefr": "A1"
+  },
+  "note": {
+    "pos": "noun",
+    "vi": "ghi chú",
+    "ja": "メモ・覚え書き",
+    "cefr": "A2"
+  },
+  "oat": {
+    "pos": "noun",
+    "vi": "yến mạch",
+    "ja": "オーツ麦",
+    "cefr": "B2"
+  },
+  "oat milk": {
+    "pos": "noun",
+    "vi": "sữa yến mạch",
+    "ja": "オーツミルク",
+    "cefr": "B2"
+  },
+  "off": {
+    "pos": "adverb",
+    "vi": "rời khỏi, lệch khỏi",
+    "ja": "離れて・外れて",
+    "cefr": "A2"
+  },
+  "office": {
+    "pos": "noun",
+    "vi": "văn phòng",
+    "ja": "オフィス・事務所",
+    "cefr": "A1"
+  },
+  "often": {
+    "pos": "adverb",
+    "vi": "thường, hay",
+    "ja": "よく・しばしば",
+    "cefr": "A1"
+  },
+  "on time": {
+    "pos": "phrase",
+    "vi": "đúng giờ",
+    "ja": "時間どおりに",
+    "cefr": "A2"
+  },
+  "one": {
+    "pos": "numeral",
+    "vi": "một; cái (thay thế danh từ)",
+    "ja": "一つ・（代名詞的に）もの",
+    "cefr": "A1"
+  },
+  "order": {
+    "pos": "noun",
+    "vi": "món gọi, đơn gọi món",
+    "ja": "注文",
+    "cefr": "A2"
+  },
+  "out": {
+    "pos": "adverb",
+    "vi": "ra, ra ngoài",
+    "ja": "外へ",
+    "cefr": "A1"
+  },
+  "passive": {
+    "pos": "adjective",
+    "vi": "thụ động",
+    "ja": "受け身の・受動的な",
+    "cefr": "B2"
+  },
+  "pay": {
+    "pos": "verb",
+    "vi": "trả tiền, thanh toán",
+    "ja": "払う",
+    "cefr": "A1"
+  },
+  "people": {
+    "pos": "noun",
+    "vi": "người, mọi người",
+    "ja": "人々",
+    "cefr": "A1"
+  },
+  "please": {
+    "pos": "adverb",
+    "vi": "làm ơn, vui lòng",
+    "ja": "お願いします・どうぞ",
+    "cefr": "A1"
+  },
+  "point": {
+    "pos": "noun",
+    "vi": "ý, điểm",
+    "ja": "点・要点",
+    "cefr": "A2"
+  },
+  "polite": {
+    "pos": "adjective",
+    "vi": "lịch sự",
+    "ja": "礼儀正しい・丁寧な",
+    "cefr": "A2"
+  },
+  "prepare": {
+    "pos": "verb",
+    "vi": "chuẩn bị",
+    "ja": "準備する",
+    "cefr": "A2"
+  },
+  "process": {
+    "pos": "noun",
+    "vi": "quá trình",
+    "ja": "過程・プロセス",
+    "cefr": "B1"
+  },
+  "product": {
+    "pos": "noun",
+    "vi": "sản phẩm, chất tạo ra",
+    "ja": "生成物・製品",
+    "cefr": "A2"
+  },
+  "put": {
+    "pos": "verb",
+    "vi": "đặt, để",
+    "ja": "置く",
+    "cefr": "A1"
+  },
+  "put up with": {
+    "pos": "phrase",
+    "vi": "chịu đựng",
+    "ja": "我慢する・耐える",
+    "cefr": "B2"
+  },
+  "rather": {
+    "pos": "adverb",
+    "vi": "đúng hơn, thà",
+    "ja": "むしろ",
+    "cefr": "B1"
+  },
+  "rather than": {
+    "pos": "preposition",
+    "vi": "thay vì",
+    "ja": "〜ではなく・〜よりむしろ",
+    "cefr": "B1"
+  },
+  "reaction": {
+    "pos": "noun",
+    "vi": "phản ứng",
+    "ja": "反応",
+    "cefr": "B1"
+  },
+  "reaction time": {
+    "pos": "noun",
+    "vi": "thời gian phản xạ",
+    "ja": "反応時間",
+    "cefr": "B2"
+  },
+  "real": {
+    "pos": "adjective",
+    "vi": "thật sự, rõ rệt",
+    "ja": "本当の・実際の",
+    "cefr": "A2"
+  },
+  "regular": {
+    "pos": "adjective",
+    "vi": "thông thường; đều đặn",
+    "ja": "普通の・規則正しい",
+    "cefr": "A2"
+  },
+  "regularly": {
+    "pos": "adverb",
+    "vi": "thường xuyên, đều đặn",
+    "ja": "定期的に・よく",
+    "cefr": "B1"
+  },
+  "remarkably": {
+    "pos": "adverb",
+    "vi": "đáng kinh ngạc, đáng kể",
+    "ja": "驚くほど・著しく",
+    "cefr": "B2"
+  },
+  "replay": {
+    "pos": "verb",
+    "vi": "phát lại",
+    "ja": "再生する",
+    "cefr": "B2"
+  },
+  "researcher": {
+    "pos": "noun",
+    "vi": "nhà nghiên cứu",
+    "ja": "研究者",
+    "cefr": "B1"
+  },
+  "room": {
+    "pos": "noun",
+    "vi": "phòng",
+    "ja": "部屋",
+    "cefr": "A1"
+  },
+  "roughly": {
+    "pos": "adverb",
+    "vi": "khoảng, xấp xỉ",
+    "ja": "およそ・大体",
+    "cefr": "B2"
+  },
+  "run": {
+    "pos": "verb",
+    "vi": "chạy; điều hành",
+    "ja": "走る・運営する",
+    "cefr": "A1"
+  },
+  "run late": {
+    "pos": "phrase",
+    "vi": "bị trễ (so với dự kiến)",
+    "ja": "遅れる・押している",
+    "cefr": "B1"
+  },
+  "say": {
+    "pos": "verb",
+    "vi": "nói",
+    "ja": "言う",
+    "cefr": "A1"
+  },
+  "schedule": {
+    "pos": "noun",
+    "vi": "lịch trình, giờ giấc",
+    "ja": "予定・スケジュール",
+    "cefr": "A2"
+  },
+  "scientist": {
+    "pos": "noun",
+    "vi": "nhà khoa học",
+    "ja": "科学者",
+    "cefr": "A2"
+  },
+  "screen": {
+    "pos": "noun",
+    "vi": "màn hình",
+    "ja": "画面",
+    "cefr": "A2"
+  },
+  "screen time": {
+    "pos": "noun",
+    "vi": "thời gian dùng màn hình",
+    "ja": "画面を見る時間・スクリーンタイム",
+    "cefr": "B2"
+  },
+  "second": {
+    "pos": "adverb",
+    "vi": "thứ hai là",
+    "ja": "第二に・次に",
+    "cefr": "A1"
+  },
+  "see": {
+    "pos": "verb",
+    "vi": "gặp, đi khám (bác sĩ); nhìn thấy",
+    "ja": "見る・（医師に）診てもらう",
+    "cefr": "A1"
+  },
+  "send": {
+    "pos": "verb",
+    "vi": "gửi",
+    "ja": "送る",
+    "cefr": "A1"
+  },
+  "send out": {
+    "pos": "phrase",
+    "vi": "gửi đi (cho nhiều người)",
+    "ja": "送付する・配布する",
+    "cefr": "B1"
+  },
+  "seven": {
+    "pos": "numeral",
+    "vi": "bảy",
+    "ja": "七",
+    "cefr": "A1"
+  },
+  "shop": {
+    "pos": "noun",
+    "vi": "cửa hàng, quán",
+    "ja": "店",
+    "cefr": "A1"
+  },
+  "short": {
+    "pos": "adjective",
+    "vi": "ngắn",
+    "ja": "短い",
+    "cefr": "A1"
+  },
+  "simple": {
+    "pos": "adjective",
+    "vi": "đơn giản",
+    "ja": "簡単な・シンプルな",
+    "cefr": "A2"
+  },
+  "sleep": {
+    "pos": "noun",
+    "vi": "giấc ngủ; ngủ",
+    "ja": "睡眠・眠る",
+    "cefr": "A1"
+  },
+  "small": {
+    "pos": "adjective",
+    "vi": "nhỏ",
+    "ja": "小さい",
+    "cefr": "A1"
+  },
+  "smile": {
+    "pos": "verb",
+    "vi": "mỉm cười",
+    "ja": "ほほえむ・笑顔になる",
+    "cefr": "A2"
+  },
+  "someone": {
+    "pos": "pronoun",
+    "vi": "ai đó",
+    "ja": "誰か",
+    "cefr": "A2"
+  },
+  "sometimes": {
+    "pos": "adverb",
+    "vi": "đôi khi",
+    "ja": "ときどき",
+    "cefr": "A1"
+  },
+  "space": {
+    "pos": "noun",
+    "vi": "khoảng trống",
+    "ja": "すき間・空間",
+    "cefr": "A2"
+  },
+  "spend": {
+    "pos": "verb",
+    "vi": "dành, tiêu (thời gian)",
+    "ja": "費やす・過ごす",
+    "cefr": "A2"
+  },
+  "start": {
+    "pos": "verb",
+    "vi": "bắt đầu",
+    "ja": "始める",
+    "cefr": "A1"
+  },
+  "stay": {
+    "pos": "verb",
+    "vi": "ở lại; vẫn (ở trạng thái)",
+    "ja": "とどまる・〜のままでいる",
+    "cefr": "A1"
+  },
+  "stay on track": {
+    "pos": "phrase",
+    "vi": "đi đúng hướng, không lạc đề",
+    "ja": "本題からそれない・順調に進む",
+    "cefr": "B2"
+  },
+  "stay up": {
+    "pos": "phrase",
+    "vi": "thức khuya",
+    "ja": "夜更かしする・起きている",
+    "cefr": "B1"
+  },
+  "still": {
+    "pos": "adverb",
+    "vi": "vẫn",
+    "ja": "まだ・今も",
+    "cefr": "A2"
+  },
+  "stop": {
+    "pos": "verb",
+    "vi": "dừng; ghé",
+    "ja": "止まる・立ち寄る",
+    "cefr": "A1"
+  },
+  "stop at": {
+    "pos": "phrase",
+    "vi": "ghé vào (nơi nào)",
+    "ja": "〜に立ち寄る",
+    "cefr": "A2"
+  },
+  "strengthen": {
+    "pos": "verb",
+    "vi": "củng cố, làm mạnh thêm",
+    "ja": "強める・強化する",
+    "cefr": "B2"
+  },
+  "struggle": {
+    "pos": "verb",
+    "vi": "vật lộn, gặp khó khăn",
+    "ja": "苦労する・なかなか〜できない",
+    "cefr": "B2"
+  },
+  "study": {
+    "pos": "noun",
+    "vi": "nghiên cứu",
+    "ja": "研究",
+    "cefr": "B1"
+  },
+  "sugar": {
+    "pos": "noun",
+    "vi": "đường",
+    "ja": "砂糖",
+    "cefr": "A1"
+  },
+  "suggest": {
+    "pos": "verb",
+    "vi": "cho thấy; gợi ý",
+    "ja": "示唆する・提案する",
+    "cefr": "B1"
+  },
+  "sum": {
+    "pos": "noun",
+    "vi": "tổng",
+    "ja": "合計",
+    "cefr": "B1"
+  },
+  "sum up": {
+    "pos": "phrase",
+    "vi": "tóm tắt",
+    "ja": "要約する・まとめる",
+    "cefr": "B2"
+  },
+  "sure": {
+    "pos": "adjective",
+    "vi": "chắc chắn",
+    "ja": "確かな",
+    "cefr": "A1"
+  },
+  "sweet": {
+    "pos": "adjective",
+    "vi": "ngọt",
+    "ja": "甘い",
+    "cefr": "A1"
+  },
+  "take": {
+    "pos": "verb",
+    "vi": "lấy, cầm, mang",
+    "ja": "取る・持っていく",
+    "cefr": "A1"
+  },
+  "take notes": {
+    "pos": "phrase",
+    "vi": "ghi chép",
+    "ja": "メモを取る",
+    "cefr": "B1"
+  },
+  "teenager": {
+    "pos": "noun",
+    "vi": "thanh thiếu niên",
+    "ja": "十代の若者",
+    "cefr": "A2"
+  },
+  "thank": {
+    "pos": "verb",
+    "vi": "cảm ơn",
+    "ja": "感謝する",
+    "cefr": "A1"
+  },
+  "thank you": {
+    "pos": "expression",
+    "vi": "cảm ơn",
+    "ja": "ありがとう",
+    "cefr": "A1"
+  },
+  "that way": {
+    "pos": "phrase",
+    "vi": "như vậy (thì), bằng cách đó",
+    "ja": "そうすれば",
+    "cefr": "B1"
+  },
+  "that's why": {
+    "pos": "expression",
+    "vi": "đó là lý do",
+    "ja": "だから・そういうわけで",
+    "cefr": "A2"
+  },
+  "the good news is": {
+    "pos": "expression",
+    "vi": "tin tốt là",
+    "ja": "良い知らせは・うれしいことに",
+    "cefr": "B1"
+  },
+  "there": {
+    "pos": "adverb",
+    "vi": "ở đó",
+    "ja": "そこに",
+    "cefr": "A1"
+  },
+  "third": {
+    "pos": "noun",
+    "vi": "một phần ba",
+    "ja": "3分の1",
+    "cefr": "A2"
+  },
+  "thirty": {
+    "pos": "numeral",
+    "vi": "ba mươi",
+    "ja": "三十",
+    "cefr": "A1"
+  },
+  "throughout": {
+    "pos": "preposition",
+    "vi": "suốt, khắp",
+    "ja": "〜の間ずっと",
+    "cefr": "B2"
+  },
+  "time": {
+    "pos": "noun",
+    "vi": "thời gian",
+    "ja": "時間",
+    "cefr": "A1"
+  },
+  "to go": {
+    "pos": "phrase",
+    "vi": "mang đi (đồ ăn uống)",
+    "ja": "持ち帰りで",
+    "cefr": "A2"
+  },
+  "topic": {
+    "pos": "noun",
+    "vi": "chủ đề",
+    "ja": "話題・議題",
+    "cefr": "A2"
+  },
+  "track": {
+    "pos": "noun",
+    "vi": "đường ray; hướng đi",
+    "ja": "軌道・道筋",
+    "cefr": "B1"
+  },
+  "turn": {
+    "pos": "verb",
+    "vi": "biến, chuyển",
+    "ja": "変える・変わる",
+    "cefr": "A2"
+  },
+  "turn into": {
+    "pos": "phrase",
+    "vi": "biến thành",
+    "ja": "〜に変える",
+    "cefr": "B1"
+  },
+  "two": {
+    "pos": "numeral",
+    "vi": "hai",
+    "ja": "二",
+    "cefr": "A1"
+  },
+  "uncover": {
+    "pos": "verb",
+    "vi": "khám phá, làm sáng tỏ",
+    "ja": "明らかにする・解明する",
+    "cefr": "C1"
+  },
+  "up": {
+    "pos": "adverb",
+    "vi": "lên",
+    "ja": "上へ",
+    "cefr": "A1"
+  },
+  "usually": {
+    "pos": "adverb",
+    "vi": "thường, thường thường",
+    "ja": "たいてい・普段",
+    "cefr": "A1"
+  },
+  "wait": {
+    "pos": "verb",
+    "vi": "chờ, đợi",
+    "ja": "待つ",
+    "cefr": "A1"
+  },
+  "want": {
+    "pos": "verb",
+    "vi": "muốn",
+    "ja": "欲しい・〜したい",
+    "cefr": "A1"
+  },
+  "waste": {
+    "pos": "noun",
+    "vi": "sự lãng phí; chất thải",
+    "ja": "無駄・廃棄物",
+    "cefr": "B1"
+  },
+  "waste of time": {
+    "pos": "phrase",
+    "vi": "phí thời gian",
+    "ja": "時間の無駄",
+    "cefr": "B1"
+  },
+  "waste product": {
+    "pos": "noun",
+    "vi": "chất thải",
+    "ja": "老廃物",
+    "cefr": "B2"
+  },
+  "way": {
+    "pos": "noun",
+    "vi": "cách",
+    "ja": "方法・やり方",
+    "cefr": "A1"
+  },
+  "weaken": {
+    "pos": "verb",
+    "vi": "làm suy yếu",
+    "ja": "弱める・低下させる",
+    "cefr": "B2"
+  },
+  "week": {
+    "pos": "noun",
+    "vi": "tuần",
+    "ja": "週",
+    "cefr": "A1"
+  },
+  "well": {
+    "pos": "adverb",
+    "vi": "tốt, giỏi",
+    "ja": "よく・うまく",
+    "cefr": "A1"
+  },
+  "well run": {
+    "pos": "adjective",
+    "vi": "được điều hành tốt",
+    "ja": "うまく運営された",
+    "cefr": "B2"
+  },
+  "what can i get for you": {
+    "pos": "expression",
+    "vi": "Bạn muốn gọi gì ạ?",
+    "ja": "ご注文は何になさいますか",
+    "cefr": "A2"
+  },
+  "while": {
+    "pos": "conjunction",
+    "vi": "trong khi, còn",
+    "ja": "〜一方で",
+    "cefr": "A2"
+  },
+  "whole": {
+    "pos": "adjective",
+    "vi": "toàn bộ, cả",
+    "ja": "全体の・まるごとの",
+    "cefr": "A2"
+  },
+  "widen": {
+    "pos": "verb",
+    "vi": "mở rộng, giãn ra",
+    "ja": "広がる・広げる",
+    "cefr": "B2"
+  },
+  "without": {
+    "pos": "preposition",
+    "vi": "mà không",
+    "ja": "〜せずに・〜なしで",
+    "cefr": "A2"
+  },
+  "work": {
+    "pos": "verb",
+    "vi": "làm việc; hoạt động",
+    "ja": "働く・機能する",
+    "cefr": "A1"
+  },
+  "work out": {
+    "pos": "phrase",
+    "vi": "tìm ra, giải mã",
+    "ja": "解明する・突き止める",
+    "cefr": "B1"
+  },
+  "worth": {
+    "pos": "adjective",
+    "vi": "đáng, xứng đáng",
+    "ja": "価値がある",
+    "cefr": "B1"
+  },
+  "write": {
+    "pos": "verb",
+    "vi": "viết",
+    "ja": "書く",
+    "cefr": "A1"
+  },
+  "write down": {
+    "pos": "phrase",
+    "vi": "ghi lại",
+    "ja": "書き留める",
+    "cefr": "A2"
+  }
+}

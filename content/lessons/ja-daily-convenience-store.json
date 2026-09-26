@@ -1,0 +1,116 @@
+{
+  "id": "ja-daily-convenience-store",
+  "targetLanguage": "ja",
+  "title": {
+    "original": "朝のコンビニ",
+    "vi": "Cửa hàng tiện lợi buổi sáng",
+    "en": "A Morning at the Convenience Store"
+  },
+  "description": {
+    "vi": "Một chuyến ghé cửa hàng tiện lợi buổi sáng, kể bằng những câu です/ます ngắn và đơn giản.",
+    "en": "A quick morning trip to a Japanese konbini, told in short, simple です/ます sentences.",
+    "ja": "朝、近くのコンビニで朝ごはんを買う短い話です。"
+  },
+  "categories": [
+    "daily-life",
+    "food"
+  ],
+  "tags": [
+    "japan",
+    "konbini",
+    "shopping",
+    "breakfast",
+    "morning"
+  ],
+  "difficulty": {
+    "framework": "jlpt",
+    "level": "N5"
+  },
+  "accent": "ja-tokyo",
+  "voice": "Kyoko",
+  "sentences": [
+    {
+      "text": "毎朝、私は近くのコンビニに行きます。",
+      "translations": {
+        "vi": "Sáng nào tôi cũng đến cửa hàng tiện lợi gần nhà.",
+        "en": "Every morning, I go to a nearby convenience store."
+      },
+      "note": {
+        "vi": "近く + の + danh từ = \"… ở gần\". に chỉ đích đến của động từ di chuyển 行きます.",
+        "en": "近く + の + noun = \"a nearby …\". に marks the destination of a movement verb like 行きます."
+      }
+    },
+    {
+      "text": "コンビニは二十四時間やっています。",
+      "translations": {
+        "vi": "Cửa hàng tiện lợi mở cửa suốt 24 giờ.",
+        "en": "Convenience stores are open 24 hours a day."
+      },
+      "note": {
+        "vi": "〜ています ở đây diễn tả trạng thái đang duy trì: やっています (văn nói) = \"đang mở cửa, đang hoạt động\".",
+        "en": "〜ています here describes an ongoing state: やっています (casual) = \"is open / in business\"."
+      }
+    },
+    {
+      "text": "店に入ると、店員さんが「いらっしゃいませ」と言います。",
+      "translations": {
+        "vi": "Khi tôi bước vào, nhân viên nói \"Xin mời quý khách\".",
+        "en": "When I walk in, the clerk says \"Irasshaimase\" (Welcome)."
+      },
+      "note": {
+        "vi": "Động từ thể từ điển + と = \"hễ/khi … thì …\" (kết quả xảy ra tự nhiên ngay sau đó).",
+        "en": "Dictionary form + と = \"when/whenever …\", followed by what naturally happens next."
+      }
+    },
+    {
+      "text": "まず、おにぎりを二つ取ります。",
+      "translations": {
+        "vi": "Trước tiên, tôi lấy hai nắm cơm onigiri.",
+        "en": "First, I take two rice balls."
+      }
+    },
+    {
+      "text": "それから、冷たいお茶も買います。",
+      "translations": {
+        "vi": "Sau đó, tôi mua thêm một chai trà lạnh.",
+        "en": "Then I also buy some cold tea."
+      },
+      "note": {
+        "vi": "も thay cho を và mang nghĩa \"cũng\": お茶も買います = \"cũng mua trà\".",
+        "en": "も replaces を and means \"also\": お茶も買います = \"I buy tea too\"."
+      }
+    },
+    {
+      "text": "レジで、店員さんが「袋は要りますか」と聞きます。",
+      "translations": {
+        "vi": "Ở quầy thu ngân, nhân viên hỏi: \"Anh/chị có cần túi không?\"",
+        "en": "At the register, the clerk asks, \"Do you need a bag?\""
+      }
+    },
+    {
+      "text": "私は「いいえ、大丈夫です」と答えます。",
+      "translations": {
+        "vi": "Tôi trả lời: \"Không, tôi không cần đâu.\"",
+        "en": "I answer, \"No, I'm fine.\""
+      }
+    },
+    {
+      "text": "全部で四百円でした。",
+      "translations": {
+        "vi": "Tổng cộng hết bốn trăm yên.",
+        "en": "It came to 400 yen in total."
+      },
+      "note": {
+        "vi": "全部で = \"tổng cộng\"; で ở đây chỉ phạm vi tính gộp. でした là quá khứ của です.",
+        "en": "全部で = \"in total\"; で marks the scope being totalled. でした is the past of です."
+      }
+    },
+    {
+      "text": "朝ごはんを持って、会社へ行きます。",
+      "translations": {
+        "vi": "Tôi cầm bữa sáng rồi đi đến công ty.",
+        "en": "I take my breakfast and head to the office."
+      }
+    }
+  ]
+}
