@@ -1,0 +1,5207 @@
+1
+00:00:06,110 --> 00:00:14,250
+[Music]
+
+2
+00:00:11,450 --> 00:00:15,630
+hi I'm Bill Ackman I'm the CEO of
+
+3
+00:00:14,250 --> 00:00:16,730
+Pershing Square Capital Management and
+
+4
+00:00:15,630 --> 00:00:18,359
+I'm here today to talk to you about
+
+5
+00:00:16,730 --> 00:00:20,820
+everything you need to know about
+
+6
+00:00:18,359 --> 00:00:22,170
+finance and investing and I'm gonna get
+
+7
+00:00:20,820 --> 00:00:25,619
+it done in an hour and you'll be ready
+
+8
+00:00:22,170 --> 00:00:27,480
+to go so let's begin in order for you to
+
+9
+00:00:25,619 --> 00:00:29,519
+get a better sense of finance and some
+
+10
+00:00:27,480 --> 00:00:32,070
+of the basic terms associated with a
+
+11
+00:00:29,519 --> 00:00:33,390
+business and investing in a business I'm
+
+12
+00:00:32,070 --> 00:00:34,680
+gonna use the example of a lemonade
+
+13
+00:00:33,390 --> 00:00:36,390
+stand we're gonna go into business
+
+14
+00:00:34,680 --> 00:00:39,180
+together we're gonna open up lemonade
+
+15
+00:00:36,390 --> 00:00:40,559
+soon so the reason why I'm using an
+
+16
+00:00:39,180 --> 00:00:42,480
+example of a lemonade stand is a very
+
+17
+00:00:40,559 --> 00:00:44,399
+simple way to understand the basics of
+
+18
+00:00:42,480 --> 00:00:46,350
+the business how to understand how our
+
+19
+00:00:44,399 --> 00:00:48,030
+business works our business generates
+
+20
+00:00:46,350 --> 00:00:50,250
+profits what's involved in raising
+
+21
+00:00:48,030 --> 00:00:52,379
+capital to start a company what you do
+
+22
+00:00:50,250 --> 00:00:53,699
+when you're ready to decide to monetize
+
+23
+00:00:52,379 --> 00:00:55,440
+your investment or take some money off
+
+24
+00:00:53,699 --> 00:00:56,879
+the table you'll be able to understand
+
+25
+00:00:55,440 --> 00:00:59,520
+each of these concepts through the very
+
+26
+00:00:56,879 --> 00:01:01,310
+simple lens of a small startup business
+
+27
+00:00:59,520 --> 00:01:04,129
+like a lemonade stand
+
+28
+00:01:01,310 --> 00:01:06,020
+[Music]
+
+29
+00:01:04,129 --> 00:01:08,729
+we're gonna go into business together
+
+30
+00:01:06,020 --> 00:01:10,890
+we're gonna start a company and we're
+
+31
+00:01:08,729 --> 00:01:12,149
+gonna start a lemonade stand and no I
+
+32
+00:01:10,890 --> 00:01:13,409
+don't have any money today so I'm gonna
+
+33
+00:01:12,149 --> 00:01:15,540
+have to raise money from investors to
+
+34
+00:01:13,409 --> 00:01:16,409
+launch the business so how am I gonna do
+
+35
+00:01:15,540 --> 00:01:18,570
+that well I'm going to form a
+
+36
+00:01:16,409 --> 00:01:20,460
+corporation it's a little filing that
+
+37
+00:01:18,570 --> 00:01:21,570
+you make with the state and you've come
+
+38
+00:01:20,460 --> 00:01:23,880
+up with a name for your business will
+
+39
+00:01:21,570 --> 00:01:25,619
+call it Billy's lemonade stand and we're
+
+40
+00:01:23,880 --> 00:01:27,570
+gonna raise money from outside investors
+
+41
+00:01:25,619 --> 00:01:29,039
+we need a little money to get started so
+
+42
+00:01:27,570 --> 00:01:30,810
+we're going to start our business with a
+
+43
+00:01:29,039 --> 00:01:33,420
+thousand shares of stock we just made up
+
+44
+00:01:30,810 --> 00:01:36,179
+that number and we sell 500 shares more
+
+45
+00:01:33,420 --> 00:01:38,640
+for $1 each to an investor the investor
+
+46
+00:01:36,179 --> 00:01:40,920
+is gonna put up $500 we're gonna put up
+
+47
+00:01:38,640 --> 00:01:42,869
+the name and the idea we're gonna have a
+
+48
+00:01:40,920 --> 00:01:44,640
+thousand shares he's gonna have 500
+
+49
+00:01:42,869 --> 00:01:47,039
+shares he's gonna own a third of the
+
+50
+00:01:44,640 --> 00:01:48,990
+business for his $500 so what's our
+
+51
+00:01:47,039 --> 00:01:50,429
+business worth at the start well it's
+
+52
+00:01:48,990 --> 00:01:53,310
+worth $1,500
+
+53
+00:01:50,429 --> 00:01:55,409
+we have $500 in the bank plus $1,000
+
+54
+00:01:53,310 --> 00:01:56,909
+because I came up with the idea for the
+
+55
+00:01:55,409 --> 00:01:59,250
+company now we need a little more than
+
+56
+00:01:56,909 --> 00:02:01,170
+$500 so what am I gonna do I'm gonna
+
+57
+00:01:59,250 --> 00:02:03,509
+borrow some money and borrow from a
+
+58
+00:02:01,170 --> 00:02:05,850
+friend and he's gonna lend me $250 and
+
+59
+00:02:03,509 --> 00:02:09,149
+we're gonna pay him 10% interest a year
+
+60
+00:02:05,850 --> 00:02:10,679
+for that loan now why do we borrow money
+
+61
+00:02:09,149 --> 00:02:12,930
+instead of just selling more stock well
+
+62
+00:02:10,679 --> 00:02:14,459
+by borrowing money we keep more of the
+
+63
+00:02:12,930 --> 00:02:16,530
+stock for ourselves so if the business
+
+64
+00:02:14,459 --> 00:02:19,760
+is successful we're gonna end up with a
+
+65
+00:02:16,530 --> 00:02:19,760
+bigger percentage of the profits
+
+66
+00:02:19,860 --> 00:02:22,900
+so now we're gonna take a look at what
+
+67
+00:02:21,820 --> 00:02:23,950
+the business looks like on a piece of
+
+68
+00:02:22,900 --> 00:02:25,480
+paper we're gonna look at something
+
+69
+00:02:23,950 --> 00:02:27,430
+called a balance sheet balance sheet
+
+70
+00:02:25,480 --> 00:02:28,900
+tells you where the company stands what
+
+71
+00:02:27,430 --> 00:02:30,610
+your assets are what your liabilities
+
+72
+00:02:28,900 --> 00:02:32,440
+are and what your net worth or
+
+73
+00:02:30,610 --> 00:02:34,180
+shareholders equity is you take your
+
+74
+00:02:32,440 --> 00:02:36,010
+assets in this case we've raised five
+
+75
+00:02:34,180 --> 00:02:37,330
+hundred dollars in exchange for the five
+
+76
+00:02:36,010 --> 00:02:38,740
+hundred dollars the person who put up
+
+77
+00:02:37,330 --> 00:02:41,170
+the money only got 1/3 of the business
+
+78
+00:02:38,740 --> 00:02:42,610
+the other two-thirds is owned by us for
+
+79
+00:02:41,170 --> 00:02:45,040
+starting the company well that's a
+
+80
+00:02:42,610 --> 00:02:45,520
+thousand dollars of goodwill for the
+
+81
+00:02:45,040 --> 00:02:47,650
+business
+
+82
+00:02:45,520 --> 00:02:50,110
+we're borrowed two hundred fifty dollars
+
+83
+00:02:47,650 --> 00:02:51,850
+we're gonna owe twenty fifty dollars
+
+84
+00:02:50,110 --> 00:02:52,990
+it's a liability so we've got five
+
+85
+00:02:51,850 --> 00:02:55,240
+hundred dollars in cash from selling
+
+86
+00:02:52,990 --> 00:02:59,170
+stock two hundred and fifty dollars from
+
+87
+00:02:55,240 --> 00:03:01,090
+raising debt and we owe $250 loan and we
+
+88
+00:02:59,170 --> 00:03:02,740
+have a corporation that has and you'll
+
+89
+00:03:01,090 --> 00:03:05,080
+see on the chart shareholders equity of
+
+90
+00:03:02,740 --> 00:03:08,850
+fifteen hundred dollars so that's our
+
+91
+00:03:05,080 --> 00:03:08,850
+starting point now let's keep moving
+
+92
+00:03:11,040 --> 00:03:15,100
+what do we need to do to start our
+
+93
+00:03:13,330 --> 00:03:16,090
+company we need a lemonade stand that's
+
+94
+00:03:15,100 --> 00:03:17,550
+gonna cost us about three hundred
+
+95
+00:03:16,090 --> 00:03:20,920
+dollars that's called a fixed asset
+
+96
+00:03:17,550 --> 00:03:22,750
+unlike a lemon or sugar or water this is
+
+97
+00:03:20,920 --> 00:03:24,670
+something you like a building you buy
+
+98
+00:03:22,750 --> 00:03:27,040
+and you build it it wears out over time
+
+99
+00:03:24,670 --> 00:03:28,570
+but it's it's a fixed asset and then you
+
+100
+00:03:27,040 --> 00:03:30,130
+need some inventory what do you need to
+
+101
+00:03:28,570 --> 00:03:32,320
+make lemonade well you need sugar you
+
+102
+00:03:30,130 --> 00:03:35,770
+need water you need lemons you need cups
+
+103
+00:03:32,320 --> 00:03:36,880
+you need little containers and perhaps
+
+104
+00:03:35,770 --> 00:03:39,730
+some napkins and you need enough
+
+105
+00:03:36,880 --> 00:03:41,620
+supplies so let's say have 50 gallons of
+
+106
+00:03:39,730 --> 00:03:43,360
+lemonade in our of the start of our
+
+107
+00:03:41,620 --> 00:03:44,800
+business now 50 gallons gets us about
+
+108
+00:03:43,360 --> 00:03:47,440
+eight hundred cups of lemonade and we're
+
+109
+00:03:44,800 --> 00:03:49,480
+ready to begin let's take a new look at
+
+110
+00:03:47,440 --> 00:03:51,130
+the balance sheet so now we've spent
+
+111
+00:03:49,480 --> 00:03:52,330
+five hundred dollars we only have two
+
+112
+00:03:51,130 --> 00:03:54,370
+hundred fifty dollars left in the bank
+
+113
+00:03:52,330 --> 00:03:55,570
+but our fixed assets are now three
+
+114
+00:03:54,370 --> 00:03:57,580
+hundred dollars that's our lemonade
+
+115
+00:03:55,570 --> 00:03:59,230
+stand our inventory is two hundred
+
+116
+00:03:57,580 --> 00:04:00,550
+dollars those are the supplies and
+
+117
+00:03:59,230 --> 00:04:02,200
+things that lemons that we need to make
+
+118
+00:04:00,550 --> 00:04:04,709
+the lemonade goodwill hasn't changed at
+
+119
+00:04:02,200 --> 00:04:08,110
+a thousand so our total assets are
+
+120
+00:04:04,709 --> 00:04:09,090
+$1,750 we still owe $250 to the person
+
+121
+00:04:08,110 --> 00:04:11,200
+who lent us the money
+
+122
+00:04:09,090 --> 00:04:12,820
+surely the equity hasn't changed we
+
+123
+00:04:11,200 --> 00:04:14,890
+haven't made any money all we've done is
+
+124
+00:04:12,820 --> 00:04:16,209
+we've taken cash we've turned it into
+
+125
+00:04:14,890 --> 00:04:20,400
+other assets that we're going to need to
+
+126
+00:04:16,209 --> 00:04:20,400
+succeed in our lemonade stand business
+
+127
+00:04:21,140 --> 00:04:24,860
+[Music]
+
+128
+00:04:22,930 --> 00:04:25,910
+let's make some assumptions about how
+
+129
+00:04:24,860 --> 00:04:27,530
+the business is going to do over time
+
+130
+00:04:25,910 --> 00:04:28,970
+we're gonna soon we're going to sell
+
+131
+00:04:27,530 --> 00:04:30,169
+eight hundred cups eliminate a year
+
+132
+00:04:28,970 --> 00:04:32,810
+we're gonna assume that each cup we can
+
+133
+00:04:30,169 --> 00:04:34,400
+sell for a dollar and it's gonna cost us
+
+134
+00:04:32,810 --> 00:04:37,430
+about five hundred thirty dollars per
+
+135
+00:04:34,400 --> 00:04:38,270
+year to staff our lemonade stand so now
+
+136
+00:04:37,430 --> 00:04:39,770
+let's take a look at the income
+
+137
+00:04:38,270 --> 00:04:42,229
+statement so the income statement talks
+
+138
+00:04:39,770 --> 00:04:43,639
+about the profitability about the
+
+139
+00:04:42,229 --> 00:04:45,100
+revenues that the business generate what
+
+140
+00:04:43,639 --> 00:04:47,780
+the expenses are and what's left over
+
+141
+00:04:45,100 --> 00:04:49,070
+for the owner of the company so we've
+
+142
+00:04:47,780 --> 00:04:50,810
+got one lemonade stand
+
+143
+00:04:49,070 --> 00:04:52,820
+we're selling eight hundred cups of
+
+144
+00:04:50,810 --> 00:04:54,560
+lemonade and our stand charging a dollar
+
+145
+00:04:52,820 --> 00:04:57,050
+so we're generating about eight hundred
+
+146
+00:04:54,560 --> 00:04:58,460
+dollars a year in revenue and we're
+
+147
+00:04:57,050 --> 00:05:00,289
+spending two hundred dollars in
+
+148
+00:04:58,460 --> 00:05:02,630
+inventory there's a a line item here
+
+149
+00:05:00,289 --> 00:05:03,500
+called cogs that stands for cost of
+
+150
+00:05:02,630 --> 00:05:04,940
+goods sold
+
+151
+00:05:03,500 --> 00:05:06,470
+we have depreciation because our
+
+152
+00:05:04,940 --> 00:05:08,479
+lemonade stand gets a bit beat up over
+
+153
+00:05:06,470 --> 00:05:11,210
+time and it wears out over five years so
+
+154
+00:05:08,479 --> 00:05:13,550
+it depreciates over five years we've got
+
+155
+00:05:11,210 --> 00:05:15,500
+our labor expense - for people to
+
+156
+00:05:13,550 --> 00:05:17,389
+actually pour the lemonade and collect
+
+157
+00:05:15,500 --> 00:05:19,849
+the cash from customers and we have a
+
+158
+00:05:17,389 --> 00:05:22,070
+profit we have an e bit and that's
+
+159
+00:05:19,849 --> 00:05:24,080
+earnings before interest in taxes of ten
+
+160
+00:05:22,070 --> 00:05:25,430
+dollars it's kind of our pre-tax profit
+
+161
+00:05:24,080 --> 00:05:27,310
+for the business we didn't make very
+
+162
+00:05:25,430 --> 00:05:30,050
+much money because you take that pre-tax
+
+163
+00:05:27,310 --> 00:05:32,960
+profit of ten dollars and you compare it
+
+164
+00:05:30,050 --> 00:05:35,000
+to our revenues it's about a 1.3 percent
+
+165
+00:05:32,960 --> 00:05:37,220
+margin that's not a particularly high
+
+166
+00:05:35,000 --> 00:05:40,760
+profit now we've got to pay interest on
+
+167
+00:05:37,220 --> 00:05:43,130
+our debts and we have a loss of $15 and
+
+168
+00:05:40,760 --> 00:05:46,330
+then we don't have any taxes but at the
+
+169
+00:05:43,130 --> 00:05:46,330
+end of the day we still lose money
+
+170
+00:05:49,270 --> 00:05:52,430
+should we continue to invest in the
+
+171
+00:05:51,229 --> 00:05:54,470
+business we've lost money in the first
+
+172
+00:05:52,430 --> 00:05:57,010
+year is it time to give up well let's
+
+173
+00:05:54,470 --> 00:05:57,010
+think about it
+
+174
+00:05:59,020 --> 00:06:02,389
+let's make some projections about what
+
+175
+00:06:01,220 --> 00:06:04,820
+the company's gonna look like over the
+
+176
+00:06:02,389 --> 00:06:06,530
+next several years let's assume that we
+
+177
+00:06:04,820 --> 00:06:07,669
+take all the cash the business generates
+
+178
+00:06:06,530 --> 00:06:09,740
+and we're gonna use it to buy more
+
+179
+00:06:07,669 --> 00:06:10,910
+lemonade stand so we can grow let's
+
+180
+00:06:09,740 --> 00:06:12,199
+assume we're not gonna take any money
+
+181
+00:06:10,910 --> 00:06:13,790
+out of the company let's we're not gonna
+
+182
+00:06:12,199 --> 00:06:15,560
+pay a dividend we're gonna keep all the
+
+183
+00:06:13,790 --> 00:06:16,790
+money in the company and reinvest it as
+
+184
+00:06:15,560 --> 00:06:17,840
+we build our brand we can charge a
+
+185
+00:06:16,790 --> 00:06:20,120
+little more each year so we're gonna
+
+186
+00:06:17,840 --> 00:06:21,770
+raise our prices about a nickel five
+
+187
+00:06:20,120 --> 00:06:23,660
+cents more for each cup of lemonade each
+
+188
+00:06:21,770 --> 00:06:26,449
+year and then we're going to assume we
+
+189
+00:06:23,660 --> 00:06:27,470
+can sell 5% more cups per stand per year
+
+190
+00:06:26,449 --> 00:06:33,710
+so we've got a built in growth
+
+191
+00:06:27,470 --> 00:06:36,470
+assumptions so let's take a look at the
+
+192
+00:06:33,710 --> 00:06:38,030
+company take a look at this chart you'll
+
+193
+00:06:36,470 --> 00:06:39,979
+see in year one we started out with one
+
+194
+00:06:38,030 --> 00:06:42,590
+lemonade stand we add one a year and
+
+195
+00:06:39,979 --> 00:06:44,210
+then we buy your five we're up to seven
+
+196
+00:06:42,590 --> 00:06:46,340
+because we've got a big expansion plan
+
+197
+00:06:44,210 --> 00:06:48,050
+our price per cup goes up a nickel a
+
+198
+00:06:46,340 --> 00:06:49,250
+year and our revenue goes from eight
+
+199
+00:06:48,050 --> 00:06:51,110
+hundred dollars and starts to grow
+
+200
+00:06:49,250 --> 00:06:53,750
+fairly quickly and the growth comes from
+
+201
+00:06:51,110 --> 00:06:55,789
+increased prices four cups of lemonade
+
+202
+00:06:53,750 --> 00:06:57,830
+and it also comes from opening more
+
+203
+00:06:55,789 --> 00:07:00,770
+stands so by year five we have almost
+
+204
+00:06:57,830 --> 00:07:03,200
+$8,000 in revenue our costs are
+
+205
+00:07:00,770 --> 00:07:05,330
+relatively constant which is lemonade
+
+206
+00:07:03,200 --> 00:07:07,940
+and the sugar that's about seventeen
+
+207
+00:07:05,330 --> 00:07:10,070
+hundred two dollars we have depreciation
+
+208
+00:07:07,940 --> 00:07:11,870
+as the more and more stands start to
+
+209
+00:07:10,070 --> 00:07:14,630
+wear out over time we've got labor
+
+210
+00:07:11,870 --> 00:07:15,919
+expense but by year five the business
+
+211
+00:07:14,630 --> 00:07:19,220
+actually doing pretty well we went from
+
+212
+00:07:15,919 --> 00:07:20,630
+a 1.3 percent margin to a over a 28
+
+213
+00:07:19,220 --> 00:07:22,010
+percent markets the business is now up
+
+214
+00:07:20,630 --> 00:07:24,440
+to scale we're starting to cover some of
+
+215
+00:07:22,010 --> 00:07:26,300
+our costs we're growing we're still
+
+216
+00:07:24,440 --> 00:07:29,510
+paying $25 a year in interest for our
+
+217
+00:07:26,300 --> 00:07:32,000
+loan and we have a earnings before taxes
+
+218
+00:07:29,510 --> 00:07:33,740
+after interest of $2,300 by the end of
+
+219
+00:07:32,000 --> 00:07:36,590
+year five so we put five hundred dollars
+
+220
+00:07:33,740 --> 00:07:38,530
+into the business we borrow 250 and by
+
+221
+00:07:36,590 --> 00:07:40,580
+year five we're making a profit of
+
+222
+00:07:38,530 --> 00:07:41,810
+$2,300 that sounds pretty good now we
+
+223
+00:07:40,580 --> 00:07:44,000
+have to pay taxes to the government
+
+224
+00:07:41,810 --> 00:07:46,280
+that's about thirty five percent we
+
+225
+00:07:44,000 --> 00:07:48,229
+generate net income or another word for
+
+226
+00:07:46,280 --> 00:07:50,960
+profits of fifteen hundred dollars by
+
+227
+00:07:48,229 --> 00:07:53,599
+the fifth year and about a dollar a
+
+228
+00:07:50,960 --> 00:07:54,860
+share so if you think about this our
+
+229
+00:07:53,599 --> 00:07:57,320
+friend put up five hundred dollars to
+
+230
+00:07:54,860 --> 00:07:59,599
+buy five hundred shares of stock he paid
+
+231
+00:07:57,320 --> 00:08:01,380
+a dollar and after five years if our
+
+232
+00:07:59,599 --> 00:08:03,930
+business goes as we expect he's actual
+
+233
+00:08:01,380 --> 00:08:10,920
+making $1 a share in profit that sounds
+
+234
+00:08:03,930 --> 00:08:13,110
+like a pretty good peel let's look at
+
+235
+00:08:10,920 --> 00:08:14,010
+the cash flow statement so as the
+
+236
+00:08:13,110 --> 00:08:15,930
+business becomes more and more
+
+237
+00:08:14,010 --> 00:08:18,420
+profitable we generate more and more
+
+238
+00:08:15,930 --> 00:08:20,310
+cash and the cash builds up in the
+
+239
+00:08:18,420 --> 00:08:23,310
+company we go from $500 of cash in the
+
+240
+00:08:20,310 --> 00:08:26,910
+company to over $2,000 of cash over the
+
+241
+00:08:23,310 --> 00:08:29,640
+period the balance sheet you know again
+
+242
+00:08:26,910 --> 00:08:31,140
+the starting balance sheet had shoulders
+
+243
+00:08:29,640 --> 00:08:32,580
+equity of fourteen hundred ninety
+
+244
+00:08:31,140 --> 00:08:35,130
+dollars but as the business becomes more
+
+245
+00:08:32,580 --> 00:08:37,080
+profitable the profits add to the cash
+
+246
+00:08:35,130 --> 00:08:39,240
+they add to the assets of the company
+
+247
+00:08:37,080 --> 00:08:41,370
+our liabilities have not changed and the
+
+248
+00:08:39,240 --> 00:08:42,630
+business continues to build value over
+
+249
+00:08:41,370 --> 00:08:44,940
+times again by the end of year five
+
+250
+00:08:42,630 --> 00:08:46,770
+we've got four thousand dollars of
+
+251
+00:08:44,940 --> 00:08:54,900
+shareholder equity and that's almost
+
+252
+00:08:46,770 --> 00:08:56,070
+three times what it was we started now
+
+253
+00:08:54,900 --> 00:08:58,170
+is this a good business or a bad
+
+254
+00:08:56,070 --> 00:08:59,670
+business how do we think about whether
+
+255
+00:08:58,170 --> 00:09:01,860
+it's good or bad one thing to think
+
+256
+00:08:59,670 --> 00:09:03,870
+about is what kind of earnings are we
+
+257
+00:09:01,860 --> 00:09:06,680
+achieving compared to how much money
+
+258
+00:09:03,870 --> 00:09:06,680
+went into the company
+
+259
+00:09:08,650 --> 00:09:13,439
+[Music]
+
+260
+00:09:10,889 --> 00:09:15,239
+now this is a business that we valued at
+
+261
+00:09:13,439 --> 00:09:17,579
+$1500 when he started someone put up
+
+262
+00:09:15,239 --> 00:09:19,410
+$500 for a third of the company we give
+
+263
+00:09:17,579 --> 00:09:22,949
+it a $1,500 value but the Ender fear
+
+264
+00:09:19,410 --> 00:09:25,769
+your five it's earning 50 over $1500 in
+
+265
+00:09:22,949 --> 00:09:27,660
+earnings so that's a over a hundred
+
+266
+00:09:25,769 --> 00:09:29,220
+percent return on the money that we put
+
+267
+00:09:27,660 --> 00:09:30,119
+into the company that's actually quite a
+
+268
+00:09:29,220 --> 00:09:32,879
+high number
+
+269
+00:09:30,119 --> 00:09:35,369
+we've spent $2,100 in Capitol building
+
+270
+00:09:32,879 --> 00:09:37,230
+lemonade stands and we earn twenty three
+
+271
+00:09:35,369 --> 00:09:38,790
+hundred and thirty six dollars in year
+
+272
+00:09:37,230 --> 00:09:40,829
+five on the capital we invested that's
+
+273
+00:09:38,790 --> 00:09:44,069
+over a hundred percent return on capital
+
+274
+00:09:40,829 --> 00:09:45,749
+that's a very attractive turn earnings
+
+275
+00:09:44,069 --> 00:09:47,579
+have grown at a very rapid rate a
+
+276
+00:09:45,749 --> 00:09:50,669
+hundred and fifty five percent per annum
+
+277
+00:09:47,579 --> 00:09:52,230
+this is really a growth company and our
+
+278
+00:09:50,669 --> 00:09:56,429
+profitability is gone from 1.3 percent
+
+279
+00:09:52,230 --> 00:09:59,009
+to 28.6% by year five that sounds pretty
+
+280
+00:09:56,429 --> 00:10:01,470
+attractive and it is so let's look at
+
+281
+00:09:59,009 --> 00:10:04,109
+the person who put up the loan well that
+
+282
+00:10:01,470 --> 00:10:05,429
+person put up $250 and the business has
+
+283
+00:10:04,109 --> 00:10:08,040
+been profitable we've been able to pay
+
+284
+00:10:05,429 --> 00:10:09,929
+them their interest of 10% a year $25 a
+
+285
+00:10:08,040 --> 00:10:11,939
+year and they're happy because they put
+
+286
+00:10:09,929 --> 00:10:13,649
+up $250 they're getting a 10% return on
+
+287
+00:10:11,939 --> 00:10:15,809
+their loan and the business is worth
+
+288
+00:10:13,649 --> 00:10:18,089
+well more than $250 we've got more than
+
+289
+00:10:15,809 --> 00:10:21,029
+that in cash as a result they're in a
+
+290
+00:10:18,089 --> 00:10:22,169
+safe position but they've only made 10%
+
+291
+00:10:21,029 --> 00:10:23,759
+of their money now let's compare that
+
+292
+00:10:22,169 --> 00:10:25,889
+with the equity investor the person who
+
+293
+00:10:23,759 --> 00:10:27,749
+bought the stock in the company that
+
+294
+00:10:25,889 --> 00:10:30,480
+person earned $1 a share in year five
+
+295
+00:10:27,749 --> 00:10:32,129
+versus an investment of $1 a share so
+
+296
+00:10:30,480 --> 00:10:33,419
+he's earning over a hundred percent or
+
+297
+00:10:32,129 --> 00:10:35,579
+about a hundred percent return on his
+
+298
+00:10:33,419 --> 00:10:37,470
+investment versus only ten percent for
+
+299
+00:10:35,579 --> 00:10:37,739
+the lender so who who got the better
+
+300
+00:10:37,470 --> 00:10:39,749
+deal
+
+301
+00:10:37,739 --> 00:10:41,279
+well obviously the equity investor now
+
+302
+00:10:39,749 --> 00:10:42,809
+why do the equity investor why do they
+
+303
+00:10:41,279 --> 00:10:44,549
+have the right to earn so much more than
+
+304
+00:10:42,809 --> 00:10:47,459
+the lender the answer is they took more
+
+305
+00:10:44,549 --> 00:10:49,679
+risk if the business failed the lender
+
+306
+00:10:47,459 --> 00:10:51,209
+is entitled to the first 250 dollars of
+
+307
+00:10:49,679 --> 00:10:53,429
+value that comes from liquidating the
+
+308
+00:10:51,209 --> 00:10:55,470
+company so the if you sell off the
+
+309
+00:10:53,429 --> 00:10:57,089
+lemonade stands and you only get 250
+
+310
+00:10:55,470 --> 00:10:58,739
+dollars the lender gets back all their
+
+311
+00:10:57,089 --> 00:11:00,629
+money they're safe they got their 10%
+
+312
+00:10:58,739 --> 00:11:02,819
+return while the business was going they
+
+313
+00:11:00,629 --> 00:11:03,989
+got back their $250 but the equity
+
+314
+00:11:02,819 --> 00:11:07,019
+investor the person who bought the stock
+
+315
+00:11:03,989 --> 00:11:09,289
+is wiped out because they come after the
+
+316
+00:11:07,019 --> 00:11:09,289
+lender
+
+317
+00:11:11,270 --> 00:11:15,589
+so what's what's the difference between
+
+318
+00:11:12,920 --> 00:11:17,450
+debt and equity debt tends to be a safer
+
+319
+00:11:15,589 --> 00:11:20,630
+investment because you have a senior
+
+320
+00:11:17,450 --> 00:11:21,860
+claim on the assets of a company and it
+
+321
+00:11:20,630 --> 00:11:23,420
+comes in lots of different forms you've
+
+322
+00:11:21,860 --> 00:11:25,250
+heard of mortgage debt on a home that's
+
+323
+00:11:23,420 --> 00:11:26,180
+a secured loan secured by a house but
+
+324
+00:11:25,250 --> 00:11:28,490
+you could have mortgage debt on a
+
+325
+00:11:26,180 --> 00:11:29,810
+building for a company there's senior
+
+326
+00:11:28,490 --> 00:11:31,520
+debt there's junior debt there's
+
+327
+00:11:29,810 --> 00:11:33,860
+mezzanine debt there's convertible debt
+
+328
+00:11:31,520 --> 00:11:35,300
+bottom line it's all debt comes in
+
+329
+00:11:33,860 --> 00:11:38,450
+different orders of priority and a
+
+330
+00:11:35,300 --> 00:11:41,270
+company and your the rate you charge is
+
+331
+00:11:38,450 --> 00:11:43,670
+in you know is inversely related to your
+
+332
+00:11:41,270 --> 00:11:44,899
+security so the better the security and
+
+333
+00:11:43,670 --> 00:11:47,060
+the less risk the lower the interest
+
+334
+00:11:44,899 --> 00:11:48,950
+rate you're entitled to receive the more
+
+335
+00:11:47,060 --> 00:11:50,870
+junior the loan the higher the interest
+
+336
+00:11:48,950 --> 00:11:52,339
+rate you're entitled to receive but you
+
+337
+00:11:50,870 --> 00:11:53,630
+don't you can avoid the complexity all
+
+338
+00:11:52,339 --> 00:11:54,200
+you need to think about is debt comes
+
+339
+00:11:53,630 --> 00:11:56,750
+first
+
+340
+00:11:54,200 --> 00:11:59,209
+it's a safer alone but your your profit
+
+341
+00:11:56,750 --> 00:12:01,490
+opportunity is limited now the equity
+
+342
+00:11:59,209 --> 00:12:02,779
+also their varying forms or something
+
+343
+00:12:01,490 --> 00:12:04,640
+called preferred equity or preferred
+
+344
+00:12:02,779 --> 00:12:06,260
+stock there's common equity or common
+
+345
+00:12:04,640 --> 00:12:09,080
+stock and again stock and equity are
+
+346
+00:12:06,260 --> 00:12:11,120
+basically synonyms there are options but
+
+347
+00:12:09,080 --> 00:12:12,440
+really not worth talking about today the
+
+348
+00:12:11,120 --> 00:12:14,149
+important point is that equity gets
+
+349
+00:12:12,440 --> 00:12:16,100
+everything that's left over after the
+
+350
+00:12:14,149 --> 00:12:17,899
+debts paid off so it's called a residual
+
+351
+00:12:16,100 --> 00:12:19,459
+claim now the good thing about the
+
+352
+00:12:17,899 --> 00:12:21,709
+residual claim is the business grows in
+
+353
+00:12:19,459 --> 00:12:22,790
+value you don't own your oh your lenders
+
+354
+00:12:21,709 --> 00:12:24,829
+anymore
+
+355
+00:12:22,790 --> 00:12:26,570
+but all that value goes to the
+
+356
+00:12:24,829 --> 00:12:28,010
+stockholder so the question is why was
+
+357
+00:12:26,570 --> 00:12:30,529
+the lender willing to take only a 10%
+
+358
+00:12:28,010 --> 00:12:32,000
+return when the equity earned a much
+
+359
+00:12:30,529 --> 00:12:33,320
+higher rate of return and the answer is
+
+360
+00:12:32,000 --> 00:12:34,190
+when the business started there was no
+
+361
+00:12:33,320 --> 00:12:36,380
+way of knowing whether it would be
+
+362
+00:12:34,190 --> 00:12:38,450
+successful or not in the lender made a
+
+363
+00:12:36,380 --> 00:12:40,010
+bet that if the business failed well
+
+364
+00:12:38,450 --> 00:12:41,720
+they could sell off a lemonade stand you
+
+365
+00:12:40,010 --> 00:12:43,850
+know cost 300 dollars to make it that
+
+366
+00:12:41,720 --> 00:12:45,470
+would have some lemons and lemonade even
+
+367
+00:12:43,850 --> 00:12:47,300
+if they sold at a much lower price than
+
+368
+00:12:45,470 --> 00:12:48,740
+the dollar they originally projected the
+
+369
+00:12:47,300 --> 00:12:50,360
+lender felt pretty comfortable that they
+
+370
+00:12:48,740 --> 00:12:52,279
+get their money back whereas the
+
+371
+00:12:50,360 --> 00:12:53,839
+stockholder is really taking a risk they
+
+372
+00:12:52,279 --> 00:12:55,520
+were betting on the profitability of the
+
+373
+00:12:53,839 --> 00:12:56,630
+company and they're taking a risk that
+
+374
+00:12:55,520 --> 00:12:58,070
+if it failed they would lose their
+
+375
+00:12:56,630 --> 00:13:00,380
+entire investment so they were entitled
+
+376
+00:12:58,070 --> 00:13:01,730
+to get a higher return or that the
+
+377
+00:13:00,380 --> 00:13:05,470
+potential to have a higher return in the
+
+378
+00:13:01,730 --> 00:13:05,470
+event the business was successful
+
+379
+00:13:07,080 --> 00:13:10,690
+let's talk about risk you know a lot of
+
+380
+00:13:09,460 --> 00:13:12,160
+people talk about risk in the stock
+
+381
+00:13:10,690 --> 00:13:14,170
+market is the risk of stock prices
+
+382
+00:13:12,160 --> 00:13:15,340
+moving up and down every day we don't
+
+383
+00:13:14,170 --> 00:13:16,930
+think that's the risk that you should be
+
+384
+00:13:15,340 --> 00:13:18,670
+focused on the risk you should be
+
+385
+00:13:16,930 --> 00:13:19,780
+focused on is invest in a business what
+
+386
+00:13:18,670 --> 00:13:21,520
+are the chances that you're gonna lose
+
+387
+00:13:19,780 --> 00:13:22,930
+your money there's gonna be a permanent
+
+388
+00:13:21,520 --> 00:13:24,370
+loss when you're thinking about
+
+389
+00:13:22,930 --> 00:13:25,630
+investing your own money when you're
+
+390
+00:13:24,370 --> 00:13:26,650
+thinking about one investment versus
+
+391
+00:13:25,630 --> 00:13:28,360
+another don't worry so much about
+
+392
+00:13:26,650 --> 00:13:29,860
+whether the price things up and down a
+
+393
+00:13:28,360 --> 00:13:32,020
+lot in the short term what matters is
+
+394
+00:13:29,860 --> 00:13:33,760
+ultimately when you get your money back
+
+395
+00:13:32,020 --> 00:13:35,830
+will you earn a return on your
+
+396
+00:13:33,760 --> 00:13:37,840
+investment how do you think about risk
+
+397
+00:13:35,830 --> 00:13:40,690
+well one way to think about risk is to
+
+398
+00:13:37,840 --> 00:13:42,460
+compare your risks to other alternatives
+
+399
+00:13:40,690 --> 00:13:43,780
+so you can buy government bonds and
+
+400
+00:13:42,460 --> 00:13:45,940
+government bonds are considered today
+
+401
+00:13:43,780 --> 00:13:48,670
+the lowest risk form of investment and
+
+402
+00:13:45,940 --> 00:13:50,200
+the US Treasury issues 10-year
+
+403
+00:13:48,670 --> 00:13:52,000
+three-year five-year debt there's a
+
+404
+00:13:50,200 --> 00:13:53,440
+stated interest rate and today a 10-year
+
+405
+00:13:52,000 --> 00:13:55,510
+Treasury you earn about a three percent
+
+406
+00:13:53,440 --> 00:13:57,850
+return so you give your government
+
+407
+00:13:55,510 --> 00:13:59,650
+thousand dollars you get thirty dollars
+
+408
+00:13:57,850 --> 00:14:01,630
+in interest at the end of ten years you
+
+409
+00:13:59,650 --> 00:14:03,130
+get your thousand dollars back so that's
+
+410
+00:14:01,630 --> 00:14:04,780
+very very safe and that sort of provides
+
+411
+00:14:03,130 --> 00:14:06,310
+a floor now obviously you're gonna make
+
+412
+00:14:04,780 --> 00:14:07,630
+a loan you can lend money to the
+
+413
+00:14:06,310 --> 00:14:08,530
+government and earn three percent well
+
+414
+00:14:07,630 --> 00:14:09,760
+they're gonna lend money to a lemonade
+
+415
+00:14:08,530 --> 00:14:12,700
+stand you want to earn meaningfully more
+
+416
+00:14:09,760 --> 00:14:15,520
+so in this case the lender is charging a
+
+417
+00:14:12,700 --> 00:14:18,010
+10% rate of interest why ten percent
+
+418
+00:14:15,520 --> 00:14:19,870
+because they want to earn a nice fat
+
+419
+00:14:18,010 --> 00:14:21,100
+spread over what they can make lending
+
+420
+00:14:19,870 --> 00:14:22,830
+to the government because the start up
+
+421
+00:14:21,100 --> 00:14:25,690
+lemonade stand business is a higher risk
+
+422
+00:14:22,830 --> 00:14:28,740
+business equity investors sort of think
+
+423
+00:14:25,690 --> 00:14:32,280
+about things similarly so the higher the
+
+424
+00:14:28,740 --> 00:14:34,960
+valuation the more risky the business
+
+425
+00:14:32,280 --> 00:14:37,120
+the higher the rate of return the equity
+
+426
+00:14:34,960 --> 00:14:39,220
+investor is going to expect and the
+
+427
+00:14:37,120 --> 00:14:40,720
+lower the risk business the lower the
+
+428
+00:14:39,220 --> 00:14:43,240
+return the equity investor is going to
+
+429
+00:14:40,720 --> 00:14:46,120
+expect and equity investors don't get
+
+430
+00:14:43,240 --> 00:14:47,470
+interest the same way a lender does what
+
+431
+00:14:46,120 --> 00:14:49,240
+equity investors get is they get the
+
+432
+00:14:47,470 --> 00:14:51,070
+potential to receive dividends over the
+
+433
+00:14:49,240 --> 00:14:52,620
+life of a company
+
+434
+00:14:51,070 --> 00:14:54,970
+[Music]
+
+435
+00:14:52,620 --> 00:14:56,530
+let's talk about raising capital you
+
+436
+00:14:54,970 --> 00:14:57,700
+started this lemonade business on the
+
+437
+00:14:56,530 --> 00:14:58,390
+point of this was to make money in the
+
+438
+00:14:57,700 --> 00:15:01,510
+first place
+
+439
+00:14:58,390 --> 00:15:04,930
+business is doing very well yet I as a
+
+440
+00:15:01,510 --> 00:15:06,700
+as having started the business coming up
+
+441
+00:15:04,930 --> 00:15:08,320
+with a name and the concept hired all
+
+442
+00:15:06,700 --> 00:15:09,970
+the people I've made nothing all right
+
+443
+00:15:08,320 --> 00:15:11,230
+so the business is grown in value but
+
+444
+00:15:09,970 --> 00:15:12,700
+where's my money I need money to buy a
+
+445
+00:15:11,230 --> 00:15:15,810
+car for examples I want to buy a car for
+
+446
+00:15:12,700 --> 00:15:18,370
+$4,000 what are my choices what can I do
+
+447
+00:15:15,810 --> 00:15:20,110
+well we've taken all the cash the
+
+448
+00:15:18,370 --> 00:15:21,940
+businesses generated we reinvested in
+
+449
+00:15:20,110 --> 00:15:23,680
+the business now the good news is we've
+
+450
+00:15:21,940 --> 00:15:25,750
+taken all that money we've been able to
+
+451
+00:15:23,680 --> 00:15:27,100
+use it to buy more lemonade stands and
+
+452
+00:15:25,750 --> 00:15:28,360
+these lemonade stands are more and more
+
+453
+00:15:27,100 --> 00:15:30,370
+productive and it's grown the value of
+
+454
+00:15:28,360 --> 00:15:32,410
+the business faster and faster and my
+
+455
+00:15:30,370 --> 00:15:33,640
+alternatives could include well instead
+
+456
+00:15:32,410 --> 00:15:35,140
+of growing the business so quickly
+
+457
+00:15:33,640 --> 00:15:36,760
+instead of investing in more lemonade
+
+458
+00:15:35,140 --> 00:15:38,830
+stands I could simply pay dividends to
+
+459
+00:15:36,760 --> 00:15:41,230
+myself now the good news about that is I
+
+460
+00:15:38,830 --> 00:15:42,970
+get money along the way it's bad news
+
+461
+00:15:41,230 --> 00:15:44,410
+about that is the business wouldn't grow
+
+462
+00:15:42,970 --> 00:15:45,760
+as quickly you have a business as
+
+463
+00:15:44,410 --> 00:15:47,560
+profitable as this lemonade stand
+
+464
+00:15:45,760 --> 00:15:48,670
+company and we can earn you know
+
+465
+00:15:47,560 --> 00:15:49,990
+hundreds of dollars in each and you
+
+466
+00:15:48,670 --> 00:15:52,180
+stand it makes sense to keep investing
+
+467
+00:15:49,990 --> 00:15:53,620
+well how do I keep my business going and
+
+468
+00:15:52,180 --> 00:15:55,330
+growing taking advantage of the
+
+469
+00:15:53,620 --> 00:15:57,250
+opportunities but take some money off
+
+470
+00:15:55,330 --> 00:15:58,900
+the table how do I do that sell my
+
+471
+00:15:57,250 --> 00:16:00,640
+lemonade stand business you know I
+
+472
+00:15:58,900 --> 00:16:01,930
+started this one in New York maybe
+
+473
+00:16:00,640 --> 00:16:04,600
+there's someone in New Jersey who wants
+
+474
+00:16:01,930 --> 00:16:06,670
+to buy me consolidate my lemonade stand
+
+475
+00:16:04,600 --> 00:16:08,140
+company my problem with that is once I
+
+476
+00:16:06,670 --> 00:16:09,730
+sell it I can no longer participate in
+
+477
+00:16:08,140 --> 00:16:11,290
+the opportunity going forward I believe
+
+478
+00:16:09,730 --> 00:16:14,350
+in this business I think it's gonna be
+
+479
+00:16:11,290 --> 00:16:16,660
+very successful over time so that's one
+
+480
+00:16:14,350 --> 00:16:17,860
+alternative the other alternatives other
+
+481
+00:16:16,660 --> 00:16:19,090
+than selling up a hundred percent of the
+
+482
+00:16:17,860 --> 00:16:21,280
+business is to sell a piece of the
+
+483
+00:16:19,090 --> 00:16:22,750
+business now I can do that privately I
+
+484
+00:16:21,280 --> 00:16:25,300
+can find an investor who wants to buy a
+
+485
+00:16:22,750 --> 00:16:26,740
+private interest in the company and if
+
+486
+00:16:25,300 --> 00:16:27,880
+the business is working off I can sell
+
+487
+00:16:26,740 --> 00:16:30,070
+them a piece of the business and we can
+
+488
+00:16:27,880 --> 00:16:32,320
+be successful the other alternative is I
+
+489
+00:16:30,070 --> 00:16:33,700
+can take the business public an IPO the
+
+490
+00:16:32,320 --> 00:16:36,130
+abbreviation stands for an initial
+
+491
+00:16:33,700 --> 00:16:37,450
+public offering and its initial because
+
+492
+00:16:36,130 --> 00:16:39,190
+it's the first time a company's going
+
+493
+00:16:37,450 --> 00:16:41,410
+public going public means you're selling
+
+494
+00:16:39,190 --> 00:16:43,180
+stock to the broad general public as
+
+495
+00:16:41,410 --> 00:16:44,950
+opposed to finding one investor by an
+
+496
+00:16:43,180 --> 00:16:46,240
+interest in the company and it's an
+
+497
+00:16:44,950 --> 00:16:48,160
+offering because you're offering people
+
+498
+00:16:46,240 --> 00:16:49,420
+the opportunity to participate what's
+
+499
+00:16:48,160 --> 00:16:50,860
+interesting as an IPO doesn't make
+
+500
+00:16:49,420 --> 00:16:52,150
+someone rich all it really does is it
+
+501
+00:16:50,860 --> 00:16:54,670
+takes a business that they already own
+
+502
+00:16:52,150 --> 00:16:57,190
+and it sells a piece of it to the public
+
+503
+00:16:54,670 --> 00:16:57,970
+and it gets listed on an exchange when
+
+504
+00:16:57,190 --> 00:16:59,320
+you decide you want to take your
+
+505
+00:16:57,970 --> 00:17:00,820
+business public you're gonna have to
+
+506
+00:16:59,320 --> 00:17:02,800
+reveal a lot of information to the
+
+507
+00:17:00,820 --> 00:17:04,390
+public in order to attract investors to
+
+508
+00:17:02,800 --> 00:17:05,360
+participate and the Securities and
+
+509
+00:17:04,390 --> 00:17:06,860
+Exchange
+
+510
+00:17:05,360 --> 00:17:07,910
+they're gonna study this perspectives
+
+511
+00:17:06,860 --> 00:17:09,470
+very carefully you're gonna make sure
+
+512
+00:17:07,910 --> 00:17:10,730
+that you disclose all the various risks
+
+513
+00:17:09,470 --> 00:17:12,140
+associated with investing in the company
+
+514
+00:17:10,730 --> 00:17:13,430
+and you're also going to have an
+
+515
+00:17:12,140 --> 00:17:14,840
+opportunity to talk about the business
+
+516
+00:17:13,430 --> 00:17:15,950
+that's kind of an exciting time for you
+
+517
+00:17:14,840 --> 00:17:18,260
+because when you sell shares to the
+
+518
+00:17:15,950 --> 00:17:19,940
+public that's really in most cases the
+
+519
+00:17:18,260 --> 00:17:21,980
+way to get the optimally high price for
+
+520
+00:17:19,940 --> 00:17:22,940
+the company but you don't have to sell a
+
+521
+00:17:21,980 --> 00:17:24,950
+hundred percent of the business to the
+
+522
+00:17:22,940 --> 00:17:26,720
+public in fact typically you only sell a
+
+523
+00:17:24,950 --> 00:17:28,130
+small percentage you get to keep the
+
+524
+00:17:26,720 --> 00:17:30,050
+rest you get to keep control of the
+
+525
+00:17:28,130 --> 00:17:31,160
+company but you get to raise money in
+
+526
+00:17:30,050 --> 00:17:32,810
+the offering and you can use that money
+
+527
+00:17:31,160 --> 00:17:35,650
+to buy the car that we were talking
+
+528
+00:17:32,810 --> 00:17:35,650
+about before
+
+529
+00:17:38,380 --> 00:17:42,920
+now before you decide to go public or
+
+530
+00:17:40,970 --> 00:17:44,180
+even to sell it at all probably a good
+
+531
+00:17:42,920 --> 00:17:46,400
+idea to figure out what the business is
+
+532
+00:17:44,180 --> 00:17:54,980
+worth so let's talk about valuation or
+
+533
+00:17:46,400 --> 00:17:56,090
+how to value business one way to think
+
+534
+00:17:54,980 --> 00:17:57,670
+about the value of your business is to
+
+535
+00:17:56,090 --> 00:17:59,720
+compare it to other similar businesses
+
+536
+00:17:57,670 --> 00:18:01,160
+now the stock market is actually a
+
+537
+00:17:59,720 --> 00:18:03,860
+pretty interesting place to look the
+
+538
+00:18:01,160 --> 00:18:06,050
+stock market is a list of companies that
+
+539
+00:18:03,860 --> 00:18:08,180
+have sold shares to the public and you
+
+540
+00:18:06,050 --> 00:18:10,310
+can look in The New York Times or The
+
+541
+00:18:08,180 --> 00:18:12,410
+Wall Street Journal or online on Yahoo
+
+542
+00:18:10,310 --> 00:18:14,360
+Finance or Google or other sites and
+
+543
+00:18:12,410 --> 00:18:16,430
+look at stock prices for Coke for
+
+544
+00:18:14,360 --> 00:18:17,690
+McDonald's and what the stock prices
+
+545
+00:18:16,430 --> 00:18:19,310
+tell you is what the value of the
+
+546
+00:18:17,690 --> 00:18:20,630
+company is and how do you figure out the
+
+547
+00:18:19,310 --> 00:18:22,670
+value of the company well you look at
+
+548
+00:18:20,630 --> 00:18:24,410
+where the stock price is you count how
+
+549
+00:18:22,670 --> 00:18:26,210
+many shares are outstanding shares
+
+550
+00:18:24,410 --> 00:18:27,770
+outstanding will be listed in various
+
+551
+00:18:26,210 --> 00:18:29,480
+filings with the SEC you multiply the
+
+552
+00:18:27,770 --> 00:18:31,130
+shares outstanding times the stock price
+
+553
+00:18:29,480 --> 00:18:32,450
+that tells us the price you're paying
+
+554
+00:18:31,130 --> 00:18:34,660
+for the equity of the company so if you
+
+555
+00:18:32,450 --> 00:18:37,520
+go back to our example of our little
+
+556
+00:18:34,660 --> 00:18:38,870
+lemonade stand we have fifteen hundred
+
+557
+00:18:37,520 --> 00:18:39,650
+shares of stock outstanding we sold them
+
+558
+00:18:38,870 --> 00:18:42,250
+for a dollar
+
+559
+00:18:39,650 --> 00:18:44,330
+initially a one third of them to a
+
+560
+00:18:42,250 --> 00:18:47,960
+investor and the business initially had
+
+561
+00:18:44,330 --> 00:18:49,880
+a value of fifteen hundred dollars so
+
+562
+00:18:47,960 --> 00:18:51,830
+what is the business worth today well
+
+563
+00:18:49,880 --> 00:18:53,300
+one way to look at it let's look at
+
+564
+00:18:51,830 --> 00:18:54,890
+other lemonade stand companies let's
+
+565
+00:18:53,300 --> 00:18:56,600
+assume another other lemonade stand
+
+566
+00:18:54,890 --> 00:18:58,640
+companies have sold either in the
+
+567
+00:18:56,600 --> 00:19:00,740
+private market the public market or a
+
+568
+00:18:58,640 --> 00:19:02,120
+price of 10 times earnings or 10 times
+
+569
+00:19:00,740 --> 00:19:03,590
+profits that will give you a sense of
+
+570
+00:19:02,120 --> 00:19:05,450
+value so let's assume another lemonade
+
+571
+00:19:03,590 --> 00:19:07,100
+stand company is trading at 20 times
+
+572
+00:19:05,450 --> 00:19:09,770
+earnings in the stock market
+
+573
+00:19:07,100 --> 00:19:12,560
+well we earned $1 per share in year 5 we
+
+574
+00:19:09,770 --> 00:19:13,940
+put 20 multiple on that dollar the
+
+575
+00:19:12,560 --> 00:19:16,250
+business is worth according to the
+
+576
+00:19:13,940 --> 00:19:18,410
+comparable about $20 per share we've got
+
+577
+00:19:16,250 --> 00:19:20,210
+1,500 shares outstanding
+
+578
+00:19:18,410 --> 00:19:22,520
+multiplied 1500 times 20 now our
+
+579
+00:19:20,210 --> 00:19:23,660
+businesses worth $30,000 its we had a
+
+580
+00:19:22,520 --> 00:19:24,950
+company that started that fifteen
+
+581
+00:19:23,660 --> 00:19:26,750
+hundred five years later it's worth
+
+582
+00:19:24,950 --> 00:19:29,960
+thirty thousand dollars that's actually
+
+583
+00:19:26,750 --> 00:19:31,010
+quite good well how do we raise four
+
+584
+00:19:29,960 --> 00:19:33,350
+thousand dollars if that's the
+
+585
+00:19:31,010 --> 00:19:37,070
+appropriate value for our business well
+
+586
+00:19:33,350 --> 00:19:38,540
+if we sold 200 of our shares to under
+
+587
+00:19:37,070 --> 00:19:40,010
+our shares that are today now worth
+
+588
+00:19:38,540 --> 00:19:41,330
+twenty dollars a share we could raise
+
+589
+00:19:40,010 --> 00:19:44,450
+the four thousand dollars that we are
+
+590
+00:19:41,330 --> 00:19:46,130
+talking about now what what would that
+
+591
+00:19:44,450 --> 00:19:47,450
+do what would happen if we sold two of
+
+592
+00:19:46,130 --> 00:19:49,040
+our share two hundred of our shares in
+
+593
+00:19:47,450 --> 00:19:50,960
+the market well our interest in the
+
+594
+00:19:49,040 --> 00:19:53,180
+business would go down because we write
+
+595
+00:19:50,960 --> 00:19:55,070
+today we own 66 and two-thirds percent
+
+596
+00:19:53,180 --> 00:19:56,930
+or two thirds of the company a third is
+
+597
+00:19:55,070 --> 00:19:59,360
+owned by our private investors well if
+
+598
+00:19:56,930 --> 00:20:01,790
+we sold stock in the market if we sold
+
+599
+00:19:59,360 --> 00:20:03,020
+200 of the shares that we would own our
+
+600
+00:20:01,790 --> 00:20:05,120
+share our ownership would go from
+
+601
+00:20:03,020 --> 00:20:06,290
+sixty-seven percent to 53 percent so the
+
+602
+00:20:05,120 --> 00:20:08,090
+good news there is we still have control
+
+603
+00:20:06,290 --> 00:20:10,160
+of the business because in most public
+
+604
+00:20:08,090 --> 00:20:11,900
+companies owning a majority allows you
+
+605
+00:20:10,160 --> 00:20:14,290
+to control the business going forward
+
+606
+00:20:11,900 --> 00:20:16,160
+but because the company's now owned by
+
+607
+00:20:14,290 --> 00:20:17,210
+public shareholders you have to make
+
+608
+00:20:16,160 --> 00:20:18,740
+sure their interests are properly
+
+609
+00:20:17,210 --> 00:20:20,840
+represented so you have to have a board
+
+610
+00:20:18,740 --> 00:20:21,980
+of directors a group of individuals who
+
+611
+00:20:20,840 --> 00:20:23,840
+represent the interests of the
+
+612
+00:20:21,980 --> 00:20:25,070
+shareholders who have a duty to make
+
+613
+00:20:23,840 --> 00:20:28,010
+sure that their shareholders are treated
+
+614
+00:20:25,070 --> 00:20:29,510
+properly and you wouldn't have the same
+
+615
+00:20:28,010 --> 00:20:30,920
+degree of flexibility you had when you
+
+616
+00:20:29,510 --> 00:20:32,390
+were a private company because you have
+
+617
+00:20:30,920 --> 00:20:35,060
+other constituencies that you need to
+
+618
+00:20:32,390 --> 00:20:36,620
+think about now the benefit of the IPO
+
+619
+00:20:35,060 --> 00:20:37,790
+is the stock would now be liquid
+
+620
+00:20:36,620 --> 00:20:39,440
+there'll be a market where it would
+
+621
+00:20:37,790 --> 00:20:41,120
+trade in the public markets and then
+
+622
+00:20:39,440 --> 00:20:44,210
+over time if I wanted to sell more stock
+
+623
+00:20:41,120 --> 00:20:45,680
+I could do so or new investors wanted to
+
+624
+00:20:44,210 --> 00:20:47,660
+come in they could buy stock and our
+
+625
+00:20:45,680 --> 00:20:49,370
+stock would now be liquid make me feel
+
+626
+00:20:47,660 --> 00:20:52,040
+better about this business in terms of
+
+627
+00:20:49,370 --> 00:20:53,510
+my ability to at some point exit or if I
+
+628
+00:20:52,040 --> 00:20:55,100
+wanted to raise more money I could sell
+
+629
+00:20:53,510 --> 00:20:56,390
+stock fairly easily in the market
+
+630
+00:20:55,100 --> 00:21:00,530
+because each day you could look up the
+
+631
+00:20:56,390 --> 00:21:01,760
+price either on the web on New York
+
+632
+00:21:00,530 --> 00:21:05,530
+Times or otherwise and you can figure
+
+633
+00:21:01,760 --> 00:21:09,380
+out what your business is worth okay now
+
+634
+00:21:05,530 --> 00:21:11,030
+how does this matter to you now the
+
+635
+00:21:09,380 --> 00:21:12,380
+purpose of the example of our lemonade
+
+636
+00:21:11,030 --> 00:21:15,800
+stand is just going to give you a primer
+
+637
+00:21:12,380 --> 00:21:17,270
+on what companies are what they do how
+
+638
+00:21:15,800 --> 00:21:18,650
+they earn profits what the various
+
+639
+00:21:17,270 --> 00:21:19,910
+reports they provide to investors who
+
+640
+00:21:18,650 --> 00:21:23,120
+investors can figure out what they're
+
+641
+00:21:19,910 --> 00:21:24,710
+worth and the purpose of this lecture is
+
+642
+00:21:23,120 --> 00:21:25,820
+to give you a sense of some of the
+
+643
+00:21:24,710 --> 00:21:27,770
+things you need to think about when
+
+644
+00:21:25,820 --> 00:21:28,940
+you're thinking about investing perhaps
+
+645
+00:21:27,770 --> 00:21:30,650
+some of your own money whether you want
+
+646
+00:21:28,940 --> 00:21:31,920
+to invest in a lemonade stand whether
+
+647
+00:21:30,650 --> 00:21:40,110
+you want invest in a cup
+
+648
+00:21:31,920 --> 00:21:41,700
+the market let's assume at 22 you got a
+
+649
+00:21:40,110 --> 00:21:45,120
+pretty good job instead of spending your
+
+650
+00:21:41,700 --> 00:21:47,280
+money on you know gadgets or fancy
+
+651
+00:21:45,120 --> 00:21:48,930
+apartment or not so fancy apartment or
+
+652
+00:21:47,280 --> 00:21:49,920
+going out and drinking a fair amount you
+
+653
+00:21:48,930 --> 00:21:51,930
+put some money inside you start
+
+654
+00:21:49,920 --> 00:21:55,080
+investing money let's say you could save
+
+655
+00:21:51,930 --> 00:21:56,730
+$10,000 at 22 and you can earn a 10%
+
+656
+00:21:55,080 --> 00:21:58,860
+return on that money between now and
+
+657
+00:21:56,730 --> 00:22:01,560
+then time you retire what would you have
+
+658
+00:21:58,860 --> 00:22:04,410
+in 43 years the answer is you put aside
+
+659
+00:22:01,560 --> 00:22:06,300
+$10,000 you don't save another penny and
+
+660
+00:22:04,410 --> 00:22:08,190
+you invested it in your 10% of your
+
+661
+00:22:06,300 --> 00:22:11,070
+money each year you'd have six hundred
+
+662
+00:22:08,190 --> 00:22:13,440
+thousand dollars in your 43 and the
+
+663
+00:22:11,070 --> 00:22:15,630
+reason for that is well in year one your
+
+664
+00:22:13,440 --> 00:22:18,300
+$10,000 would become 11 your two year
+
+665
+00:22:15,630 --> 00:22:20,160
+$11,000 would grow by 10 percent and so
+
+666
+00:22:18,300 --> 00:22:21,960
+you'll be earning interest not just on
+
+667
+00:22:20,160 --> 00:22:23,910
+your original principle but you'd earn
+
+668
+00:22:21,960 --> 00:22:25,470
+interest on the interest you during the
+
+669
+00:22:23,910 --> 00:22:27,570
+previous year and that compounding
+
+670
+00:22:25,470 --> 00:22:29,640
+effect allows money to grow in an almost
+
+671
+00:22:27,570 --> 00:22:32,280
+exponential fashion now obviously if
+
+672
+00:22:29,640 --> 00:22:34,740
+ever more than 10% you can earn even
+
+673
+00:22:32,280 --> 00:22:37,920
+higher returns no that's if you put
+
+674
+00:22:34,740 --> 00:22:39,360
+$10,000 inside in 22 you have $600,000
+
+675
+00:22:37,920 --> 00:22:40,950
+in 43 years that's pretty good
+
+676
+00:22:39,360 --> 00:22:43,680
+what if you had to wait not until you
+
+677
+00:22:40,950 --> 00:22:44,790
+were 32 the problem there is a year 33
+
+678
+00:22:43,680 --> 00:22:46,020
+you'd only have two hundred and thirty
+
+679
+00:22:44,790 --> 00:22:47,790
+two thousand dollars maybe that's not
+
+680
+00:22:46,020 --> 00:22:49,890
+enough to retire so a key thing here is
+
+681
+00:22:47,790 --> 00:22:51,360
+if you're going to be an investor it's
+
+682
+00:22:49,890 --> 00:22:52,980
+really one of the most valuable assets
+
+683
+00:22:51,360 --> 00:22:54,840
+you have today as someone who's 18 or 19
+
+684
+00:22:52,980 --> 00:22:56,640
+years old is your youth you want to
+
+685
+00:22:54,840 --> 00:22:58,850
+start early that your money can grow
+
+686
+00:22:56,640 --> 00:22:58,850
+over time
+
+687
+00:23:00,960 --> 00:23:04,540
+and what if you get her and 15% give me
+
+688
+00:23:03,520 --> 00:23:07,000
+a better sense of how powerful
+
+689
+00:23:04,540 --> 00:23:09,340
+compounding is remember at 10% for 43
+
+690
+00:23:07,000 --> 00:23:11,530
+years you'd have $600,000 that's pretty
+
+691
+00:23:09,340 --> 00:23:13,240
+good but if you're in 15% you'd have
+
+692
+00:23:11,530 --> 00:23:16,450
+over 4 million now you're in a pretty
+
+693
+00:23:13,240 --> 00:23:18,160
+good position in and so obviously making
+
+694
+00:23:16,450 --> 00:23:20,470
+smart decisions about where you put your
+
+695
+00:23:18,160 --> 00:23:21,880
+money has a huge difference in what your
+
+696
+00:23:20,470 --> 00:23:23,770
+retirement assets are now obviously you
+
+697
+00:23:21,880 --> 00:23:27,160
+put aside more than $10,000 we could put
+
+698
+00:23:23,770 --> 00:23:28,810
+aside $10,000 each year then your your
+
+699
+00:23:27,160 --> 00:23:32,410
+your wealth would be you know quite
+
+700
+00:23:28,810 --> 00:23:33,780
+enormous now just for fun if you were
+
+701
+00:23:32,410 --> 00:23:36,100
+one of the world's great investors
+
+702
+00:23:33,780 --> 00:23:38,950
+Warren Buffett being a good example if
+
+703
+00:23:36,100 --> 00:23:40,720
+you could earn 20% per year for 43 years
+
+704
+00:23:38,950 --> 00:23:42,910
+you'd have 25 million dollars again the
+
+705
+00:23:40,720 --> 00:23:44,770
+original $10,000 investment would
+
+706
+00:23:42,910 --> 00:23:46,900
+increase by twenty-five hundred times
+
+707
+00:23:44,770 --> 00:23:49,780
+over that period of time just by earning
+
+708
+00:23:46,900 --> 00:23:51,340
+a 20% return Albert Einstein said the
+
+709
+00:23:49,780 --> 00:23:54,540
+most powerful force in the universe is
+
+710
+00:23:51,340 --> 00:23:57,190
+compound interest so key is start early
+
+711
+00:23:54,540 --> 00:23:58,690
+earn an attractive return and avoid
+
+712
+00:23:57,190 --> 00:24:00,730
+losing money and you're going to have a
+
+713
+00:23:58,690 --> 00:24:04,100
+very nice retirement
+
+714
+00:24:00,730 --> 00:24:07,410
+[Music]
+
+715
+00:24:04,100 --> 00:24:09,480
+okay now let's talk about the risk of
+
+716
+00:24:07,410 --> 00:24:11,250
+losing money now let's assume that in
+
+717
+00:24:09,480 --> 00:24:13,290
+order to try to get a 20% return you
+
+718
+00:24:11,250 --> 00:24:16,710
+took a lot of risk and it turns out that
+
+719
+00:24:13,290 --> 00:24:17,940
+every you know every 12 years you lost
+
+720
+00:24:16,710 --> 00:24:19,290
+half your money because you hit a bad
+
+721
+00:24:17,940 --> 00:24:21,000
+patch and the market you made dumb
+
+722
+00:24:19,290 --> 00:24:24,570
+decisions where you're twenty five
+
+723
+00:24:21,000 --> 00:24:27,090
+million dollars at 20% would now only be
+
+724
+00:24:24,570 --> 00:24:29,370
+worth a million eight in 43 years so a
+
+725
+00:24:27,090 --> 00:24:31,110
+key success factor here is not just
+
+726
+00:24:29,370 --> 00:24:34,020
+shooting for the fences try to get the
+
+727
+00:24:31,110 --> 00:24:37,680
+highest return it's avoiding significant
+
+728
+00:24:34,020 --> 00:24:39,900
+losses over the over the period okay so
+
+729
+00:24:37,680 --> 00:24:42,660
+as Warren Buffett says rule number one
+
+730
+00:24:39,900 --> 00:24:43,890
+in investing is never lose money rule
+
+731
+00:24:42,660 --> 00:24:46,890
+number two is never forget rule number
+
+732
+00:24:43,890 --> 00:24:48,570
+one so if you can avoid losses and earn
+
+733
+00:24:46,890 --> 00:24:50,070
+an attractive return over time you're
+
+734
+00:24:48,570 --> 00:24:51,900
+gonna have a lot of money in many if you
+
+735
+00:24:50,070 --> 00:24:58,650
+can stick at it for a long period of
+
+736
+00:24:51,900 --> 00:25:01,050
+time okay so how do you be a successful
+
+737
+00:24:58,650 --> 00:25:02,340
+investor now I'm assuming that you're
+
+738
+00:25:01,050 --> 00:25:03,720
+not gonna go into the business of
+
+739
+00:25:02,340 --> 00:25:04,950
+investing assuming that you're gonna be
+
+740
+00:25:03,720 --> 00:25:06,720
+a doctor or a lawyer you're gonna pursue
+
+741
+00:25:04,950 --> 00:25:08,660
+your passion but you're gonna have some
+
+742
+00:25:06,720 --> 00:25:11,070
+money they're gonna save over time and
+
+743
+00:25:08,660 --> 00:25:12,540
+I'm gonna give you my advice on the
+
+744
+00:25:11,070 --> 00:25:13,980
+topic it's not necessarily definitive
+
+745
+00:25:12,540 --> 00:25:16,410
+vice but it's what the advice I would
+
+746
+00:25:13,980 --> 00:25:17,700
+give my sister my grandmother on what
+
+747
+00:25:16,410 --> 00:25:19,590
+she should do if you were in the same
+
+748
+00:25:17,700 --> 00:25:21,540
+position I think that's probably the
+
+749
+00:25:19,590 --> 00:25:23,010
+right way to think about it so number
+
+750
+00:25:21,540 --> 00:25:24,330
+one how do you avoid losing money what
+
+751
+00:25:23,010 --> 00:25:25,770
+are good places to invest well my first
+
+752
+00:25:24,330 --> 00:25:27,480
+piece of advice is despite the story
+
+753
+00:25:25,770 --> 00:25:29,130
+about the lemonade stand I'd avoid
+
+754
+00:25:27,480 --> 00:25:32,520
+investing in lemonade stands I'd avoid
+
+755
+00:25:29,130 --> 00:25:35,790
+investing in start-up businesses where
+
+756
+00:25:32,520 --> 00:25:36,840
+the prospects are not very well known
+
+757
+00:25:35,790 --> 00:25:38,280
+because again you don't need to make a
+
+758
+00:25:36,840 --> 00:25:40,620
+hundred percent a year to have a fortune
+
+759
+00:25:38,280 --> 00:25:43,350
+you just need to invest at an attractive
+
+760
+00:25:40,620 --> 00:25:44,760
+return ten fifteen percent over a long
+
+761
+00:25:43,350 --> 00:25:47,130
+period of time your money grows very
+
+762
+00:25:44,760 --> 00:25:48,630
+significantly so how do you avoid the
+
+763
+00:25:47,130 --> 00:25:50,640
+riskiest investments I would my advice
+
+764
+00:25:48,630 --> 00:25:52,830
+would be to invest in public security
+
+765
+00:25:50,640 --> 00:25:54,540
+invest in listed companies companies
+
+766
+00:25:52,830 --> 00:25:56,700
+that trade in the stock market why
+
+767
+00:25:54,540 --> 00:25:58,140
+because those businesses are tend to be
+
+768
+00:25:56,700 --> 00:25:59,490
+more established they have to meet
+
+769
+00:25:58,140 --> 00:26:02,310
+certain hurdles before they go public
+
+770
+00:25:59,490 --> 00:26:03,510
+the stocks are liquid so you can change
+
+771
+00:26:02,310 --> 00:26:04,980
+your mind if you want to sell if you
+
+772
+00:26:03,510 --> 00:26:07,020
+invest in a private lemonade stand it's
+
+773
+00:26:04,980 --> 00:26:08,520
+hard to find someone to take you out of
+
+774
+00:26:07,020 --> 00:26:11,430
+that investment unless that business
+
+775
+00:26:08,520 --> 00:26:13,200
+becomes fabulously profitable that's a
+
+776
+00:26:11,430 --> 00:26:15,840
+piece of advice number one invest in
+
+777
+00:26:13,200 --> 00:26:17,070
+public companies number two
+
+778
+00:26:15,840 --> 00:26:18,659
+you want to invest in businesses that
+
+779
+00:26:17,070 --> 00:26:20,580
+you can understand what I mean by that
+
+780
+00:26:18,659 --> 00:26:22,230
+is there are lots of businesses that you
+
+781
+00:26:20,580 --> 00:26:24,240
+come in that you deal with in the course
+
+782
+00:26:22,230 --> 00:26:26,070
+of your day and your personal life
+
+783
+00:26:24,240 --> 00:26:27,600
+whether it's a retail store that you
+
+784
+00:26:26,070 --> 00:26:30,690
+know because you like shopping there or
+
+785
+00:26:27,600 --> 00:26:32,640
+it's a product your your your iPad or
+
+786
+00:26:30,690 --> 00:26:34,529
+that you know you think it's a great
+
+787
+00:26:32,640 --> 00:26:35,820
+product but you know you understand you
+
+788
+00:26:34,529 --> 00:26:37,740
+have to understand how the company makes
+
+789
+00:26:35,820 --> 00:26:39,090
+money the business is just too
+
+790
+00:26:37,740 --> 00:26:39,659
+complicated you don't understand how
+
+791
+00:26:39,090 --> 00:26:41,130
+they make money
+
+792
+00:26:39,659 --> 00:26:43,080
+even if they've had a great track record
+
+793
+00:26:41,130 --> 00:26:45,330
+I would avoid it a lot of people thought
+
+794
+00:26:43,080 --> 00:26:46,799
+Enron was an incredible business because
+
+795
+00:26:45,330 --> 00:26:48,480
+it appeared to have a good track record
+
+796
+00:26:46,799 --> 00:26:51,830
+but very few people understood how they
+
+797
+00:26:48,480 --> 00:26:54,120
+made money it was good to avoid it
+
+798
+00:26:51,830 --> 00:26:56,279
+another very important criteria is you
+
+799
+00:26:54,120 --> 00:26:58,049
+want to invest at a reasonable price it
+
+800
+00:26:56,279 --> 00:27:00,059
+could be a fabulous business that's done
+
+801
+00:26:58,049 --> 00:27:01,740
+very well over a long period of time but
+
+802
+00:27:00,059 --> 00:27:03,929
+if you pay too much for it you're not
+
+803
+00:27:01,740 --> 00:27:05,190
+gonna earn a very good return the last
+
+804
+00:27:03,929 --> 00:27:06,120
+bit is that you want to invest in a
+
+805
+00:27:05,190 --> 00:27:08,549
+business that you could theoretically
+
+806
+00:27:06,120 --> 00:27:09,929
+own forever the stock market were too
+
+807
+00:27:08,549 --> 00:27:12,000
+close for ten years you wouldn't be
+
+808
+00:27:09,929 --> 00:27:13,140
+unhappy what do I mean by that now again
+
+809
+00:27:12,000 --> 00:27:15,870
+if you're going to compound your money
+
+810
+00:27:13,140 --> 00:27:17,669
+if at a 10 or 15 percent return over a
+
+811
+00:27:15,870 --> 00:27:18,960
+forty three year period of time you
+
+812
+00:27:17,669 --> 00:27:19,950
+really want to business it you can own
+
+813
+00:27:18,960 --> 00:27:21,600
+forever you don't want to constantly
+
+814
+00:27:19,950 --> 00:27:24,000
+have to be shifting from one business to
+
+815
+00:27:21,600 --> 00:27:25,440
+the next and what of what are businesses
+
+816
+00:27:24,000 --> 00:27:29,220
+that you can own forever well the very
+
+817
+00:27:25,440 --> 00:27:31,020
+few that sort of meet that standard may
+
+818
+00:27:29,220 --> 00:27:32,159
+be a good example is coca-cola all right
+
+819
+00:27:31,020 --> 00:27:34,020
+what's good about coca-cola
+
+820
+00:27:32,159 --> 00:27:36,330
+is it's relatively easy business to
+
+821
+00:27:34,020 --> 00:27:40,529
+understand you understand how coke makes
+
+822
+00:27:36,330 --> 00:27:42,600
+money right they sell a formula syrup we
+
+823
+00:27:40,529 --> 00:27:43,830
+two bottlers and two retail
+
+824
+00:27:42,600 --> 00:27:45,539
+establishments and they make a profit
+
+825
+00:27:43,830 --> 00:27:47,309
+every time they serve a coca-cola people
+
+826
+00:27:45,539 --> 00:27:49,140
+going to drunk a lot of coca-cola for a
+
+827
+00:27:47,309 --> 00:27:50,940
+very long period of time the world's
+
+828
+00:27:49,140 --> 00:27:52,529
+population is growing they sell in
+
+829
+00:27:50,940 --> 00:27:53,610
+almost every country in the world and
+
+830
+00:27:52,529 --> 00:27:55,350
+each year people drink a little bit more
+
+831
+00:27:53,610 --> 00:27:57,210
+coca-cola so it's a pretty easy business
+
+832
+00:27:55,350 --> 00:28:00,230
+to understand and it's also a business
+
+833
+00:27:57,210 --> 00:28:03,270
+that I think it's unlikely to be
+
+834
+00:28:00,230 --> 00:28:05,130
+competed away as a result of technology
+
+835
+00:28:03,270 --> 00:28:07,080
+or some other new product right it's
+
+836
+00:28:05,130 --> 00:28:09,779
+been around long enough people have
+
+837
+00:28:07,080 --> 00:28:11,850
+grown used to the taste you know they
+
+838
+00:28:09,779 --> 00:28:13,529
+make parents give it to their children
+
+839
+00:28:11,850 --> 00:28:14,580
+and you can expect that'll be around a
+
+840
+00:28:13,529 --> 00:28:15,899
+long period of time I think that's one
+
+841
+00:28:14,580 --> 00:28:17,669
+good example another good example might
+
+842
+00:28:15,899 --> 00:28:18,990
+be at McDonald's you may not love
+
+843
+00:28:17,669 --> 00:28:20,640
+McDonald's hamburgers but it's a
+
+844
+00:28:18,990 --> 00:28:22,590
+business that it's been around for 50
+
+845
+00:28:20,640 --> 00:28:23,970
+years you understand how they make money
+
+846
+00:28:22,590 --> 00:28:26,309
+they open up these little build these
+
+847
+00:28:23,970 --> 00:28:28,380
+little boxes they rent them to the
+
+848
+00:28:26,309 --> 00:28:29,640
+franchisees they charge them royalties
+
+849
+00:28:28,380 --> 00:28:31,049
+in exchange for
+
+850
+00:28:29,640 --> 00:28:32,130
+the name and they sell hamburgers and
+
+851
+00:28:31,049 --> 00:28:33,870
+french fries and you know what people
+
+852
+00:28:32,130 --> 00:28:35,370
+have to eat it's relatively low-cost
+
+853
+00:28:33,870 --> 00:28:36,270
+food the quality is pretty good and
+
+854
+00:28:35,370 --> 00:28:38,220
+they're great and they continue to grow
+
+855
+00:28:36,270 --> 00:28:39,750
+every year so I think the consistent
+
+856
+00:28:38,220 --> 00:28:42,750
+message here is try to find a business
+
+857
+00:28:39,750 --> 00:28:44,370
+that you can understand that's not
+
+858
+00:28:42,750 --> 00:28:46,679
+particularly complicated that has a
+
+859
+00:28:44,370 --> 00:28:50,280
+successful long term track record that
+
+860
+00:28:46,679 --> 00:28:52,740
+makes an attractive profit and can grow
+
+861
+00:28:50,280 --> 00:28:55,080
+over time so what are the key things to
+
+862
+00:28:52,740 --> 00:28:57,630
+look for in a business as I say that
+
+863
+00:28:55,080 --> 00:29:00,540
+lasts forever we want a business that
+
+864
+00:28:57,630 --> 00:29:04,220
+sells a product or a service that people
+
+865
+00:29:00,540 --> 00:29:08,460
+need and that is somewhat unique and
+
+866
+00:29:04,220 --> 00:29:11,309
+they have a oil t2 this particular brand
+
+867
+00:29:08,460 --> 00:29:12,210
+or product and the people are willing to
+
+868
+00:29:11,309 --> 00:29:14,220
+pay a premium for that
+
+869
+00:29:12,210 --> 00:29:16,500
+and a good example it might be a candy
+
+870
+00:29:14,220 --> 00:29:18,299
+business while people are willing to buy
+
+871
+00:29:16,500 --> 00:29:20,520
+generic versions of many kind of food
+
+872
+00:29:18,299 --> 00:29:22,559
+products flour or sugar they don't need
+
+873
+00:29:20,520 --> 00:29:24,210
+to have the branded product when it
+
+874
+00:29:22,559 --> 00:29:26,160
+comes to candy people don't tend to like
+
+875
+00:29:24,210 --> 00:29:27,630
+the Walmart version of the Kmart version
+
+876
+00:29:26,160 --> 00:29:29,429
+they want the you know the Hershey
+
+877
+00:29:27,630 --> 00:29:32,309
+chocolate bar or the Cadbury chocolate
+
+878
+00:29:29,429 --> 00:29:33,960
+bar or the See's candy they want the the
+
+879
+00:29:32,309 --> 00:29:36,570
+brand and they're willing to pay a
+
+880
+00:29:33,960 --> 00:29:38,220
+premium for that and so that's I think a
+
+881
+00:29:36,570 --> 00:29:39,360
+key thing you want the product to be
+
+882
+00:29:38,220 --> 00:29:40,950
+unique you don't want it to be a
+
+883
+00:29:39,360 --> 00:29:43,200
+commodity that everyone else can sell
+
+884
+00:29:40,950 --> 00:29:45,150
+because when you sell a commodity anyone
+
+885
+00:29:43,200 --> 00:29:46,650
+can sell it and they can sell it at a at
+
+886
+00:29:45,150 --> 00:29:48,240
+a better price and it's very hard to
+
+887
+00:29:46,650 --> 00:29:49,530
+make a profit doing that if you're
+
+888
+00:29:48,240 --> 00:29:50,669
+investing for the long term you want to
+
+889
+00:29:49,530 --> 00:29:53,160
+invest in businesses that have very
+
+890
+00:29:50,669 --> 00:29:54,510
+little debt in our little example before
+
+891
+00:29:53,160 --> 00:29:56,820
+we talked about our lemonade stand
+
+892
+00:29:54,510 --> 00:29:58,410
+you know there's $250 worth of debt I
+
+893
+00:29:56,820 --> 00:29:59,790
+didn't put too much pressure on the
+
+894
+00:29:58,410 --> 00:30:01,650
+lemonade stand company but if it had
+
+895
+00:29:59,790 --> 00:30:03,480
+been a thousand dollars we hit a rough
+
+896
+00:30:01,650 --> 00:30:04,950
+patch the business could have got on a
+
+897
+00:30:03,480 --> 00:30:06,330
+business for failure to pay its debts
+
+898
+00:30:04,950 --> 00:30:07,710
+the shareholders could have been wiped
+
+899
+00:30:06,330 --> 00:30:09,690
+out so if you can find a company that
+
+900
+00:30:07,710 --> 00:30:11,490
+can earn an attractive profits it
+
+901
+00:30:09,690 --> 00:30:14,040
+doesn't have a lot of debt they generate
+
+902
+00:30:11,490 --> 00:30:15,720
+vastly more profits than they need to
+
+903
+00:30:14,040 --> 00:30:17,309
+pay the interest on their debt that's a
+
+904
+00:30:15,720 --> 00:30:19,470
+safe place to put your money over a long
+
+905
+00:30:17,309 --> 00:30:21,720
+period of time you want businesses that
+
+906
+00:30:19,470 --> 00:30:24,390
+have what people call barriers to entry
+
+907
+00:30:21,720 --> 00:30:26,429
+you want a business where hard for
+
+908
+00:30:24,390 --> 00:30:28,169
+someone tomorrow to set up a new company
+
+909
+00:30:26,429 --> 00:30:29,460
+to compete with you and put you out of
+
+910
+00:30:28,169 --> 00:30:31,650
+business I mean going back to the
+
+911
+00:30:29,460 --> 00:30:33,750
+coca-cola example Coca Cola has such a
+
+912
+00:30:31,650 --> 00:30:35,100
+strong market presence you know people
+
+913
+00:30:33,750 --> 00:30:37,260
+have come to expect when they go to a
+
+914
+00:30:35,100 --> 00:30:39,210
+restaurant they can ask for a Coke and
+
+915
+00:30:37,260 --> 00:30:40,380
+get a coke it's very hard for someone
+
+916
+00:30:39,210 --> 00:30:43,230
+else to break in and of course there's
+
+917
+00:30:40,380 --> 00:30:44,309
+Pepsi and there are other soda brands
+
+918
+00:30:43,230 --> 00:30:46,350
+perhaps she's been around a long time
+
+919
+00:30:44,309 --> 00:30:48,809
+coca-cola and Pepsi have continued to
+
+920
+00:30:46,350 --> 00:30:50,130
+exist side-by-side over long periods of
+
+921
+00:30:48,809 --> 00:30:52,200
+time so when you're thinking about
+
+922
+00:30:50,130 --> 00:30:54,210
+choosing a company make sure that they
+
+923
+00:30:52,200 --> 00:30:55,559
+sell a product or a service that's it's
+
+924
+00:30:54,210 --> 00:30:57,570
+hard for someone else to make a better
+
+925
+00:30:55,559 --> 00:30:59,549
+one that you'll switch to tomorrow
+
+926
+00:30:57,570 --> 00:31:01,200
+you also want businesses that are not
+
+927
+00:30:59,549 --> 00:31:03,120
+particularly sensitive to outside
+
+928
+00:31:01,200 --> 00:31:05,880
+factors so-called extrinsic factors that
+
+929
+00:31:03,120 --> 00:31:07,730
+you can't control so if a business will
+
+930
+00:31:05,880 --> 00:31:10,260
+be affected dramatically if the price of
+
+931
+00:31:07,730 --> 00:31:12,779
+particular commodity goes up or if
+
+932
+00:31:10,260 --> 00:31:15,179
+interest rates move up and down or if
+
+933
+00:31:12,779 --> 00:31:16,710
+currency prices change you want a
+
+934
+00:31:15,179 --> 00:31:18,600
+company that's fairly immune to what's
+
+935
+00:31:16,710 --> 00:31:20,279
+going on in the world and I'll use my
+
+936
+00:31:18,600 --> 00:31:21,539
+coca-cola example I mean if you think
+
+937
+00:31:20,279 --> 00:31:24,179
+about coca-cola it's a product that's
+
+938
+00:31:21,539 --> 00:31:25,169
+been around probably 120 years over that
+
+939
+00:31:24,179 --> 00:31:27,029
+period of time there's been multiple
+
+940
+00:31:25,169 --> 00:31:30,299
+world wars the development of nuclear
+
+941
+00:31:27,029 --> 00:31:31,980
+weapons all kinds of unfortunate events
+
+942
+00:31:30,299 --> 00:31:33,870
+and tragedies and so on and so forth but
+
+943
+00:31:31,980 --> 00:31:35,549
+each year the company pretty much makes
+
+944
+00:31:33,870 --> 00:31:37,590
+a little bit more money to made it
+
+945
+00:31:35,549 --> 00:31:38,850
+before and they're gonna be around and
+
+946
+00:31:37,590 --> 00:31:40,559
+you can be confident based on the
+
+947
+00:31:38,850 --> 00:31:42,419
+history that this is a business that's
+
+948
+00:31:40,559 --> 00:31:44,880
+going to be around almost regardless of
+
+949
+00:31:42,419 --> 00:31:47,940
+whether interest rates are at 14% when
+
+950
+00:31:44,880 --> 00:31:49,409
+the US dollar is you know not worth very
+
+951
+00:31:47,940 --> 00:31:50,880
+much or the price of Gold's up or down
+
+952
+00:31:49,409 --> 00:31:52,500
+those are the kind of companies you want
+
+953
+00:31:50,880 --> 00:31:56,039
+to invest in a long term businesses that
+
+954
+00:31:52,500 --> 00:31:57,929
+are extremely immune to the events that
+
+955
+00:31:56,039 --> 00:31:59,399
+are going on in the world another
+
+956
+00:31:57,929 --> 00:32:01,830
+criteria if you think back to our
+
+957
+00:31:59,399 --> 00:32:03,360
+lemonade stand company as we grew we had
+
+958
+00:32:01,830 --> 00:32:05,039
+to buy more and more lemonade stands
+
+959
+00:32:03,360 --> 00:32:07,049
+those lemonade stands only cost $300
+
+960
+00:32:05,039 --> 00:32:08,370
+each but imagine a business where every
+
+961
+00:32:07,049 --> 00:32:11,250
+time you grew you had to build a new
+
+962
+00:32:08,370 --> 00:32:12,299
+factory to produce more and more product
+
+963
+00:32:11,250 --> 00:32:13,019
+and those factories were really
+
+964
+00:32:12,299 --> 00:32:14,700
+expensive
+
+965
+00:32:13,019 --> 00:32:16,019
+well that company might generate a lot
+
+966
+00:32:14,700 --> 00:32:17,370
+of cash from the business but in order
+
+967
+00:32:16,019 --> 00:32:18,870
+to grow you're gonna have to just
+
+968
+00:32:17,370 --> 00:32:20,940
+reinvest more and more cash into the
+
+969
+00:32:18,870 --> 00:32:22,679
+business the best businesses are the
+
+970
+00:32:20,940 --> 00:32:24,600
+ones where it doesn't they don't require
+
+971
+00:32:22,679 --> 00:32:26,700
+a lot of capital to be reinvested in the
+
+972
+00:32:24,600 --> 00:32:28,049
+company they generated lots of cash that
+
+973
+00:32:26,700 --> 00:32:30,000
+you can use to pay dividends to your
+
+974
+00:32:28,049 --> 00:32:33,120
+shareholders or you can invest in new
+
+975
+00:32:30,000 --> 00:32:34,919
+high return attractive projects I guess
+
+976
+00:32:33,120 --> 00:32:37,260
+the last point I would make is there you
+
+977
+00:32:34,919 --> 00:32:38,760
+invest in public companies it's probably
+
+978
+00:32:37,260 --> 00:32:40,950
+safest to invest in businesses that are
+
+979
+00:32:38,760 --> 00:32:42,299
+not controlled controlled companies kind
+
+980
+00:32:40,950 --> 00:32:44,070
+of like our lemonade stand business that
+
+981
+00:32:42,299 --> 00:32:45,960
+we took public the problem with a
+
+982
+00:32:44,070 --> 00:32:47,159
+controlled company unless the
+
+983
+00:32:45,960 --> 00:32:49,169
+controlling shareholder is someone you
+
+984
+00:32:47,159 --> 00:32:51,690
+completely trusts unless there's someone
+
+985
+00:32:49,169 --> 00:32:53,610
+that has a great track record for taking
+
+986
+00:32:51,690 --> 00:32:55,200
+care of so-called minority investors
+
+987
+00:32:53,610 --> 00:32:55,720
+than non controlling shareholders you
+
+988
+00:32:55,200 --> 00:32:57,130
+can
+
+989
+00:32:55,720 --> 00:32:58,120
+risk with proposition to invest in that
+
+990
+00:32:57,130 --> 00:33:00,010
+business because you're at the whim of
+
+991
+00:32:58,120 --> 00:33:01,390
+the controlling shareholder and even if
+
+992
+00:33:00,010 --> 00:33:02,350
+the controlling shareholder today is
+
+993
+00:33:01,390 --> 00:33:03,610
+some of that you feel comfortable with
+
+994
+00:33:02,350 --> 00:33:05,440
+there's no assurance that in the future
+
+995
+00:33:03,610 --> 00:33:08,679
+they might sell control to someone else
+
+996
+00:33:05,440 --> 00:33:10,120
+it's not going to be as supportive of
+
+997
+00:33:08,679 --> 00:33:12,640
+the shareholders the business so it's
+
+998
+00:33:10,120 --> 00:33:14,610
+not that you just you can simply have a
+
+999
+00:33:12,640 --> 00:33:17,049
+profitable business and a business that
+
+1000
+00:33:14,610 --> 00:33:18,669
+has has done well you have to make sure
+
+1001
+00:33:17,049 --> 00:33:20,590
+that the management and the people that
+
+1002
+00:33:18,669 --> 00:33:21,760
+control the business think about you as
+
+1003
+00:33:20,590 --> 00:33:23,200
+an owner and I can protect your
+
+1004
+00:33:21,760 --> 00:33:31,120
+interests so these are some of the key
+
+1005
+00:33:23,200 --> 00:33:33,549
+criteria to think about now when are you
+
+1006
+00:33:31,120 --> 00:33:34,840
+ready to start investing money my guess
+
+1007
+00:33:33,549 --> 00:33:36,580
+is you're a student you probably have
+
+1008
+00:33:34,840 --> 00:33:38,080
+student loans perhaps you even have some
+
+1009
+00:33:36,580 --> 00:33:40,270
+credit card debt you're gonna graduate
+
+1010
+00:33:38,080 --> 00:33:42,669
+you're gonna get a job so you don't want
+
+1011
+00:33:40,270 --> 00:33:44,200
+to jump right in and while you have a
+
+1012
+00:33:42,669 --> 00:33:46,059
+lot of debt outstanding start investing
+
+1013
+00:33:44,200 --> 00:33:48,280
+the stock market stock market is a place
+
+1014
+00:33:46,059 --> 00:33:49,360
+to invest when you've got a good you
+
+1015
+00:33:48,280 --> 00:33:51,010
+have money you can put away and you
+
+1016
+00:33:49,360 --> 00:33:53,559
+won't need for five years or maybe ten
+
+1017
+00:33:51,010 --> 00:33:54,909
+years so if you're paying relatively
+
+1018
+00:33:53,559 --> 00:33:56,200
+high interest rates on your credit cards
+
+1019
+00:33:54,909 --> 00:33:57,940
+you definitely want to pay off your
+
+1020
+00:33:56,200 --> 00:34:00,490
+credit cards first before you think
+
+1021
+00:33:57,940 --> 00:34:02,230
+about investing in the stock market your
+
+1022
+00:34:00,490 --> 00:34:04,240
+student loans are probably lower cost
+
+1023
+00:34:02,230 --> 00:34:06,490
+and your credit cards but again here my
+
+1024
+00:34:04,240 --> 00:34:07,929
+best advice would be you know once you
+
+1025
+00:34:06,490 --> 00:34:10,119
+if your student loans are costing you
+
+1026
+00:34:07,929 --> 00:34:12,010
+six or seven percent well if you pay
+
+1027
+00:34:10,119 --> 00:34:14,349
+them off as if you earned a guaranteed
+
+1028
+00:34:12,010 --> 00:34:15,639
+six or seven percent return and you're
+
+1029
+00:34:14,349 --> 00:34:17,740
+just better off getting rid of your
+
+1030
+00:34:15,639 --> 00:34:19,200
+credit card debt and even your student
+
+1031
+00:34:17,740 --> 00:34:21,879
+loan debt before you commit a lot of
+
+1032
+00:34:19,200 --> 00:34:24,820
+material amount of money to the to the
+
+1033
+00:34:21,879 --> 00:34:26,200
+stock market even once you you paid off
+
+1034
+00:34:24,820 --> 00:34:28,030
+your credit card debt or perhaps you're
+
+1035
+00:34:26,200 --> 00:34:29,589
+paid down your student loans you want to
+
+1036
+00:34:28,030 --> 00:34:31,240
+have enough money in the bank so that
+
+1037
+00:34:29,589 --> 00:34:33,310
+even if you were to lose you lose your
+
+1038
+00:34:31,240 --> 00:34:35,889
+job tomorrow you've got a good six
+
+1039
+00:34:33,310 --> 00:34:37,919
+months maybe even 12 months of money set
+
+1040
+00:34:35,889 --> 00:34:37,919
+aside
+
+1041
+00:34:38,250 --> 00:34:43,250
+[Music]
+
+1042
+00:34:40,839 --> 00:34:45,740
+let's talk a little bit about the
+
+1043
+00:34:43,250 --> 00:34:47,359
+psychology of investing so we've talked
+
+1044
+00:34:45,740 --> 00:34:48,679
+about some of the technical factors how
+
+1045
+00:34:47,359 --> 00:34:50,690
+to think about what a business is worth
+
+1046
+00:34:48,679 --> 00:34:52,129
+want to buy a business at a reasonable
+
+1047
+00:34:50,690 --> 00:34:54,109
+price you want to buy a business that's
+
+1048
+00:34:52,129 --> 00:34:55,069
+going to exist forever that has barriers
+
+1049
+00:34:54,109 --> 00:34:57,579
+to entry where it's going to be
+
+1050
+00:34:55,069 --> 00:35:00,950
+difficult for people to compete with you
+
+1051
+00:34:57,579 --> 00:35:02,900
+but all those things are important and a
+
+1052
+00:35:00,950 --> 00:35:05,119
+lot of investors follow those principles
+
+1053
+00:35:02,900 --> 00:35:07,220
+the problem is that when they put them
+
+1054
+00:35:05,119 --> 00:35:08,540
+into practice and there's a panic in the
+
+1055
+00:35:07,220 --> 00:35:09,800
+world and the stock market is heading
+
+1056
+00:35:08,540 --> 00:35:13,369
+down every day and they're watching the
+
+1057
+00:35:09,800 --> 00:35:15,740
+value of their IRA or their investment
+
+1058
+00:35:13,369 --> 00:35:17,300
+account decline the natural tendency is
+
+1059
+00:35:15,740 --> 00:35:19,040
+sort of to do the opposite of what makes
+
+1060
+00:35:17,300 --> 00:35:21,740
+sense to be a successful investor you
+
+1061
+00:35:19,040 --> 00:35:24,079
+have to be able to avoid some natural
+
+1062
+00:35:21,740 --> 00:35:25,520
+human tendencies to follow the herd the
+
+1063
+00:35:24,079 --> 00:35:26,780
+stock market's going down every day your
+
+1064
+00:35:25,520 --> 00:35:28,550
+natural tendency used to want to sell
+
+1065
+00:35:26,780 --> 00:35:29,809
+when the stock market's actually going
+
+1066
+00:35:28,550 --> 00:35:32,510
+up every day your natural tendencies
+
+1067
+00:35:29,809 --> 00:35:34,700
+want to buy so in bubbles you probably
+
+1068
+00:35:32,510 --> 00:35:36,650
+should be a seller in busts you should
+
+1069
+00:35:34,700 --> 00:35:38,599
+probably be a buyer and you have to have
+
+1070
+00:35:36,650 --> 00:35:40,190
+that kind of a discipline you have to
+
+1071
+00:35:38,599 --> 00:35:46,099
+have a stomach to withstand the
+
+1072
+00:35:40,190 --> 00:35:47,869
+volatility of the stock market key way
+
+1073
+00:35:46,099 --> 00:35:49,670
+to have a stomach to withstand the
+
+1074
+00:35:47,869 --> 00:35:51,380
+volatility stock market is to be secure
+
+1075
+00:35:49,670 --> 00:35:52,579
+yourself you've got to feel comfortable
+
+1076
+00:35:51,380 --> 00:35:54,140
+that you've got enough money in the bank
+
+1077
+00:35:52,579 --> 00:35:57,619
+that you don't need what you have
+
+1078
+00:35:54,140 --> 00:35:59,329
+invested unless for many years that's a
+
+1079
+00:35:57,619 --> 00:36:01,730
+key factor number two you have to
+
+1080
+00:35:59,329 --> 00:36:03,109
+recognize that the stock market the
+
+1081
+00:36:01,730 --> 00:36:04,849
+short term is what we call a voting
+
+1082
+00:36:03,109 --> 00:36:07,910
+machine it really represents the whims
+
+1083
+00:36:04,849 --> 00:36:09,470
+of people in the short term stock prices
+
+1084
+00:36:07,910 --> 00:36:11,180
+are affected by many things my events
+
+1085
+00:36:09,470 --> 00:36:13,099
+going on in the world that really have
+
+1086
+00:36:11,180 --> 00:36:14,420
+nothing to do with the value of certain
+
+1087
+00:36:13,099 --> 00:36:17,059
+companies that your investments you've
+
+1088
+00:36:14,420 --> 00:36:18,650
+got to just accept the fact that what
+
+1089
+00:36:17,059 --> 00:36:20,240
+you own can go down meaning clean value
+
+1090
+00:36:18,650 --> 00:36:21,589
+after you buy it that doesn't actually
+
+1091
+00:36:20,240 --> 00:36:24,140
+mean you've made an investment mistake
+
+1092
+00:36:21,589 --> 00:36:25,849
+just the nature of the volatility of the
+
+1093
+00:36:24,140 --> 00:36:27,710
+stock market how do you get comfortable
+
+1094
+00:36:25,849 --> 00:36:29,450
+don't just buy a stock because you like
+
+1095
+00:36:27,710 --> 00:36:30,440
+the name of the company you do your own
+
+1096
+00:36:29,450 --> 00:36:31,910
+research you get a good understanding
+
+1097
+00:36:30,440 --> 00:36:33,740
+the business to make sure it's a
+
+1098
+00:36:31,910 --> 00:36:35,329
+business that you understand make sure
+
+1099
+00:36:33,740 --> 00:36:38,859
+the price you're paying is reasonable
+
+1100
+00:36:35,329 --> 00:36:38,859
+relative to the earnings of the company
+
+1101
+00:36:41,369 --> 00:36:45,819
+let's say this is just not for you I
+
+1102
+00:36:43,599 --> 00:36:47,529
+don't want to invest by individual
+
+1103
+00:36:45,819 --> 00:36:49,929
+stocks that just seems too risky I don't
+
+1104
+00:36:47,529 --> 00:36:50,949
+have the time to do my own research what
+
+1105
+00:36:49,929 --> 00:36:53,079
+are your alternatives well your
+
+1106
+00:36:50,949 --> 00:36:55,539
+alternatives are to outsource your
+
+1107
+00:36:53,079 --> 00:36:57,009
+investing to others you can hire a money
+
+1108
+00:36:55,539 --> 00:36:58,539
+manager or you can hire a group of money
+
+1109
+00:36:57,009 --> 00:37:06,189
+managers there are a couple of different
+
+1110
+00:36:58,539 --> 00:37:08,559
+alternatives for a start-up investor the
+
+1111
+00:37:06,189 --> 00:37:10,029
+most common alternative are mutual fund
+
+1112
+00:37:08,559 --> 00:37:12,849
+companies so what's a mutual fund a
+
+1113
+00:37:10,029 --> 00:37:14,709
+mutual fund is a I guess technically
+
+1114
+00:37:12,849 --> 00:37:17,049
+it's a corporation but where you buy
+
+1115
+00:37:14,709 --> 00:37:18,999
+stock in this corporation and the and
+
+1116
+00:37:17,049 --> 00:37:20,199
+the manager selects a portfolio of
+
+1117
+00:37:18,999 --> 00:37:22,149
+stocks so what they do is they pull
+
+1118
+00:37:20,199 --> 00:37:24,009
+together capital money from a large
+
+1119
+00:37:22,149 --> 00:37:25,689
+group of investors let's say they raise
+
+1120
+00:37:24,009 --> 00:37:27,069
+a billion dollars and they take that
+
+1121
+00:37:25,689 --> 00:37:29,319
+money and they invest in a diversified
+
+1122
+00:37:27,069 --> 00:37:31,269
+collection of securities now the benefit
+
+1123
+00:37:29,319 --> 00:37:32,889
+of this approach is that with a tiny
+
+1124
+00:37:31,269 --> 00:37:34,689
+amount of money you know you can even
+
+1125
+00:37:32,889 --> 00:37:37,389
+less than a thousand dollars you can buy
+
+1126
+00:37:34,689 --> 00:37:39,759
+into a diversified portfolio managed by
+
+1127
+00:37:37,389 --> 00:37:42,579
+a professional manager who's compensated
+
+1128
+00:37:39,759 --> 00:37:44,739
+to do a good job for you investing in
+
+1129
+00:37:42,579 --> 00:37:46,749
+the market so mutual funds are a good
+
+1130
+00:37:44,739 --> 00:37:48,279
+potential area for investment the
+
+1131
+00:37:46,749 --> 00:37:49,630
+problem is they're probably seven eight
+
+1132
+00:37:48,279 --> 00:37:51,939
+thousand maybe ten thousand different
+
+1133
+00:37:49,630 --> 00:37:53,289
+mutual funds and some are fantastic and
+
+1134
+00:37:51,939 --> 00:37:55,329
+some are not particularly good you need
+
+1135
+00:37:53,289 --> 00:37:57,189
+to do research to find a good mutual
+
+1136
+00:37:55,329 --> 00:37:59,859
+fund manager in the same way that you
+
+1137
+00:37:57,189 --> 00:38:02,229
+need to find individual stocks so it's
+
+1138
+00:37:59,859 --> 00:38:06,519
+not just the easy thing of just invested
+
+1139
+00:38:02,229 --> 00:38:09,189
+neutral funds so here are a few key
+
+1140
+00:38:06,519 --> 00:38:12,419
+success factors in identifying a mutual
+
+1141
+00:38:09,189 --> 00:38:15,369
+fund or or a money manager of any kind
+
+1142
+00:38:12,419 --> 00:38:17,199
+to select number one you want someone
+
+1143
+00:38:15,369 --> 00:38:19,389
+who has an investment strategy that
+
+1144
+00:38:17,199 --> 00:38:21,489
+makes sense to you you understand what
+
+1145
+00:38:19,389 --> 00:38:23,529
+they do and how they do it they're not
+
+1146
+00:38:21,489 --> 00:38:25,479
+appealing to your insecurities by using
+
+1147
+00:38:23,529 --> 00:38:27,189
+complicated words and expressions that
+
+1148
+00:38:25,479 --> 00:38:29,019
+you don't understand if they can't
+
+1149
+00:38:27,189 --> 00:38:30,489
+explain to you in two minutes what they
+
+1150
+00:38:29,019 --> 00:38:32,109
+do and how they do it and why it makes
+
+1151
+00:38:30,489 --> 00:38:34,209
+sense then it's a strategy you shouldn't
+
+1152
+00:38:32,109 --> 00:38:35,409
+invest in number two this is not
+
+1153
+00:38:34,209 --> 00:38:37,689
+necessary this order this is probably
+
+1154
+00:38:35,409 --> 00:38:39,459
+should be number one as you want someone
+
+1155
+00:38:37,689 --> 00:38:41,109
+with a reputation for integrity if again
+
+1156
+00:38:39,459 --> 00:38:42,999
+if you're starting out you probably want
+
+1157
+00:38:41,109 --> 00:38:44,999
+to invest in some of a mutual fund
+
+1158
+00:38:42,999 --> 00:38:47,619
+that's sponsored by some of the larger
+
+1159
+00:38:44,999 --> 00:38:49,659
+mutual fund complexes as opposed to a
+
+1160
+00:38:47,619 --> 00:38:52,269
+tiny little mutual fund that's privately
+
+1161
+00:38:49,659 --> 00:38:53,470
+but by a mutual fund company that you've
+
+1162
+00:38:52,269 --> 00:38:57,970
+never heard of there's some Dennis
+
+1163
+00:38:53,470 --> 00:38:59,200
+in the larger institutions you can be
+
+1164
+00:38:57,970 --> 00:39:02,260
+more confident that they're not going to
+
+1165
+00:38:59,200 --> 00:39:04,030
+steal your money you want someone an
+
+1166
+00:39:02,260 --> 00:39:06,490
+approach where the investor invest money
+
+1167
+00:39:04,030 --> 00:39:08,290
+on the basis of value I know it sounds
+
+1168
+00:39:06,490 --> 00:39:10,510
+kind of kind of obvious but you know
+
+1169
+00:39:08,290 --> 00:39:12,160
+value investing is has a very long-term
+
+1170
+00:39:10,510 --> 00:39:13,900
+track record and now there are other
+
+1171
+00:39:12,160 --> 00:39:15,430
+kinds of investing including technical
+
+1172
+00:39:13,900 --> 00:39:18,580
+investing where people are betting on
+
+1173
+00:39:15,430 --> 00:39:20,710
+stocks based on price movements but I
+
+1174
+00:39:18,580 --> 00:39:21,790
+highly recommend against those kind of
+
+1175
+00:39:20,710 --> 00:39:23,140
+approaches so you want someone who's
+
+1176
+00:39:21,790 --> 00:39:25,359
+making investments where they're buying
+
+1177
+00:39:23,140 --> 00:39:27,010
+companies based on their belief that the
+
+1178
+00:39:25,359 --> 00:39:29,410
+prospects of the business will be good
+
+1179
+00:39:27,010 --> 00:39:31,090
+and that the price paid relative to what
+
+1180
+00:39:29,410 --> 00:39:34,030
+the business is worth represents a
+
+1181
+00:39:31,090 --> 00:39:35,140
+significant discount you want to invest
+
+1182
+00:39:34,030 --> 00:39:37,540
+with someone that as a long-term track
+
+1183
+00:39:35,140 --> 00:39:39,160
+rep long term track record and I would
+
+1184
+00:39:37,540 --> 00:39:40,960
+say five years is the absolute minimum
+
+1185
+00:39:39,160 --> 00:39:44,109
+and ideally you want someone who's got
+
+1186
+00:39:40,960 --> 00:39:45,490
+10 15 20 years of experience investing
+
+1187
+00:39:44,109 --> 00:39:47,290
+in the markets because there's a lot
+
+1188
+00:39:45,490 --> 00:39:49,720
+that you can learn being a long term
+
+1189
+00:39:47,290 --> 00:39:51,250
+investor in the market you want someone
+
+1190
+00:39:49,720 --> 00:39:53,320
+who has a consistent approach where they
+
+1191
+00:39:51,250 --> 00:39:55,240
+haven't changed what they do materially
+
+1192
+00:39:53,320 --> 00:39:56,920
+year by year that they have a stated
+
+1193
+00:39:55,240 --> 00:39:58,690
+strategy that they've kept too thick and
+
+1194
+00:39:56,920 --> 00:40:02,470
+thin that's enabled them to earn an
+
+1195
+00:39:58,690 --> 00:40:04,570
+attractive return over their lifetime as
+
+1196
+00:40:02,470 --> 00:40:06,010
+an investor what we see in some ways
+
+1197
+00:40:04,570 --> 00:40:07,780
+most importantly you want someone who's
+
+1198
+00:40:06,010 --> 00:40:10,270
+investing the substantial majority of
+
+1199
+00:40:07,780 --> 00:40:11,920
+their own money alongside yours you want
+
+1200
+00:40:10,270 --> 00:40:13,690
+someone whose interests are aligned with
+
+1201
+00:40:11,920 --> 00:40:14,740
+yours if it's a mutual fund you want
+
+1202
+00:40:13,690 --> 00:40:16,810
+them to have a lot of money in their own
+
+1203
+00:40:14,740 --> 00:40:19,420
+mutual fund if it's a hedge fund which
+
+1204
+00:40:16,810 --> 00:40:22,630
+is a privately sold
+
+1205
+00:40:19,420 --> 00:40:24,310
+fun for investors who have higher net
+
+1206
+00:40:22,630 --> 00:40:26,810
+worth you wants a manager who's
+
+1207
+00:40:24,310 --> 00:40:28,020
+investing alongside you as well
+
+1208
+00:40:26,810 --> 00:40:29,760
+[Music]
+
+1209
+00:40:28,020 --> 00:40:32,589
+[Applause]
+
+1210
+00:40:29,760 --> 00:40:34,089
+we started with a little lemonade stand
+
+1211
+00:40:32,589 --> 00:40:35,320
+company and the purpose of that was to
+
+1212
+00:40:34,089 --> 00:40:36,760
+give you some of the basics and how to
+
+1213
+00:40:35,320 --> 00:40:38,470
+think about a business you know where
+
+1214
+00:40:36,760 --> 00:40:40,089
+the profits come from what revenues are
+
+1215
+00:40:38,470 --> 00:40:42,250
+what expenses are what a balance sheet
+
+1216
+00:40:40,089 --> 00:40:44,500
+is what an income statement is how to
+
+1217
+00:40:42,250 --> 00:40:46,330
+think about what a business is worth how
+
+1218
+00:40:44,500 --> 00:40:48,010
+to think about what the difference
+
+1219
+00:40:46,330 --> 00:40:51,280
+between a good business is versus a bad
+
+1220
+00:40:48,010 --> 00:40:54,040
+business how dead I offer is generally
+
+1221
+00:40:51,280 --> 00:40:56,230
+lower risk but lower return how equity
+
+1222
+00:40:54,040 --> 00:40:58,300
+investors or investors who buy the stock
+
+1223
+00:40:56,230 --> 00:41:01,060
+or the ownership of a business have the
+
+1224
+00:40:58,300 --> 00:41:02,859
+potential to earn more or lose more we
+
+1225
+00:41:01,060 --> 00:41:04,540
+use that as a back just as the basics to
+
+1226
+00:41:02,859 --> 00:41:07,030
+get some of the vocabulary to think
+
+1227
+00:41:04,540 --> 00:41:09,160
+about investing and we talked about
+
+1228
+00:41:07,030 --> 00:41:11,800
+investing in the stock market we talked
+
+1229
+00:41:09,160 --> 00:41:13,720
+about ways to think about how to select
+
+1230
+00:41:11,800 --> 00:41:15,730
+investments how to deal with some of the
+
+1231
+00:41:13,720 --> 00:41:17,110
+psychological issues of investing we
+
+1232
+00:41:15,730 --> 00:41:19,980
+covered a fair amount of ground in a
+
+1233
+00:41:17,110 --> 00:41:19,980
+relatively short period of time
+
+1234
+00:41:21,020 --> 00:41:27,280
+[Music]
+
+1235
+00:41:24,300 --> 00:41:28,300
+now I entitled the lecture everything
+
+1236
+00:41:27,280 --> 00:41:30,190
+you need to know about finance and
+
+1237
+00:41:28,300 --> 00:41:31,360
+investing in less than an hour well it
+
+1238
+00:41:30,190 --> 00:41:32,950
+really isn't everything you need to know
+
+1239
+00:41:31,360 --> 00:41:35,280
+it's really just an introduction and
+
+1240
+00:41:32,950 --> 00:41:38,440
+hopefully I didn't mislead you and
+
+1241
+00:41:35,280 --> 00:41:39,520
+induce you watch this for an hour but
+
+1242
+00:41:38,440 --> 00:41:41,200
+there's a lot more that can be learned
+
+1243
+00:41:39,520 --> 00:41:43,000
+and there's some wonderful books that
+
+1244
+00:41:41,200 --> 00:41:44,500
+can teach you on the topic I think
+
+1245
+00:41:43,000 --> 00:41:46,410
+what's interesting about investing
+
+1246
+00:41:44,500 --> 00:41:48,700
+whether you choose this as a full-time
+
+1247
+00:41:46,410 --> 00:41:50,830
+career or not if you're gonna be
+
+1248
+00:41:48,700 --> 00:41:53,290
+successful in your career you're gonna
+
+1249
+00:41:50,830 --> 00:41:55,060
+make some money and how you invest that
+
+1250
+00:41:53,290 --> 00:41:56,410
+money doesn't make a big difference in
+
+1251
+00:41:55,060 --> 00:41:58,150
+the quality of life that you have and
+
+1252
+00:41:56,410 --> 00:42:00,160
+perhaps that your children have or the
+
+1253
+00:41:58,150 --> 00:42:02,470
+kind of house you're able to buy or the
+
+1254
+00:42:00,160 --> 00:42:03,880
+retirement that you're gonna be able to
+
+1255
+00:42:02,470 --> 00:42:06,250
+enjoy and we talked about the difference
+
+1256
+00:42:03,880 --> 00:42:08,800
+between a 10% return and a 15 and 20%
+
+1257
+00:42:06,250 --> 00:42:10,150
+return over a very long lifetime what
+
+1258
+00:42:08,800 --> 00:42:12,340
+impact that has in terms of how much
+
+1259
+00:42:10,150 --> 00:42:13,510
+wealth you create over the period so
+
+1260
+00:42:12,340 --> 00:42:16,450
+investing is gonna be important to you
+
+1261
+00:42:13,510 --> 00:42:17,860
+whether you like it or not and learning
+
+1262
+00:42:16,450 --> 00:42:21,130
+more about investing is gonna have a big
+
+1263
+00:42:17,860 --> 00:42:22,960
+impact on your your your quality of life
+
+1264
+00:42:21,130 --> 00:42:29,770
+if money is something that you need in
+
+1265
+00:42:22,960 --> 00:42:34,300
+order to meet some of your goals I got
+
+1266
+00:42:29,770 --> 00:42:36,340
+interested when I was probably 22 or 23
+
+1267
+00:42:34,300 --> 00:42:39,790
+I started interested in being an
+
+1268
+00:42:36,340 --> 00:42:41,170
+investor and I read a book I read book
+
+1269
+00:42:39,790 --> 00:42:43,510
+called the intelligent investor was
+
+1270
+00:42:41,170 --> 00:42:45,700
+written by Ben Graham and Ben Grimm is a
+
+1271
+00:42:43,510 --> 00:42:47,830
+famous value investor and it's kind of
+
+1272
+00:42:45,700 --> 00:42:49,870
+like reading jean-paul Sartre Zechs
+
+1273
+00:42:47,830 --> 00:42:51,580
+essays and existentialism you read it
+
+1274
+00:42:49,870 --> 00:42:53,470
+and it's either is an epiphany and it
+
+1275
+00:42:51,580 --> 00:42:54,820
+affects the way you live your life where
+
+1276
+00:42:53,470 --> 00:42:57,250
+it's of no interest to you and this was
+
+1277
+00:42:54,820 --> 00:42:59,500
+the equivalent but in investing I found
+
+1278
+00:42:57,250 --> 00:43:00,820
+it fascinating and what I'd like to
+
+1279
+00:42:59,500 --> 00:43:02,710
+about investing is something very
+
+1280
+00:43:00,820 --> 00:43:06,340
+accessible even to someone who's 22 or
+
+1281
+00:43:02,710 --> 00:43:08,370
+23 what's kept me intrigued is that one
+
+1282
+00:43:06,340 --> 00:43:11,230
+of the it's one of the few jobs where
+
+1283
+00:43:08,370 --> 00:43:12,880
+every day you can study something new
+
+1284
+00:43:11,230 --> 00:43:14,740
+you're constantly learning about new
+
+1285
+00:43:12,880 --> 00:43:17,260
+businesses new situations new management
+
+1286
+00:43:14,740 --> 00:43:20,490
+teams new issues so it's infinitely
+
+1287
+00:43:17,260 --> 00:43:22,560
+challenging and the
+
+1288
+00:43:20,490 --> 00:43:24,619
+in the stock market are obviously very
+
+1289
+00:43:22,560 --> 00:43:27,060
+dynamic places so the challenges
+
+1290
+00:43:24,619 --> 00:43:29,010
+continue these same concepts while
+
+1291
+00:43:27,060 --> 00:43:30,690
+they're useful in deciding how to invest
+
+1292
+00:43:29,010 --> 00:43:32,490
+your portfolio they're also very useful
+
+1293
+00:43:30,690 --> 00:43:35,040
+to you in thinking about decisions like
+
+1294
+00:43:32,490 --> 00:43:37,109
+buying a home making decisions in your
+
+1295
+00:43:35,040 --> 00:43:39,060
+line of work whether to hire additional
+
+1296
+00:43:37,109 --> 00:43:40,770
+people you know this these kinds of
+
+1297
+00:43:39,060 --> 00:43:42,810
+calculations and thought processes are
+
+1298
+00:43:40,770 --> 00:43:44,910
+are helpful and they're helpful in life
+
+1299
+00:43:42,810 --> 00:43:47,940
+and I recommend that you learn more
+
+1300
+00:43:44,910 --> 00:43:49,650
+thank you for paying attention and I
+
+1301
+00:43:47,940 --> 00:43:58,369
+wish you well
+
+1302
+00:43:49,650 --> 00:43:58,369
+[Music]

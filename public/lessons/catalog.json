@@ -161,6 +161,761 @@
   "updatedAt": "2026-09-26T11:03:34.203Z"
  },
  {
+  "id": "en-video-athens-democracy",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "What did democracy really mean in Athens? - Melissa Schwartzberg"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "0fivQUlC7-8"
+  },
+  "durationSec": 291,
+  "sentenceCount": 39,
+  "categories": [
+   "history",
+   "news-society"
+  ],
+  "tags": [
+   "ancient-greece",
+   "democracy",
+   "politics"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "B1",
+   "estimated": true
+  },
+  "accent": "en-us",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=0fivQUlC7-8",
+   "attribution": "Video library (YouTube): TED-Ed · en manual captions",
+   "transcript": "provided"
+  },
+  "author": "TED-Ed",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "en-video-biodiversity",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "Why is biodiversity so important? - Kim Preshoff"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "GK_vRtHJZu4"
+  },
+  "durationSec": 259,
+  "sentenceCount": 38,
+  "categories": [
+   "science",
+   "nature"
+  ],
+  "tags": [
+   "biodiversity",
+   "ecosystems",
+   "environment"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "B1",
+   "estimated": true
+  },
+  "accent": "en-us",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=GK_vRtHJZu4",
+   "attribution": "Video library (YouTube): TED-Ed · en manual captions",
+   "transcript": "provided"
+  },
+  "author": "TED-Ed",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "en-video-dumplings-world",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "What do dumplings look like around the world? - Miranda Brown"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "iHqzHrEFFTU"
+  },
+  "durationSec": 283,
+  "sentenceCount": 39,
+  "categories": [
+   "food",
+   "culture"
+  ],
+  "tags": [
+   "dumplings",
+   "food-culture",
+   "cuisine"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "A2",
+   "estimated": true
+  },
+  "accent": "en-us",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=iHqzHrEFFTU",
+   "attribution": "Video library (YouTube): TED-Ed · en manual captions",
+   "transcript": "provided"
+  },
+  "author": "TED-Ed",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "en-video-finance-ackman",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "William Ackman: Everything You Need to Know About Finance and Investing in Under an Hour | Big Think"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "WEDIj9JBTC8"
+  },
+  "durationSec": 2637,
+  "sentenceCount": 294,
+  "categories": [
+   "work-business"
+  ],
+  "tags": [
+   "finance",
+   "investing",
+   "business"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "A2",
+   "estimated": true
+  },
+  "accent": "en-us",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=WEDIj9JBTC8",
+   "attribution": "Video library (YouTube): Big Think · en auto captions",
+   "transcript": "provided"
+  },
+  "author": "Big Think",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "en-video-good-life",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "What Makes a Good Life? Lessons from the Longest Study on Happiness | Robert Waldinger | TED"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "8KkKuTCFvzI"
+  },
+  "durationSec": 767,
+  "sentenceCount": 103,
+  "categories": [
+   "lifestyle",
+   "family"
+  ],
+  "tags": [
+   "happiness",
+   "relationships",
+   "wellbeing"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "A2",
+   "estimated": true
+  },
+  "accent": "en-us",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=8KkKuTCFvzI",
+   "attribution": "Video library (YouTube): TED · en manual captions",
+   "transcript": "provided"
+  },
+  "author": "TED",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "en-video-language-thought",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "How Language Shapes the Way We Think | Lera Boroditsky | TED"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "RKK7wGAYP6k"
+  },
+  "durationSec": 853,
+  "sentenceCount": 161,
+  "categories": [
+   "culture",
+   "philosophy"
+  ],
+  "tags": [
+   "language",
+   "thought",
+   "culture"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "A2",
+   "estimated": true
+  },
+  "accent": "en-us",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=RKK7wGAYP6k",
+   "attribution": "Video library (YouTube): TED · en manual captions",
+   "transcript": "provided"
+  },
+  "author": "TED",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "en-video-neural-networks",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "But what is a neural network? | Deep learning chapter 1"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "aircAruvnKk"
+  },
+  "durationSec": 1120,
+  "sentenceCount": 149,
+  "categories": [
+   "technology",
+   "science"
+  ],
+  "tags": [
+   "neural-networks",
+   "artificial-intelligence",
+   "deep-learning"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "A2",
+   "estimated": true
+  },
+  "accent": "en-us",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=aircAruvnKk",
+   "attribution": "Video library (YouTube): 3Blue1Brown · en manual captions",
+   "transcript": "provided"
+  },
+  "author": "3Blue1Brown",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "en-video-plastic-waste",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "What really happens to the plastic you throw away - Emma Bryce"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "_6xlNyWPpB8"
+  },
+  "durationSec": 247,
+  "sentenceCount": 35,
+  "categories": [
+   "nature"
+  ],
+  "tags": [
+   "plastic",
+   "waste",
+   "environment"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "A2",
+   "estimated": true
+  },
+  "accent": "en-us",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=_6xlNyWPpB8",
+   "attribution": "Video library (YouTube): TED-Ed · en manual captions",
+   "transcript": "provided"
+  },
+  "author": "TED-Ed",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "en-video-raising-successful-kids",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "How to Raise Successful Kids -- Without Over-Parenting | Julie Lythcott-Haims | TED"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "CyElHdaqkjo"
+  },
+  "durationSec": 856,
+  "sentenceCount": 114,
+  "categories": [
+   "family",
+   "education"
+  ],
+  "tags": [
+   "parenting",
+   "children",
+   "independence"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "A2",
+   "estimated": true
+  },
+  "accent": "en-us",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=CyElHdaqkjo",
+   "attribution": "Video library (YouTube): TED · en manual captions",
+   "transcript": "provided"
+  },
+  "author": "TED",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "en-video-single-story",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "Chimamanda Ngozi Adichie: The Danger of a Single Story | TED"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "D9Ihs241zeg"
+  },
+  "durationSec": 1156,
+  "sentenceCount": 168,
+  "categories": [
+   "news-society",
+   "culture"
+  ],
+  "tags": [
+   "representation",
+   "storytelling",
+   "identity"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "A2",
+   "estimated": true
+  },
+  "accent": "en-us",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=D9Ihs241zeg",
+   "attribution": "Video library (YouTube): TED · en manual captions",
+   "transcript": "provided"
+  },
+  "author": "TED",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "en-video-sleep",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "What would happen if you didn’t sleep? - Claudia Aguirre"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "dqONk48l5vY"
+  },
+  "durationSec": 275,
+  "sentenceCount": 37,
+  "categories": [
+   "health",
+   "science"
+  ],
+  "tags": [
+   "sleep",
+   "brain",
+   "health"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "B1",
+   "estimated": true
+  },
+  "accent": "en-us",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=dqONk48l5vY",
+   "attribution": "Video library (YouTube): TED-Ed · en manual captions",
+   "transcript": "provided"
+  },
+  "author": "TED-Ed",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "en-video-sports-science",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "How Sports Science Is Creating Super Athletes | Karishma Boolani | TEDxBITSGoa"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "78nuYJNZFCo"
+  },
+  "durationSec": 851,
+  "sentenceCount": 122,
+  "categories": [
+   "sports",
+   "science"
+  ],
+  "tags": [
+   "sports-science",
+   "athletes",
+   "training"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "A2",
+   "estimated": true
+  },
+  "accent": "en-us",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=78nuYJNZFCo",
+   "attribution": "Video library (YouTube): TEDx Talks · en auto captions",
+   "transcript": "provided"
+  },
+  "author": "TEDx Talks",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "en-video-starry-night",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "The unexpected math behind Van Gogh’s ‘Starry Night’ - Natalya St. Clair"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "PMerSm2ToFY"
+  },
+  "durationSec": 278,
+  "sentenceCount": 32,
+  "categories": [
+   "art",
+   "science"
+  ],
+  "tags": [
+   "van-gogh",
+   "painting",
+   "mathematics"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "B1",
+   "estimated": true
+  },
+  "accent": "en-us",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=PMerSm2ToFY",
+   "attribution": "Video library (YouTube): TED-Ed · en manual captions",
+   "transcript": "provided"
+  },
+  "author": "TED-Ed",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "en-video-study-effectively",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "3 tips on how to study effectively"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "TjPFZaMe2yw"
+  },
+  "durationSec": 308,
+  "sentenceCount": 42,
+  "categories": [
+   "education",
+   "daily-life"
+  ],
+  "tags": [
+   "study-skills",
+   "learning",
+   "memory"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "B1",
+   "estimated": true
+  },
+  "accent": "en-us",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=TjPFZaMe2yw",
+   "attribution": "Video library (YouTube): TED-Ed · en manual captions",
+   "transcript": "provided"
+  },
+  "author": "TED-Ed",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "en-video-time-management",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "How to gain control of your free time | Laura Vanderkam | TED"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "n3kNlFMXslo"
+  },
+  "durationSec": 714,
+  "sentenceCount": 138,
+  "categories": [
+   "daily-life"
+  ],
+  "tags": [
+   "time-management",
+   "planning",
+   "habits"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "A2",
+   "estimated": true
+  },
+  "accent": "en-us",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=n3kNlFMXslo",
+   "attribution": "Video library (YouTube): TED · en manual captions",
+   "transcript": "provided"
+  },
+  "author": "TED",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "en-video-travel-rick-steves",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "The value of travel | Rick Steves | TEDxRainier"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "kYXiegTXsEs"
+  },
+  "durationSec": 1285,
+  "sentenceCount": 229,
+  "categories": [
+   "travel"
+  ],
+  "tags": [
+   "travel",
+   "culture",
+   "perspective"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "A2",
+   "estimated": true
+  },
+  "accent": "en-us",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=kYXiegTXsEs",
+   "attribution": "Video library (YouTube): TEDxRainier · en manual captions",
+   "transcript": "provided"
+  },
+  "author": "TEDxRainier",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "en-video-trolley-problem",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "Would you sacrifice one person to save five? - Eleanor Nelsen"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "yg16u_bzjPE"
+  },
+  "durationSec": 296,
+  "sentenceCount": 42,
+  "categories": [
+   "philosophy"
+  ],
+  "tags": [
+   "ethics",
+   "moral-dilemmas",
+   "utilitarianism"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "B1",
+   "estimated": true
+  },
+  "accent": "en-us",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=yg16u_bzjPE",
+   "attribution": "Video library (YouTube): TED-Ed · en manual captions",
+   "transcript": "provided"
+  },
+  "author": "TED-Ed",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "en-video-vivaldi-four-seasons",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "Why should you listen to Vivaldi’s ‘Four Seasons’? - Betsy Schwarm"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "Xcpc8VDsv3c"
+  },
+  "durationSec": 259,
+  "sentenceCount": 33,
+  "categories": [
+   "music",
+   "art"
+  ],
+  "tags": [
+   "vivaldi",
+   "classical-music",
+   "listening"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "A2",
+   "estimated": true
+  },
+  "accent": "en-us",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=Xcpc8VDsv3c",
+   "attribution": "Video library (YouTube): TED-Ed · en manual captions",
+   "transcript": "provided"
+  },
+  "author": "TED-Ed",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "en-video-what-makes-a-hero",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "What makes a hero? - Matthew Winkler"
+  },
+  "targetLanguage": "en",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "Hhk4N9A0oCA"
+  },
+  "durationSec": 274,
+  "sentenceCount": 58,
+  "categories": [
+   "entertainment",
+   "culture"
+  ],
+  "tags": [
+   "storytelling",
+   "mythology",
+   "heroes"
+  ],
+  "difficulty": {
+   "framework": "cefr",
+   "level": "A2",
+   "estimated": true
+  },
+  "accent": "en-us",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=Hhk4N9A0oCA",
+   "attribution": "Video library (YouTube): TED-Ed · en manual captions",
+   "transcript": "provided"
+  },
+  "author": "TED-Ed",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
   "id": "ja-culture-cherry-blossoms",
   "schemaVersion": 1,
   "origin": "catalog",
@@ -325,6 +1080,769 @@
   "author": "Mimane",
   "createdAt": "2026-09-26T11:03:44.819Z",
   "updatedAt": "2026-09-26T11:03:44.819Z"
+ },
+ {
+  "id": "ja-video-amami-species",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "奄美大島 〜希少生物と生きる〜"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "gCynV3TYtYI"
+  },
+  "durationSec": 289,
+  "sentenceCount": 36,
+  "categories": [
+   "nature",
+   "culture"
+  ],
+  "tags": [
+   "奄美大島",
+   "生物多様性",
+   "自然保護"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N1",
+   "estimated": true
+  },
+  "accent": "ja-tokyo",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=gCynV3TYtYI",
+   "attribution": "Video library (YouTube): Japan Video Topics - 日本語 · ja auto captions",
+   "transcript": "provided"
+  },
+  "author": "Japan Video Topics - 日本語",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "ja-video-bon-dance",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "西馬音内盆踊り 〜母から娘へ〜"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "uWC5qucagBc"
+  },
+  "durationSec": 314,
+  "sentenceCount": 45,
+  "categories": [
+   "culture",
+   "family"
+  ],
+  "tags": [
+   "盆踊り",
+   "伝統文化",
+   "継承"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N1",
+   "estimated": true
+  },
+  "accent": "ja-tokyo",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=uWC5qucagBc",
+   "attribution": "Video library (YouTube): Japan Video Topics - 日本語 · ja auto captions",
+   "transcript": "provided"
+  },
+  "author": "Japan Video Topics - 日本語",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "ja-video-cooking-tools",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "食へのこだわり 〜日本の調理道具〜"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "WPUW1uQVP9o"
+  },
+  "durationSec": 303,
+  "sentenceCount": 40,
+  "categories": [
+   "food",
+   "culture"
+  ],
+  "tags": [
+   "調理道具",
+   "食文化",
+   "料理"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N1",
+   "estimated": true
+  },
+  "accent": "ja-tokyo",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=WPUW1uQVP9o",
+   "attribution": "Video library (YouTube): Japan Video Topics - 日本語 · ja auto captions",
+   "transcript": "provided"
+  },
+  "author": "Japan Video Topics - 日本語",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "ja-video-currency-manufacturing",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "日本の通貨製造技術（2024年版）"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "LcWiXxBhmgo"
+  },
+  "durationSec": 268,
+  "sentenceCount": 41,
+  "categories": [
+   "technology",
+   "work-business"
+  ],
+  "tags": [
+   "通貨",
+   "製造技術",
+   "日本銀行券"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N1",
+   "estimated": true
+  },
+  "accent": "ja-tokyo",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=LcWiXxBhmgo",
+   "attribution": "Video library (YouTube): Japan Video Topics - 日本語 · ja auto captions",
+   "transcript": "provided"
+  },
+  "author": "Japan Video Topics - 日本語",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "ja-video-fathers-postpartum-depression",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "「真っ暗なトンネルにいる感覚」“父親”の産後うつ｜TBS NEWS DIG"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "SbpD0XKJlT0"
+  },
+  "durationSec": 512,
+  "sentenceCount": 63,
+  "categories": [
+   "family",
+   "news-society",
+   "health"
+  ],
+  "tags": [
+   "産後うつ",
+   "父親",
+   "家族の健康"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N2",
+   "estimated": true
+  },
+  "accent": "ja-tokyo",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=SbpD0XKJlT0",
+   "attribution": "Video library (YouTube): TBS NEWS DIG Powered by JNN · ja auto captions",
+   "transcript": "provided"
+  },
+  "author": "TBS NEWS DIG Powered by JNN",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "ja-video-folk-songs",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "日本の民謡"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "ciKlYelfhH8"
+  },
+  "durationSec": 255,
+  "sentenceCount": 32,
+  "categories": [
+   "music",
+   "culture"
+  ],
+  "tags": [
+   "民謡",
+   "伝統音楽",
+   "日本文化"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N2",
+   "estimated": true
+  },
+  "accent": "ja-tokyo",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=ciKlYelfhH8",
+   "attribution": "Video library (YouTube): Japan Video Topics - 日本語 · ja auto captions",
+   "transcript": "provided"
+  },
+  "author": "Japan Video Topics - 日本語",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "ja-video-genji-restoration",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "源氏物語 〜蘇る色彩〜"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "vPxKaLicv_g"
+  },
+  "durationSec": 272,
+  "sentenceCount": 39,
+  "categories": [
+   "art",
+   "history"
+  ],
+  "tags": [
+   "源氏物語",
+   "修復",
+   "美術"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N1",
+   "estimated": true
+  },
+  "accent": "ja-tokyo",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=vPxKaLicv_g",
+   "attribution": "Video library (YouTube): Japan Video Topics - 日本語 · ja auto captions",
+   "transcript": "provided"
+  },
+  "author": "Japan Video Topics - 日本語",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "ja-video-healthy-habits",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "健康の秘訣 〜日本の3つの習慣〜"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "8d1HiJNCwUo"
+  },
+  "durationSec": 285,
+  "sentenceCount": 45,
+  "categories": [
+   "health",
+   "lifestyle"
+  ],
+  "tags": [
+   "健康",
+   "習慣",
+   "生活"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N2",
+   "estimated": true
+  },
+  "accent": "ja-tokyo",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=8d1HiJNCwUo",
+   "attribution": "Video library (YouTube): Japan Video Topics - 日本語 · ja auto captions",
+   "transcript": "provided"
+  },
+  "author": "Japan Video Topics - 日本語",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "ja-video-hydrogen-society",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "水素社会の実現に向けて"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "b0diHsD6S7g"
+  },
+  "durationSec": 280,
+  "sentenceCount": 38,
+  "categories": [
+   "technology",
+   "nature"
+  ],
+  "tags": [
+   "水素",
+   "エネルギー",
+   "環境"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N1",
+   "estimated": true
+  },
+  "accent": "ja-tokyo",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=b0diHsD6S7g",
+   "attribution": "Video library (YouTube): Japan Video Topics - 日本語 · ja auto captions",
+   "transcript": "provided"
+  },
+  "author": "Japan Video Topics - 日本語",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "ja-video-investment-risk",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "【アーカイブ動画】第２回 投資って危険？～リスク＆リターンと金融商品の特徴～"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "tTiO44WN99o"
+  },
+  "durationSec": 367,
+  "sentenceCount": 53,
+  "categories": [
+   "work-business",
+   "education"
+  ],
+  "tags": [
+   "投資",
+   "リスク",
+   "金融教育"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N1",
+   "estimated": true
+  },
+  "accent": "ja-tokyo",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=tTiO44WN99o",
+   "attribution": "Video library (YouTube): J-FLEC · ja auto captions",
+   "transcript": "provided"
+  },
+  "author": "J-FLEC",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "ja-video-jomon-history",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "縄文時代 〜1万5000年前からのメッセージ〜"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "5Ut_-ac8spg"
+  },
+  "durationSec": 302,
+  "sentenceCount": 34,
+  "categories": [
+   "history",
+   "culture"
+  ],
+  "tags": [
+   "縄文時代",
+   "考古学",
+   "日本史"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N1",
+   "estimated": true
+  },
+  "accent": "ja-tokyo",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=5Ut_-ac8spg",
+   "attribution": "Video library (YouTube): Japan Video Topics - 日本語 · ja auto captions",
+   "transcript": "provided"
+  },
+  "author": "Japan Video Topics - 日本語",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "ja-video-noise-protection",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "職場を騒音から守れ"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "2i-HPhfazzs"
+  },
+  "durationSec": 241,
+  "sentenceCount": 33,
+  "categories": [
+   "work-business",
+   "health",
+   "technology"
+  ],
+  "tags": [
+   "騒音",
+   "職場",
+   "健康"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N2",
+   "estimated": true
+  },
+  "accent": "ja-tokyo",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=2i-HPhfazzs",
+   "attribution": "Video library (YouTube): Japan Video Topics - 日本語 · ja auto captions",
+   "transcript": "provided"
+  },
+  "author": "Japan Video Topics - 日本語",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "ja-video-plushie-hobby",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "ぬい活 〜思い出作りのパートナー〜"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "UOKvIi-hqhY"
+  },
+  "durationSec": 262,
+  "sentenceCount": 39,
+  "categories": [
+   "lifestyle",
+   "daily-life"
+  ],
+  "tags": [
+   "ぬい活",
+   "趣味",
+   "思い出"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N2",
+   "estimated": true
+  },
+  "accent": "ja-tokyo",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=UOKvIi-hqhY",
+   "attribution": "Video library (YouTube): Japan Video Topics - 日本語 · ja auto captions",
+   "transcript": "provided"
+  },
+  "author": "Japan Video Topics - 日本語",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "ja-video-pro-dance-league",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "世界初のプロダンスリーグ誕生！"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "bLqU4zSc-bY"
+  },
+  "durationSec": 311,
+  "sentenceCount": 34,
+  "categories": [
+   "sports",
+   "entertainment"
+  ],
+  "tags": [
+   "ダンス",
+   "スポーツ",
+   "プロリーグ"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N2",
+   "estimated": true
+  },
+  "accent": "ja-tokyo",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=bLqU4zSc-bY",
+   "attribution": "Video library (YouTube): Japan Video Topics - 日本語 · ja auto captions",
+   "transcript": "provided"
+  },
+  "author": "Japan Video Topics - 日本語",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "ja-video-science-philosophy",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "科学哲学(1) 伊勢田哲治先生「科学哲学の観点から見たコロナをめぐる言説(1)」"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "rHxNa2fjUgY"
+  },
+  "durationSec": 4062,
+  "sentenceCount": 575,
+  "categories": [
+   "philosophy",
+   "science",
+   "news-society"
+  ],
+  "tags": [
+   "科学哲学",
+   "批判的思考",
+   "科学と社会"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N2",
+   "estimated": true
+  },
+  "accent": "ja-tokyo",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=rHxNa2fjUgY",
+   "attribution": "Video library (YouTube): UKIHSS · ja auto captions",
+   "transcript": "provided"
+  },
+  "author": "UKIHSS",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "ja-video-shimanami-cycling",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "しまなみ海道 サイクリングの旅"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "EB9OsJsMXfI"
+  },
+  "durationSec": 301,
+  "sentenceCount": 33,
+  "categories": [
+   "travel",
+   "lifestyle"
+  ],
+  "tags": [
+   "しまなみ海道",
+   "サイクリング",
+   "旅行"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N1",
+   "estimated": true
+  },
+  "accent": "ja-tokyo",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=EB9OsJsMXfI",
+   "attribution": "Video library (YouTube): Japan Video Topics - 日本語 · ja auto captions",
+   "transcript": "provided"
+  },
+  "author": "Japan Video Topics - 日本語",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "ja-video-soft-robotics",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "ソフトロボット 〜柔らかくしなやか〜"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "yy78CSMj4ak"
+  },
+  "durationSec": 279,
+  "sentenceCount": 35,
+  "categories": [
+   "science",
+   "technology"
+  ],
+  "tags": [
+   "ロボット",
+   "科学",
+   "工学"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N2",
+   "estimated": true
+  },
+  "accent": "ja-tokyo",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=yy78CSMj4ak",
+   "attribution": "Video library (YouTube): Japan Video Topics - 日本語 · ja auto captions",
+   "transcript": "provided"
+  },
+  "author": "Japan Video Topics - 日本語",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "ja-video-tokusatsu",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "特撮 〜日本が生んだエンタメ〜"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "38dDd6Sq4Xk"
+  },
+  "durationSec": 248,
+  "sentenceCount": 30,
+  "categories": [
+   "entertainment",
+   "culture"
+  ],
+  "tags": [
+   "特撮",
+   "映画",
+   "日本のエンタメ"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N1",
+   "estimated": true
+  },
+  "accent": "ja-tokyo",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=38dDd6Sq4Xk",
+   "attribution": "Video library (YouTube): Japan Video Topics - 日本語 · ja auto captions",
+   "transcript": "provided"
+  },
+  "author": "Japan Video Topics - 日本語",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
+ },
+ {
+  "id": "ja-video-unmanned-shops",
+  "schemaVersion": 1,
+  "origin": "catalog",
+  "title": {
+   "original": "日本の無人販売"
+  },
+  "targetLanguage": "ja",
+  "supportLanguages": [],
+  "media": {
+   "kind": "youtube",
+   "videoId": "COnT6g8jMgQ"
+  },
+  "durationSec": 257,
+  "sentenceCount": 35,
+  "categories": [
+   "daily-life",
+   "work-business"
+  ],
+  "tags": [
+   "無人販売",
+   "買い物",
+   "日本"
+  ],
+  "difficulty": {
+   "framework": "jlpt",
+   "level": "N1",
+   "estimated": true
+  },
+  "accent": "ja-tokyo",
+  "source": {
+   "kind": "prepared",
+   "url": "https://www.youtube.com/watch?v=COnT6g8jMgQ",
+   "attribution": "Video library (YouTube): Japan Video Topics - 日本語 · ja auto captions",
+   "transcript": "provided"
+  },
+  "author": "Japan Video Topics - 日本語",
+  "createdAt": "2026-09-27T14:04:53.599Z",
+  "updatedAt": "2026-09-27T14:04:53.599Z"
  },
  {
   "id": "vi-culture-tet",

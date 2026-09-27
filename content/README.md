@@ -6,6 +6,24 @@ The build step runs the deterministic language adapters (tokenizer, furigana,
 IPA, Vietnamese syllable parser), generates demo audio with macOS TTS and
 computes sentence timestamps — so the app only *renders* pre-analysed data.
 
+## Curated YouTube video lessons
+
+`content/video-lessons.json` is the source manifest for curated real-video
+practice lessons. Each row points to a YouTube video and an original-language
+SRT in `content/subtitles/`. The video stays on YouTube; the app embeds it and
+uses the timed captions to drive sentence-by-sentence practice. Caption files
+are retained as source material and copied to `public/subtitles/` for each
+compiled lesson. English and Japanese machine captions are identified in the
+manifest and lesson attribution so learners can distinguish them from manual
+captions.
+
+Build them with `npm run video-lessons:build`. The compiler validates source
+IDs, category IDs, caption language, timed cues, and the four-minute minimum,
+then compiles `public/lessons/<id>.json` with token analysis and adds its entry
+to `public/lessons/catalog.json`. A full `npm run lessons:build` keeps the
+curated YouTube entries in that catalog while rebuilding authored audio
+lessons.
+
 ## `content/lessons/<id>.json`
 
 ```jsonc

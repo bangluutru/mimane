@@ -11,6 +11,7 @@
     "typecheck": "tsc -b",
     "data:build": "tsx scripts/build-data.ts",
     "lessons:build": "tsx scripts/build-lessons.ts",
+    "video-lessons:build": "tsx scripts/build-video-lessons.ts",
     "transcriber": "tools/py.sh tools/transcriber/server.py",
     "lessons:qa": "tools/py.sh scripts/tts/qa_audio.py public/lessons/ja-*.json public/lessons/en-*.json public/lessons/vi-*.json"
   },

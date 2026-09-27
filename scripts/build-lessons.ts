@@ -223,9 +223,14 @@ const only = process.argv.slice(2);
 const dir = path.join(root, 'content/lessons');
 const files = fs.readdirSync(dir).filter((f) => f.endsWith('.json') && (!only.length || only.includes(f.replace('.json', ''))));
 const catalogFile = path.join(root, 'public/lessons/catalog.json');
-const catalog: Record<string, LessonMeta> = only.length && fs.existsSync(catalogFile)
-  ? Object.fromEntries((JSON.parse(fs.readFileSync(catalogFile, 'utf8')) as LessonMeta[]).map((m) => [m.id, m]))
-  : {};
+const existingCatalog = fs.existsSync(catalogFile)
+  ? JSON.parse(fs.readFileSync(catalogFile, 'utf8')) as LessonMeta[]
+  : [];
+const catalog: Record<string, LessonMeta> = Object.fromEntries(
+  existingCatalog
+    .filter((m) => only.length || m.media.kind === 'youtube')
+    .map((m) => [m.id, m]),
+);
 for (const f of files) {
   const meta = await build(path.join(dir, f));
   catalog[meta.id] = meta;
