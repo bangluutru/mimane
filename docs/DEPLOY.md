@@ -35,8 +35,11 @@ lên `main`, giống chottoday.com.
 
 - `https://mimane.chottoday.com/?lang=vi` mở onboarding tiếng Việt.
 - Mở một bài, bấm phát: audio chạy, câu đang đọc được tô sáng.
-- Tải lại trang ngay trên `/lesson/...`: vẫn mở đúng bài (Pages tự fallback
-  SPA vì không có `404.html`).
+- Tải lại trang ngay trên `/lesson/...`: vẫn mở đúng bài. Pages **không** tự
+  fallback SPA nữa vì có `public/404.html`; các route thật được viết lại về
+  `index.html` trong `public/_redirects`. Thêm `<Route>` mới vào
+  `src/app/App.tsx` thì thêm dòng tương ứng ở `_redirects`, nếu không route đó
+  trả 404 khi tải lại. Đường dẫn lạ (`/abc`, `/.env`) trả 404 thật.
 - Nút ghi âm hỏi quyền micro (header `Permissions-Policy: microphone=(self)`).
 - Thêm bài tiếng Nhật bằng phụ đề dán vào: từ điển `/dict/*.dat.bin` tải được và
   có furigana.
