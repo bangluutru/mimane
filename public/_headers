@@ -1,4 +1,8 @@
 # Cloudflare Pages response headers for mimane.chottoday.com
+#
+# When several blocks match a path, Pages sends every header they set, and
+# joins repeated names with a comma. So the data blocks below only add
+# "noindex": the response ends up as "X-Robots-Tag: noai, noimageai, noindex".
 
 /*
   X-Content-Type-Options: nosniff
@@ -7,15 +11,47 @@
   Content-Security-Policy: frame-ancestors 'self'
   # The microphone is the product (shadowing recordings stay on-device).
   Permissions-Policy: microphone=(self), camera=(), geolocation=(), browsing-topics=(), interest-cohort=()
+  # No includeSubDomains / preload on purpose: this header is per-site, the
+  # zone's other subdomains decide for themselves.
+  Strict-Transport-Security: max-age=15552000
+  # A request, not a wall — AI crawlers are actually refused at the zone level.
+  X-Robots-Tag: noai, noimageai
+
+# Branch previews (<branch>.mimane.pages.dev) must never be indexed. The bare
+# mimane.pages.dev already redirects to mimane.chottoday.com.
+https://:branch.mimane.pages.dev/*
+  X-Robots-Tag: noindex
 
 # Vite output is content-hashed: cache forever.
 /assets/*
   Cache-Control: public, max-age=31536000, immutable
 
+# Lesson transcripts, word lists, dictionaries and audio: the app loads them,
+# so robots.txt must not Disallow them (Googlebot needs them to render), but
+# they are not pages and should not appear in search on their own.
+# "! Access-Control-Allow-Origin" drops Pages' default "*": another site can no
+# longer fetch() the lesson library straight from its visitors' browsers. The
+# app itself is same-origin and does not need it. (curl is unaffected — this
+# only stops hotlinking from other web pages.)
+
 # Linguistic data changes only with a release: cache a day, revalidate after.
 /dict/*
   Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+  X-Robots-Tag: noindex
+  ! Access-Control-Allow-Origin
 /data/*
   Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+  X-Robots-Tag: noindex
+  ! Access-Control-Allow-Origin
 /vendor/*
   Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+
+/lessons/*
+  X-Robots-Tag: noindex
+  ! Access-Control-Allow-Origin
+/subtitles/*
+  X-Robots-Tag: noindex
+  ! Access-Control-Allow-Origin
+/media/*
+  X-Robots-Tag: noindex
+  ! Access-Control-Allow-Origin

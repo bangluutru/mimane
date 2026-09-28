@@ -1,4 +1,459 @@
+# Mimane by Chotto — https://mimane.chottoday.com
+#
+# File này sinh từ src/config/crawlerPolicy.js (buildRobotsTxt) của repo
+# chottoday. Thêm/bớt bot thì sửa danh sách ở đó rồi sinh lại, đừng sửa tay.
+# Phần riêng của Mimane chỉ là các dòng Disallow trang cá nhân bên dưới.
+#
+# /review, /progress, /import, /settings là trang của từng người học (dữ liệu
+# nằm trong trình duyệt họ), không có gì để tìm kiếm. Các dòng này lặp lại
+# trong từng nhóm bot được phép vì bot có nhóm riêng (Googlebot…) bỏ qua
+# hoàn toàn nhóm "User-agent: *".
+#
+# Thư mục dữ liệu (/lessons, /data, /dict…) KHÔNG Disallow: trang cần chúng
+# để render. Chúng được đánh noindex bằng X-Robots-Tag trong _headers.
+
+# --- Các bot tìm kiếm và xem trước liên kết được phép ---
+
+User-agent: Googlebot
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: Googlebot-Image
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: Bingbot
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: coccocbot
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: coccocbot-web
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: Yeti
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: Applebot
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: facebookexternalhit
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: Twitterbot
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: LinkedInBot
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: Slackbot
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: Slackbot-LinkExpanding
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: TelegramBot
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: WhatsApp
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: Zalo
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: Discordbot
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: *".
+#
+# Thư mục dữ liệu (/lessons, /data, /dict…) KHÔNG Disallow: trang cần chúng
+# để render. Chúng được đánh noindex bằng X-Robots-Tag trong _headers.
+
+# --- Các bot tìm kiếm và xem trước liên kết được phép ---
+
+User-agent: Googlebot
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: Googlebot-Image
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: Bingbot
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: coccocbot
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: coccocbot-web
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: Yeti
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: Applebot
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: facebookexternalhit
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: Twitterbot
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: LinkedInBot
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: Slackbot
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: Slackbot-LinkExpanding
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: TelegramBot
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: WhatsApp
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: Zalo
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+User-agent: Discordbot
+Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+
+# --- Bot huấn luyện AI và bot thu thập SEO: không được phép ---
+
+# OpenAI training crawler
+User-agent: GPTBot
+Disallow: /
+
+# OpenAI search index
+User-agent: OAI-SearchBot
+Disallow: /
+
+# ChatGPT browsing on a user prompt
+User-agent: ChatGPT-User
+Disallow: /
+
+# Anthropic crawler
+User-agent: ClaudeBot
+Disallow: /
+
+# Anthropic crawler
+User-agent: Claude-Web
+Disallow: /
+
+# Anthropic search index
+User-agent: Claude-SearchBot
+Disallow: /
+
+# Anthropic crawler
+User-agent: anthropic-ai
+Disallow: /
+
+# Common Crawl — the corpus most models are trained on
+User-agent: CCBot
+Disallow: /
+
+# Gemini training (does not affect Google Search)
+User-agent: Google-Extended
+Disallow: /
+
+# Apple Intelligence training (Applebot stays allowed)
+User-agent: Applebot-Extended
+Disallow: /
+
+# Meta language-model training
+User-agent: FacebookBot
+Disallow: /
+
+# Meta AI crawler
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+# Meta AI fetcher
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+# ByteDance/TikTok training crawler, notoriously aggressive
+User-agent: Bytespider
+Disallow: /
+
+# Perplexity index
+User-agent: PerplexityBot
+Disallow: /
+
+# Perplexity fetch on a user prompt
+User-agent: Perplexity-User
+Disallow: /
+
+# Amazon/Alexa crawler
+User-agent: Amazonbot
+Disallow: /
+
+# Cohere crawler
+User-agent: cohere-ai
+Disallow: /
+
+# You.com crawler
+User-agent: YouBot
+Disallow: /
+
+# Commercial content-extraction service
+User-agent: Diffbot
+Disallow: /
+
+# Image dataset crawler
+User-agent: ImagesiftBot
+Disallow: /
+
+# Resells crawled text as training data
+User-agent: Omgilibot
+Disallow: /
+
+# Resells crawled text as training data
+User-agent: Omgili
+Disallow: /
+
+# Webz.io dataset crawler
+User-agent: Webzio-Extended
+Disallow: /
+
+# Allen Institute dataset crawler
+User-agent: AI2Bot
+Disallow: /
+
+# Allen Institute Dolma corpus
+User-agent: Ai2Bot-Dolma
+Disallow: /
+
+# Dataset crawler
+User-agent: Timpibot
+Disallow: /
+
+# Huawei PanGu training crawler
+User-agent: PanguBot
+Disallow: /
+
+# DuckDuckGo AI answers (DuckDuckBot stays allowed)
+User-agent: DuckAssistBot
+Disallow: /
+
+# Bulk image-dataset tool
+User-agent: img2dataset
+Disallow: /
+
+# Undisclosed dataset crawler
+User-agent: FriendlyCrawler
+Disallow: /
+
+# Undisclosed dataset crawler
+User-agent: ISSCyberRiskCrawler
+Disallow: /
+
+# Ahrefs backlink index
+User-agent: AhrefsBot
+Disallow: /
+
+# Semrush index
+User-agent: SemrushBot
+Disallow: /
+
+# Majestic index
+User-agent: MJ12bot
+Disallow: /
+
+# Moz index
+User-agent: DotBot
+Disallow: /
+
+# Moz site crawler
+User-agent: rogerbot
+Disallow: /
+
+# DataForSEO resells crawl results
+User-agent: DataForSeoBot
+Disallow: /
+
+# WebMeUp backlink index
+User-agent: BLEXBot
+Disallow: /
+
+# Serpstat index
+User-agent: serpstatbot
+Disallow: /
+
+# Babbar backlink index
+User-agent: Barkrowler
+Disallow: /
+
+# Contact-data harvester
+User-agent: ZoominfoBot
+Disallow: /
+
+# Semrush audit crawler
+User-agent: SiteAuditBot
+Disallow: /
+
+# Desktop site-mirroring crawler
+User-agent: Screaming Frog SEO Spider
+Disallow: /
+
+# Huawei Petal index
+User-agent: PetalBot
+Disallow: /
+
+# Seekport index
+User-agent: SeekportBot
+Disallow: /
+
+# --- Mọi bot khác ---
+
 User-agent: *
 Allow: /
+Disallow: /review
+Disallow: /progress
+Disallow: /import
+Disallow: /settings
+# Xin đọc chậm lại, site này do một nhóm nhỏ vận hành.
+Crawl-delay: 5
 
 Sitemap: https://mimane.chottoday.com/sitemap.xml

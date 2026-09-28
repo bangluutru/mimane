@@ -1,0 +1,20 @@
+# Every client-side route of the SPA, rewritten (200, not a redirect) to the
+# app shell. Must match the <Route>s in src/app/App.tsx exactly.
+#
+# Why this list exists: public/404.html makes Cloudflare Pages stop its
+# automatic SPA fallback, so an unknown path now gets a real 404 instead of
+# index.html with status 200. The flip side is that a route missing here 404s
+# on reload or on a shared link. Adding a <Route>? Add its line here too.
+#
+# The target is "/", not "/index.html": Pages treats /index.html as a URL to
+# tidy up and answers a rewrite to it with "308 → /", which silently sent
+# every deep link to the home page (seen on the first preview of this file).
+#
+# "/" itself needs no line: index.html is served there already.
+
+/lesson/*   /   200
+/library    /   200
+/review     /   200
+/progress   /   200
+/import     /   200
+/settings   /   200
