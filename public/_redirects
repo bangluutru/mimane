@@ -6,11 +6,15 @@
 # index.html with status 200. The flip side is that a route missing here 404s
 # on reload or on a shared link. Adding a <Route>? Add its line here too.
 #
-# "/" needs no line: index.html is served there already.
+# The target is "/", not "/index.html": Pages treats /index.html as a URL to
+# tidy up and answers a rewrite to it with "308 → /", which silently sent
+# every deep link to the home page (seen on the first preview of this file).
+#
+# "/" itself needs no line: index.html is served there already.
 
-/lesson/*   /index.html   200
-/library    /index.html   200
-/review     /index.html   200
-/progress   /index.html   200
-/import     /index.html   200
-/settings   /index.html   200
+/lesson/*   /   200
+/library    /   200
+/review     /   200
+/progress   /   200
+/import     /   200
+/settings   /   200
