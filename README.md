@@ -73,6 +73,33 @@ adapters, import pipeline); `npm run build` produces a static site in `dist/`
 * **Your own media**: *Add lesson* → YouTube link or file + subtitle file / pasted
   transcript (+ optional translation subtitle). Everything is analysed locally.
 
+## Ô tìm kiếm
+
+Nguyên tắc chung của mọi site Chotto: **ô tìm kiếm ở đâu cũng dùng gói
+[`@chotto/search`](https://github.com/bangluutru/chotto-search)**. Điều này áp
+cho mọi trang, modal và ô lọc trong công cụ. Không viết `<input type="search">`
+tay, không tự viết hàm bỏ dấu. Gói thiếu gì thì thêm vào gói, rồi nâng tag.
+
+* **Hook nối duy nhất:** `src/ui/search/useMimaneSearch.ts`. `useMimaneSearch`
+  bọc `useSearchBox`, điều hướng bằng react-router, và dùng
+  `resetKey = pathname`. `useSearchLabels` đưa chữ của gói qua `t()` (khoá
+  `search.*` trong `src/app/i18n.ts`, đủ en/vi/ja). Ô nào cũng vẽ bằng
+  `SearchBoxView` với state lấy từ hook này.
+* **Màu:** `--cs-*` map sang token của mimane **một lần**, trong khối đầu
+  `src/styles.css`. Chế độ tối tự ăn theo. Trang chỉ đặt vị trí, không tô màu ô.
+* **So khớp:** `matchesQuery`/`rankItems` của gói. `searchLessons`
+  (`src/domains/library/search.ts`) lọc theo các bộ lọc có cấu trúc trước, rồi
+  xếp theo chữ, ưu tiên tiêu đề ở mọi ngôn ngữ.
+* **Từ khoá không lên URL.** `/library` chỉ đọc `?q=` một lần lúc mở trang, để
+  link cũ vẫn chạy, rồi xoá nó khỏi URL. Các bộ lọc chọn sẵn (`lang`, `level`…)
+  vẫn nằm trên URL.
+* **Test canh:** `src/ui/search/searchBoxes.test.ts`. Test đỏ khi có
+  `type="search"`, `role="search"` hoặc `role="combobox"` viết tay, khi có chỗ
+  gọi `useSearchBox` hay `<SearchBox>` mà không qua hook nối, hoặc khi gói
+  không ghim theo tag. Ô buộc phải giữ bản cũ thì đưa vào `ALLOWED` kèm lý do.
+* **Nâng tag:** `npm install github:bangluutru/chotto-search#<tag mới>`, rồi
+  chạy `npm run build` và `npm test`.
+
 ## Data & credits
 
 kuromoji.js + IPADIC (Apache-2.0) · JLPT word lists from
