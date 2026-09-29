@@ -29,7 +29,7 @@ const en = {
     privacy: 'Your progress and recordings stay on this device.',
   },
   lesson: {
-    sentences: '{n} sentences',
+    sentences: '{n} {n|sentence|sentences}',
     synthetic: 'Synthesized voice',
     syntheticHint: 'Demo lesson with a synthesized voice. Import real recordings for authentic speech.',
     mine: 'My lesson',
@@ -50,10 +50,10 @@ const en = {
     medium: '3–10 min',
     deep: '10+ min',
     anyAccent: 'Any accent',
-    results: '{n} lessons',
+    results: '{n} {n|lesson|lessons}',
     none: 'Nothing matches. Try fewer filters.',
     searchLabel: 'Filter lessons',
-    seeAll: 'Filter the list below: {n} lessons',
+    seeAll: 'Filter the list below: {n} {n|lesson|lessons}',
   },
   search: {
     listbox: 'Suggestions',
@@ -135,7 +135,7 @@ const en = {
     translation: '3. Translation (optional)', translationHint: 'A second subtitle file in your language, aligned by time.',
     details: '4. Details', titleField: 'Title', language: 'Language', level: 'Level', auto: 'Estimate automatically',
     categories: 'Topics', tags: 'Tags (comma separated)', accent: 'Accent', merge: 'Merge subtitle lines into full sentences',
-    create: 'Create lesson', analysing: 'Analysing sentences…', cues: '{n} lines found', noTimings: 'No timestamps found — you will tap along with the audio to sync each sentence.',
+    create: 'Create lesson', analysing: 'Analysing sentences…', cues: '{n} {n|line|lines} found', noTimings: 'No timestamps found — you will tap along with the audio to sync each sentence.',
     needTranscript: 'Add a transcript first.', needMedia: 'Add a YouTube link or a media file.', yourLanguage: 'Translation language',
     privacy: 'Everything is processed and stored on this device.',
   },
@@ -151,7 +151,7 @@ const en = {
     youtubeNeedsServer: 'YouTube audio can only be transcribed by the local transcriber (it fetches the audio with yt-dlp).',
     ytNote: 'For personal study only: respect the creator’s copyright and YouTube’s Terms.',
     stage: { queued: 'Waiting…', downloading: 'Downloading audio…', 'loading-model': 'Loading speech model…', transcribing: 'Recognising speech…', done: 'Done' },
-    done: 'Transcribed {n} sentences with {model}. Please listen and check.',
+    done: 'Transcribed {n} {n|sentence|sentences} with {model}. Please listen and check.',
     review: 'Automatic transcript — may contain mistakes. Listen and correct before practising.',
     auto: 'Auto transcript', quality: 'Accuracy', accurate: 'Accurate', fast: 'Fast',
     settings: 'Transcription', serverUrl: 'Local transcriber URL', check: 'Check', online: 'Connected', offline: 'Not running',
@@ -465,11 +465,26 @@ function lookup(d: unknown, path: string[]): string | undefined {
 
 export type TFn = (key: string, vars?: Record<string, string | number>) => string;
 
+/**
+ * Số ít/số nhiều: `{n|lesson|lessons}` chọn theo biến `n` và luật số nhiều của
+ * ngôn ngữ (Intl.PluralRules). Tiếng Việt và tiếng Nhật không đổi dạng nên
+ * không cần cú pháp này; tiếng Anh thì "1 lessons" là sai.
+ */
+const PLURAL = /\{(\w+)\|([^|{}]*)\|([^|{}]*)\}/g;
+
 export function makeT(lang: SupportLang): TFn {
+  const rules = new Intl.PluralRules(lang);
   return (key, vars) => {
     const path = key.split('.');
     let s = lookup(DICTS[lang], path) ?? lookup(en, path) ?? key;
-    if (vars) for (const [k, v] of Object.entries(vars)) s = s.replaceAll(`{${k}}`, String(v));
+    if (vars) {
+      s = s.replace(PLURAL, (whole, k: string, one: string, other: string) => {
+        const n = Number(vars[k]);
+        if (!(k in vars) || Number.isNaN(n)) return whole;
+        return rules.select(n) === 'one' ? one : other;
+      });
+      for (const [k, v] of Object.entries(vars)) s = s.replaceAll(`{${k}}`, String(v));
+    }
     return s;
   };
 }
