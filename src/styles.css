@@ -97,6 +97,28 @@
   color-scheme: light;
 }
 
+/* Ô tìm kiếm dùng chung @chotto/search: map --cs-* sang token của mimane, MỘT
+   lần, ở đây. Chế độ tối tự ăn theo vì các token bên phải đổi giá trị trong
+   khối "Đêm" bên dưới. Đừng tô màu ô ở từng trang; trang chỉ đặt vị trí. */
+:root {
+  --cs-surface: var(--surface-card);
+  --cs-hover: var(--surface-dim);
+  --cs-border: var(--border-card);
+  --cs-text: var(--text-primary);
+  --cs-muted: var(--text-muted);
+  --cs-placeholder: var(--text-subtle);
+  --cs-accent: var(--accent);
+  --cs-focus-ring: var(--focus-ring);
+  /* "Flat 1px borders, no decorative shadow". Không dùng `none`: gói ghép
+     "var(--cs-shadow), var(--cs-focus-ring)" lúc focus, và "none, …" là CSS
+     sai, trình duyệt bỏ cả dòng, mất luôn vòng focus. */
+  --cs-shadow: 0 0 0 0 transparent;
+  --cs-panel-shadow: var(--shadow-float);
+  --cs-radius-panel: var(--radius-card);
+  --cs-radius-item: var(--radius-sm);
+  --cs-font: var(--font-body);
+}
+
 /* "Đêm" — Chotto Dark palette */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme='light']) {

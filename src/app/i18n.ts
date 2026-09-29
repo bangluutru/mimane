@@ -52,6 +52,14 @@ const en = {
     anyAccent: 'Any accent',
     results: '{n} lessons',
     none: 'Nothing matches. Try fewer filters.',
+    searchLabel: 'Filter lessons',
+    seeAll: 'Filter the list below: {n} lessons',
+  },
+  search: {
+    listbox: 'Suggestions',
+    empty: 'Nothing matches “{q}”',
+    seeAll: 'See all results for “{q}”',
+    clear: 'Clear',
   },
   mode: {
     listen: 'Listen', read: 'Listen & Read', repeat: 'Repeat', shadow: 'Shadow', dictation: 'Dictation',
@@ -210,6 +218,10 @@ const vi: DeepPartial<Dict> = {
     title: 'Thư viện', search: 'Tìm tiêu đề, chủ đề, từ khóa…', all: 'Tất cả', anyLevel: 'Mọi trình độ', anyTopic: 'Mọi chủ đề',
     anyLength: 'Mọi độ dài', short: '< 3 phút', medium: '3–10 phút', deep: '10+ phút', anyAccent: 'Mọi giọng',
     results: '{n} bài', none: 'Không có bài phù hợp. Thử bớt bộ lọc.',
+    searchLabel: 'Lọc bài học', seeAll: 'Lọc danh sách bên dưới: {n} bài',
+  },
+  search: {
+    listbox: 'Gợi ý', empty: 'Không có gì khớp “{q}”', seeAll: 'Xem tất cả kết quả cho “{q}”', clear: 'Xoá',
   },
   mode: {
     listen: 'Nghe', read: 'Nghe & Đọc', repeat: 'Nói theo', shadow: 'Shadowing', dictation: 'Chép chính tả',
@@ -341,6 +353,10 @@ const ja: DeepPartial<Dict> = {
     title: 'ライブラリ', search: 'タイトル・トピック・キーワード', all: 'すべて', anyLevel: 'すべてのレベル', anyTopic: 'すべてのトピック',
     anyLength: 'すべての長さ', short: '3分未満', medium: '3〜10分', deep: '10分以上', anyAccent: 'すべてのアクセント',
     results: '{n}件', none: '該当するレッスンがありません。',
+    searchLabel: 'レッスンを絞り込む', seeAll: '下の一覧で絞り込む：{n}件',
+  },
+  search: {
+    listbox: '候補', empty: '「{q}」に一致するものはありません', seeAll: '「{q}」の結果をすべて見る', clear: 'クリア',
   },
   mode: {
     listen: 'リスニング', read: '聞いて読む', repeat: 'リピート', shadow: 'シャドーイング', dictation: 'ディクテーション',

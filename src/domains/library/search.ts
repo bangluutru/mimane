@@ -1,3 +1,4 @@
+import { rankItems, type RankOptions } from '@chotto/search';
 import type { LessonMeta } from '@/domains/lesson/types';
 import type { AccentId, TargetLang } from '@/languages/types';
 import { CATEGORY_BY_ID, type CategoryId } from './taxonomy';
@@ -15,28 +16,34 @@ export interface LessonQuery {
   accent?: AccentId;
 }
 
-const fold = (s: string) => s.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase();
+/**
+ * So khớp chữ là của @chotto/search, dùng chung với mọi site Chotto. Bản fold
+ * tự viết trước đây quên đ→d ("duong" không khớp "Đường"), bỏ luôn dấu ゛ của
+ * kana (がくせい thành かくせい, khớp nhầm) và không chuẩn hoá NFKC.
+ *
+ * Tiêu đề (mọi ngôn ngữ) là trường ưu tiên: bài khớp ở tiêu đề đứng trước bài
+ * chỉ khớp ở mô tả, tag, chủ đề hay trình độ. Cùng hạng thì giữ thứ tự gốc.
+ */
+const TEXT_FIELDS: RankOptions<LessonMeta>['fields'] = [
+  (l) => Object.values(l.title),
+  (l) => [
+    ...Object.values(l.description ?? {}),
+    ...l.tags,
+    ...l.categories.flatMap((c) => Object.values(CATEGORY_BY_ID[c]?.label ?? {})),
+    l.difficulty?.level ?? '',
+  ],
+];
 
-/** Simple, forgiving search: every query word must appear somewhere. */
+/** Lọc theo các bộ lọc có cấu trúc, rồi theo chữ nếu có. */
 export function searchLessons(lessons: LessonMeta[], q: LessonQuery): LessonMeta[] {
-  const words = q.text ? fold(q.text).split(/\s+/).filter(Boolean) : [];
-  return lessons.filter((l) => {
+  const filtered = lessons.filter((l) => {
     if (q.lang && l.targetLanguage !== q.lang) return false;
     if (q.level && l.difficulty?.level !== q.level) return false;
     if (q.category && !l.categories.includes(q.category)) return false;
     if (q.tag && !l.tags.includes(q.tag)) return false;
     if (q.duration && durationBucket(l.durationSec) !== q.duration) return false;
     if (q.accent && l.accent !== q.accent) return false;
-    if (!words.length) return true;
-    const hay = fold(
-      [
-        ...Object.values(l.title),
-        ...Object.values(l.description ?? {}),
-        ...l.tags,
-        ...l.categories.flatMap((c) => Object.values(CATEGORY_BY_ID[c]?.label ?? {})),
-        l.difficulty?.level ?? '',
-      ].join(' '),
-    );
-    return words.every((w) => hay.includes(w));
+    return true;
   });
+  return q.text?.trim() ? rankItems(filtered, q.text, { fields: TEXT_FIELDS }) : filtered;
 }

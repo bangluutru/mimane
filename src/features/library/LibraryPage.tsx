@@ -1,5 +1,6 @@
+import { useEffect, useMemo, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
-import { Search } from 'lucide-react';
+import { SearchBoxView, type SearchItem } from '@chotto/search';
 import { useT, pick } from '@/app/i18n';
 import { useProfile } from '@/domains/user/profile';
 import { listLessons } from '@/domains/lesson/repo';
@@ -12,14 +13,27 @@ import type { AccentId, TargetLang } from '@/languages/types';
 import { useLive } from '@/ui/hooks';
 import { LessonTile } from '@/ui/LessonTile';
 import { LangMark } from '@/ui/brand';
+import { useMimaneSearch, useSearchLabels } from '@/ui/search/useMimaneSearch';
+
+const SUGGEST_LIMIT = 8;
 
 export default function LibraryPage() {
   const t = useT();
   const profile = useProfile();
   const [params, setParams] = useSearchParams();
+  // ?q= chỉ ĐỌC một lần lúc mở trang, để link cũ đã chia sẻ vẫn lọc đúng. Sau
+  // đó từ khoá sống trong state của ô: gõ gì cũng không ghi lên URL (lịch sử
+  // trình duyệt, link chép gửi nhau). Các bộ lọc chọn sẵn thì vẫn ở URL.
+  const [initialQuery] = useState(() => params.get('q') ?? '');
+  useEffect(() => {
+    if (!params.has('q')) return;
+    const p = new URLSearchParams(params);
+    p.delete('q');
+    setParams(p, { replace: true });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
   const lang = (params.get('lang') as TargetLang) || profile.targetLanguage;
   const q = {
-    text: params.get('q') ?? '',
     lang,
     level: params.get('level') ?? undefined,
     category: (params.get('category') as CategoryId) ?? undefined,
@@ -28,6 +42,7 @@ export default function LibraryPage() {
   };
   const set = (k: string, v?: string) => {
     const p = new URLSearchParams(params);
+    p.delete('q');
     if (v) p.set(k, v);
     else p.delete(k);
     if (k === 'lang') {
@@ -38,16 +53,43 @@ export default function LibraryPage() {
   };
 
   const data = useLive(async () => ({ lessons: await listLessons(), progress: await listLessonProgress() }), [], ['lessons', 'progress']);
-  const results = data ? searchLessons(data.lessons, q) : [];
+  const ui = profile.supportLanguage;
+  // Gợi ý lấy từ đúng tập đã qua các bộ lọc đang chọn, nên không gợi ý bài
+  // mà lưới bên dưới không có.
+  const search = useMemo(() => {
+    const pool = data ? searchLessons(data.lessons, q) : [];
+    return (text: string): SearchItem[] =>
+      searchLessons(pool, { text })
+        .slice(0, SUGGEST_LIMIT)
+        .map((l) => {
+          const local = pick(l.title, ui, '');
+          return {
+            key: l.id,
+            title: l.title.original,
+            subtitle: [local !== l.title.original ? local : '', l.difficulty?.level ?? ''].filter(Boolean).join(' · '),
+            href: `/lesson/${l.id}`,
+          };
+        });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [data, ui, q.lang, q.level, q.category, q.duration, q.accent]);
+  // Ô lọc (mode 'filter'): Enter khi chưa chọn gợi ý thì giữ từ khoá và đóng
+  // bảng — lưới bên dưới đã lọc theo đúng từ khoá đó.
+  const box = useMimaneSearch({ mode: 'filter', search, initialQuery, onSubmit: () => {} });
+  const results = data ? searchLessons(data.lessons, { ...q, text: box.query }) : [];
   const done = new Map(data?.progress.map((p) => [p.lessonId, p]) ?? []);
+  const count = t('library.results', { n: results.length });
+  const labels = useSearchLabels({ seeAll: () => t('library.seeAll', { n: results.length }) });
 
   return (
     <div className="stack" style={{ gap: 16 }}>
       <h1>{t('library.title')}</h1>
-      <label className="row" style={{ position: 'relative' }}>
-        <Search size={18} style={{ position: 'absolute', left: 14, color: 'var(--text-muted)' }} aria-hidden />
-        <input className="input" style={{ paddingLeft: 40 }} type="search" placeholder={t('library.search')} value={q.text} onChange={(e) => set('q', e.target.value)} aria-label={t('library.search')} />
-      </label>
+      <SearchBoxView
+        state={box}
+        placeholder={t('library.search')}
+        ariaLabel={t('library.searchLabel')}
+        labels={labels}
+        count={data ? count : undefined}
+      />
 
       <div className="stack" style={{ gap: 10 }}>
         <div className="row wrap">
@@ -81,7 +123,6 @@ export default function LibraryPage() {
         </div>
       </div>
 
-      <p className="muted small">{t('library.results', { n: results.length })}</p>
       {data && !results.length ? (
         <div className="empty">{t('library.none')}</div>
       ) : (
