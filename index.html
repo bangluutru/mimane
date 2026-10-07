@@ -14,7 +14,28 @@
     <title>Mimane by Chotto — Nghe · Shadowing · Nói</title>
   </head>
   <body>
-    <div id="root"></div>
+    <!-- Nội dung ghi sẵn cho bot không chạy JavaScript. createRoot() ở src/main.tsx
+         thay toàn bộ #root khi app khởi động nên người dùng không thấy khác gì.
+         Trước đây #root rỗng: HTML thô chỉ có thẻ meta, trang chủ không có chữ nào. -->
+    <div id="root">
+      <main>
+        <h1>Mimane by Chotto — Nghe · Shadowing · Nói</h1>
+        <p>Mimane giúp bạn luyện nghe, shadowing và nói tiếng Nhật, tiếng Anh và tiếng Việt từng câu một, từ nội dung thật như video YouTube, file âm thanh hay bài học soạn sẵn.</p>
+        <h2>Học thế nào</h2>
+        <ul>
+          <li>Nghe, vừa nghe vừa đọc, nhắc lại, shadowing và chép chính tả trên cùng một bài.</li>
+          <li>Lặp từng câu, chỉnh tốc độ 0,5–1,25×, tự dừng sau mỗi câu.</li>
+          <li>Ghi âm từng câu rồi so sánh giọng bản xứ với giọng của bạn. Bản ghi chỉ lưu trên thiết bị của bạn.</li>
+          <li>Thẻ từ vựng và ôn tập các câu khó, câu đã lưu.</li>
+        </ul>
+        <h2>Dành cho ai</h2>
+        <ul>
+          <li>Người Việt học tiếng Nhật, có furigana và lọc theo JLPT.</li>
+          <li>Người Việt học tiếng Anh, có phiên âm IPA và trọng âm.</li>
+          <li>Người nước ngoài học tiếng Việt, có tách âm tiết và màu thanh điệu.</li>
+        </ul>
+      </main>
+    </div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
