@@ -5,7 +5,7 @@ import { CATEGORIES, type CategoryId } from '@/domains/library/taxonomy';
 import { FRAMEWORKS, FRAMEWORK_FOR } from '@/languages/proficiency';
 import type { SupportLang, TargetLang } from '@/languages/types';
 import { Check } from 'lucide-react';
-import { ByChotto, LangMark, TopicIcon, Wordmark } from '@/ui/brand';
+import { ChottoBand, ByChotto, LangMark, TopicIcon, Wordmark } from '@/ui/brand';
 import { pick } from '@/app/i18n';
 
 const SPEAK: { id: SupportLang; label: string }[] = [
@@ -86,6 +86,10 @@ export function Onboarding() {
               ))}
             </div>
           </div>
+          {/* Người mới (và Googlebot) luôn vào đây trước, không bao giờ thấy ChottoBand
+              ở Trang chủ; không có chỗ này thì trang chủ Mimane không có liên kết nào
+              về chottoday.com. */}
+          <ChottoBand />
         </div>
       )}
 
