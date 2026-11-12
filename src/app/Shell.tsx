@@ -5,6 +5,7 @@ import { useProfile } from '@/domains/user/profile';
 import { TARGET_LANGS } from '@/languages/registry';
 import type { TargetLang } from '@/languages/types';
 import { ByChotto, Wordmark, langCode } from '@/ui/brand';
+import { LegalLinks } from '@/features/legal/LegalLinks';
 
 function Brand() {
   return (
@@ -69,6 +70,7 @@ export function Shell() {
         </header>
         <main className="shell-main">
           <Outlet />
+          <LegalLinks />
         </main>
       </div>
       <nav className="tabbar" aria-label="Main">
