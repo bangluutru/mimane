@@ -13,6 +13,7 @@ const ReviewPage = lazy(() => import('@/features/review/ReviewPage'));
 const ProgressPage = lazy(() => import('@/features/progress/ProgressPage'));
 const ImportPage = lazy(() => import('@/features/import/ImportPage'));
 const SettingsPage = lazy(() => import('@/features/settings/SettingsPage'));
+const LegalPage = lazy(() => import('@/features/legal/LegalPage'));
 
 function Loading() {
   return (
@@ -39,22 +40,33 @@ export function App() {
   return (
     <BrowserRouter basename={import.meta.env.BASE_URL}>
       <Suspense fallback={<Loading />}>
-        {!onboarded ? (
-          <Onboarding />
-        ) : (
-          <Routes>
-            <Route path="/lesson/:id" element={<PlayerPage />} />
-            <Route element={<Shell />}>
-              <Route index element={<HomePage />} />
-              <Route path="/library" element={<LibraryPage />} />
-              <Route path="/review" element={<ReviewPage />} />
-              <Route path="/progress" element={<ProgressPage />} />
-              <Route path="/import" element={<ImportPage />} />
-              <Route path="/settings" element={<SettingsPage />} />
-              <Route path="*" element={<Navigate to="/" replace />} />
-            </Route>
-          </Routes>
-        )}
+        <Routes>
+          {/* Legal pages open without onboarding: people should read them before using the app. */}
+          <Route path="/about" element={<LegalPage kind="about" />} />
+          <Route path="/privacy" element={<LegalPage kind="privacy" />} />
+          <Route path="/terms" element={<LegalPage kind="terms" />} />
+          <Route
+            path="*"
+            element={
+              !onboarded ? (
+                <Onboarding />
+              ) : (
+                <Routes>
+                  <Route path="/lesson/:id" element={<PlayerPage />} />
+                  <Route element={<Shell />}>
+                    <Route index element={<HomePage />} />
+                    <Route path="/library" element={<LibraryPage />} />
+                    <Route path="/review" element={<ReviewPage />} />
+                    <Route path="/progress" element={<ProgressPage />} />
+                    <Route path="/import" element={<ImportPage />} />
+                    <Route path="/settings" element={<SettingsPage />} />
+                    <Route path="*" element={<Navigate to="/" replace />} />
+                  </Route>
+                </Routes>
+              )
+            }
+          />
+        </Routes>
       </Suspense>
       <Toaster />
     </BrowserRouter>
